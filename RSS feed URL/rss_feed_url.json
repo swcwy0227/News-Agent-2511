@@ -1,30 +1,42 @@
-{
-    "Core_AI_Tech": [
-        "https://openai.com/blog/rss",
-        "https://nvidianews.nvidia.com/releases/rss",
-        "https://techcrunch.com/feed/",
-        "https://www.theverge.com/rss/index.xml",
-        "https://news.ycombinator.com/rss",
-        "https://www.reddit.com/r/technology/.rss",
-        "https://www.reddit.com/r/Futurology/.rss",
-        "https://36kr.com/feed"
-    ],
-    "Market_Finance_Policy": [
-        "https://feeds.bloomberg.com/technology/news.rss",
-        "https://www.reuters.com/pf/rss/technologyNews",
-        "https://rsshub.app/caixin/blog/master",
-        "https://www.whitehouse.gov/briefing-room/press-briefings/feed/",
-        "https://rsshub.app/gov/guowuyuan/zhengce",
-        "https://rsshub.app/gov/ndrc/fggz",
-        "https://rsshub.app/gov/miit/zcwj"
-    ],
-    "Corporate_Feeds": [
-        "https://blog.google/rss/",
-        "https://www.apple.com/newsroom/rss-feed.rss",
-        "https://www.tesla.com/blog/rss"
-    ],
-    "Social_Trends_Community": [
-        "https://rsshub.app/weibo/search/hot",
-        "https://www.v2ex.com/feed/tab/tech.xml"
-    ]
-}
+[
+    {
+        "name": "Core_AI_Tech",
+        "urls": [
+            "https://openai.com/blog/rss",
+            "https://nvidianews.nvidia.com/releases/rss",
+            "https://techcrunch.com/feed/",
+            "https://www.theverge.com/rss/index.xml",
+            "https://news.ycombinator.com/rss",
+            "https://www.reddit.com/r/technology/.rss",
+            "https://www.reddit.com/r/Futurology/.rss",
+            "https://36kr.com/feed"
+        ]
+    },
+    {
+        "name": "Market_Finance_Policy",
+        "urls": [
+            "https://feeds.bloomberg.com/technology/news.rss",
+            "https://www.reuters.com/pf/rss/technologyNews",
+            "https://rsshub.app/caixin/blog/master",
+            "https://www.whitehouse.gov/briefing-room/press-briefings/feed/",
+            "https://rsshub.app/gov/guowuyuan/zhengce",
+            "https://rsshub.app/gov/ndrc/fggz",
+            "https://rsshub.app/gov/miit/zcwj"
+        ]
+    },
+    {
+        "name": "Corporate_Feeds",
+        "urls": [
+            "https://blog.google/rss/",
+            "https://www.apple.com/newsroom/rss-feed.rss",
+            "https://www.tesla.com/blog/rss"
+        ]
+    },
+    {
+        "name": "Social_Trends_Community",
+        "urls": [
+            "https://rsshub.app/weibo/search/hot",
+            "https://www.v2ex.com/feed/tab/tech.xml"
+        ]
+    }
+]
