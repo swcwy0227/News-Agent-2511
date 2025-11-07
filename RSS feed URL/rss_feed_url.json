@@ -1,40 +1,34 @@
 {
-  "Foreign_Social_Media": [
-    "https://rsshub.app/twitter/trending/US",
-    "https://www.reddit.com/r/technology/.rss",
-    "https://www.reddit.com/r/Futurology/.rss"
-  ],
-  "Foreign_News_Sources": [
-    "https://feeds.bloomberg.com/technology/news.rss",
-    "https://techcrunch.com/feed/",
-    "https://www.reuters.com/pf/rss/technologyNews"
-  ],
-  "Foreign_Official_Announcements": [
-    "https://www.whitehouse.gov/briefing-room/press-briefings/feed/",
-    "https://www.apple.com/newsroom/rss-feed.rss",
-    "https://blog.google/rss/",
-    "https://nvidianews.nvidia.com/releases/rss",
-    "https://openai.com/blog/rss",
-    "https://www.tesla.com/blog/rss"
-  ],
-  "Foreign_Deep_Tech_Community": [
-    "https://news.ycombinator.com/rss"
-  ],
-  "China_Social_Media": [
-    "https://rsshub.app/weibo/search/hot",
-    "https://rsshub.app/bilibili/popular/all"
-  ],
-  "China_News_Sources": [
-    "https://rsshub.app/caixin/blog/master",
-    "https://36kr.com/feed",
-    "https://www.jiemian.com/feed/tech.xml"
-  ],
-  "China_Official_Announcements": [
-    "https://rsshub.app/gov/guowuyuan/zhengce",
-    "https://rsshub.app/gov/ndrc/fggz",
-    "https://rsshub.app/gov/miit/zcwj"
-  ],
-  "China_Deep_Tech_Community": [
-    "https://www.v2ex.com/feed/tab/tech.xml"
-  ]
+    "AI_Feeds": [
+        "https://openai.com/blog/rss",
+        "https://nvidianews.nvidia.com/releases/rss",
+        "https://techcrunch.com/feed/",
+        "https://news.ycombinator.com/rss",
+        "https://www.reddit.com/r/Futurology/.rss"
+    ],
+    "Tech_Feeds": [
+        "https://www.theverge.com/rss/index.xml",
+        "https://www.engadget.com/rss.xml",
+        "https://blog.google/rss/",
+        "https://www.apple.com/newsroom/rss-feed.rss",
+        "https://www.tesla.com/blog/rss",
+        "https://www.reddit.com/r/technology/.rss",
+        "https://36kr.com/feed",
+        "https://www.jiemian.com/feed/tech.xml",
+        "https://www.v2ex.com/feed/tab/tech.xml"
+    ],
+    "Finance_And_Policy": [
+        "https://feeds.bloomberg.com/technology/news.rss",
+        "https://www.reuters.com/pf/rss/technologyNews",
+        "https://rsshub.app/caixin/blog/master",
+        "https://www.whitehouse.gov/briefing-room/press-briefings/feed/",
+        "https://rsshub.app/gov/guowuyuan/zhengce",
+        "https://rsshub.app/gov/ndrc/fggz",
+        "https://rsshub.app/gov/miit/zcwj"
+    ],
+    "Social_Trends": [
+        "https://rsshub.app/twitter/trending/US",
+        "https://rsshub.app/weibo/search/hot",
+        "https://rsshub.app/bilibili/popular/all"
+    ]
 }
