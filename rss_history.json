@@ -2145,18 +2145,6 @@
         "published_date": "Wed, 08 Oct 2025 12:49:00 GMT",
         "first_seen": "2025-10-08T08:28:50.950669"
       },
-      "b31b4058245eb756cac2047bace9830820450d50de1e0c75b8a3b11ed3c0b0c4": {
-        "title": "员工少加班，才是提升人效？",
-        "link": "http://www.huxiu.com/article/4787460.html?f=wangzhan",
-        "published_date": "Wed, 08 Oct 2025 08:00:00 GMT",
-        "first_seen": "2025-10-08T08:28:02.660200"
-      },
-      "bd54c2701520ce4a043f7264e95457456ac16bb199c4c31f0f3507573c2fe1fa": {
-        "title": "We Found the 267 Best Prime Day Deals of 2025: Up To 55% Off",
-        "link": "https://www.wired.com/story/prime-day-deals-october-2025-1/",
-        "published_date": "Wed, 08 Oct 2025 08:12:00 GMT",
-        "first_seen": "2025-10-08T08:28:02.661354"
-      },
       "f568b582a5381aeecb40d2eb63aedf4f32be5a481290366e1374b66b34060749": {
         "title": "100 Best Prime Day Deals Under $100 (2025): Chargers, Earbuds, and More",
         "link": "https://www.wired.com/story/best-prime-day-deals-under-100-october-2025-1/",
@@ -13877,12 +13865,6 @@
       }
     },
     "Finance": {
-      "7cb9890ca4e6dfe6798546f22efbf4f752d2b340ae929a46acdc2e472b0dc03a": {
-        "title": "SoftBank to pay $5.4 billion for robotics producer, one of four areas it’s investing to realize ‘artificial super intelligence.’",
-        "link": "https://www.marketwatch.com/story/softbank-to-pay-5-4-billion-for-robotics-producer-one-of-four-areas-its-investing-to-realize-artificial-super-intelligence-df5b737b?mod=mw_rss_topstories",
-        "published_date": "Wed, 08 Oct 2025 07:50:00 GMT",
-        "first_seen": "2025-10-08T08:28:02.495126"
-      },
       "49e60f563339f89f71a998feb5cd79d0119217f0e47065751800d40b92988f87": {
         "title": "Inflation angst lingers for investors even as Treasury yields are little moved by Fed minutes",
         "link": "https://www.marketwatch.com/story/inflation-angst-lingers-for-investors-even-as-treasury-yields-are-little-moved-by-fed-minutes-36fd4feb?mod=mw_rss_topstories",
@@ -14366,8 +14348,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-11-07T08:16:42.101128",
-    "Technology": "2025-11-07T08:16:42.141817",
-    "Finance": "2025-11-07T08:16:41.986539"
+    "AI": "2025-11-07T08:28:19.742969",
+    "Technology": "2025-11-07T08:28:19.782684",
+    "Finance": "2025-11-07T08:28:19.632801"
   }
 }
