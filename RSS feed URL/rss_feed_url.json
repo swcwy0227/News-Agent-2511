@@ -36,6 +36,7 @@
         "name": "Social_Trends_Community",
         "urls": [
             "https://rsshub.app/weibo/search/hot",
+            "https://rsshub.app/bilibili/popular/all",
             "https://www.v2ex.com/feed/tab/tech.xml"
         ]
     }
