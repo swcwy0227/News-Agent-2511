@@ -1,24 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "7404a9478c0dc39eab9d643b90dcc23abad20172a599df2424b6b697c86f6fa9": {
-        "title": "1300000000000000！谷歌每月Tokens消耗量曝光（别数了是千万亿）",
-        "link": "https://www.qbitai.com/2025/10/340270.html",
-        "published_date": "Fri, 10 Oct 2025 06:55:00 GMT",
-        "first_seen": "2025-10-10T08:27:25.745344"
-      },
-      "4e76cc0a8b0fefe933af909d12c894a064214d952bfa634bb880364c54aac272": {
-        "title": "终于有人解决机器人洗手洗澡问题了",
-        "link": "https://www.qbitai.com/2025/10/340260.html",
-        "published_date": "Fri, 10 Oct 2025 06:48:00 GMT",
-        "first_seen": "2025-10-10T08:27:25.745481"
-      },
-      "9af3f25c6cd6f865e7a3bb6a14343b2d2df0600cf551b5c2fa7328043935a7cd": {
-        "title": "Sora2五天下载量破百万！超越ChatGPT增长，iOS免费榜霸榜第一",
-        "link": "https://www.qbitai.com/2025/10/340235.html",
-        "published_date": "Fri, 10 Oct 2025 06:31:00 GMT",
-        "first_seen": "2025-10-10T08:27:25.745674"
-      },
       "c45d2285508c6aa267b16790cac57e1cc50b781c6e2590968de12401ecaeb65e": {
         "title": "Building connected data ecosystems for AI at scale",
         "link": "https://www.technologyreview.com/2025/10/10/1124313/building-connected-data-ecosystems-for-ai-at-scale/",
@@ -1407,180 +1389,6 @@
       }
     },
     "Technology": {
-      "b9fc7c660b38160690293a4e397f18f225fc0a71f3ae2987c3464945bea3d04e": {
-        "title": "股价暴涨30倍，新易盛实控人37亿高位套现，\"易中天\"三巨头年内减持超60亿",
-        "link": "https://www.tmtpost.com/7717104.html",
-        "published_date": "Fri, 10 Oct 2025 16:16:00 GMT",
-        "first_seen": "2025-10-10T08:28:14.203015"
-      },
-      "12bdfe260fc486c097c890fe0bda884dad18533855c79efbc88f63f1dd90e5df": {
-        "title": "Is Now The Right Timing For Sports Tech Investment?",
-        "link": "https://www.tmtpost.com/7717175.html",
-        "published_date": "Fri, 10 Oct 2025 16:08:00 GMT",
-        "first_seen": "2025-10-10T08:28:14.203026"
-      },
-      "762950134ca42e8d1cd72235ba8827b6aef90a9c79eff40c41b8d93c1dfe4d01": {
-        "title": "10月10日A股分析：沪指跌0.94%报3897.03点，两市合计成交25156.2亿元，资金流出最多的行业板块为半导体",
-        "link": "https://www.tmtpost.com/7717123.html",
-        "published_date": "Fri, 10 Oct 2025 15:37:00 GMT",
-        "first_seen": "2025-10-10T08:28:14.203039"
-      },
-      "e8b4363242c82314d836d21ba073ee993cb338f3a127499484347a50e9c441c7": {
-        "title": "3.2亿美元，2025年基因疗法最大融资金额诞生",
-        "link": "https://www.tmtpost.com/7716986.html",
-        "published_date": "Fri, 10 Oct 2025 15:32:00 GMT",
-        "first_seen": "2025-10-10T08:28:14.203048"
-      },
-      "5c5ca4cdb71fe7ca892417f8801085d96c89e1a2a9cc8181625c75aad8896b53": {
-        "title": "Microsoft Reportedly Sees Datacenter Shortage to Stretch longer than Expected",
-        "link": "https://www.tmtpost.com/7717118.html",
-        "published_date": "Fri, 10 Oct 2025 15:19:00 GMT",
-        "first_seen": "2025-10-10T08:28:14.203057"
-      },
-      "162c723971f0172a5d7dcf27c5724ddeea2b836bd2c51ffa3313da9568fc2ec3": {
-        "title": "国内的健康数据交易卡在了哪里？",
-        "link": "https://www.tmtpost.com/7716999.html",
-        "published_date": "Fri, 10 Oct 2025 14:58:00 GMT",
-        "first_seen": "2025-10-10T08:28:14.203066"
-      },
-      "40d68e183a7f2053efde8b4bdebf0c2d5863e75a435b79baf03ed2b90428a3e2": {
-        "title": "跨境并购交割落定，中国医疗器械龙头能否开启新周期？",
-        "link": "https://www.tmtpost.com/7716993.html",
-        "published_date": "Fri, 10 Oct 2025 14:32:00 GMT",
-        "first_seen": "2025-10-10T08:28:14.203073"
-      },
-      "f72bf0805d847c5fd9756473dd5b72747dc1042d258ce2aa420b098eeee59c74": {
-        "title": "中国不想再当“卑微甲方”",
-        "link": "https://www.tmtpost.com/7716974.html",
-        "published_date": "Fri, 10 Oct 2025 14:32:00 GMT",
-        "first_seen": "2025-10-10T08:28:14.203081"
-      },
-      "17f65f390ac0672996849a04f031a7da47d0a9cdc34ff3b9dfa27ec3be8b0caf": {
-        "title": "电信、字节跑步进场，AI制药又迎来一批新“追求者”",
-        "link": "https://www.tmtpost.com/7717004.html",
-        "published_date": "Fri, 10 Oct 2025 14:32:00 GMT",
-        "first_seen": "2025-10-10T08:27:25.782269"
-      },
-      "294903309653a44568ca3f9bc35e3f54bbfc8502bc4c340d2a81553699808aa2": {
-        "title": "这届零食，越贵越高端？",
-        "link": "https://www.tmtpost.com/7716603.html",
-        "published_date": "Fri, 10 Oct 2025 14:19:00 GMT",
-        "first_seen": "2025-10-10T08:27:25.782600"
-      },
-      "2facd37a0c547ae1b48dad103c332864d3096df34079a7c792f1b46a4fc59519": {
-        "title": "Ant Group Unveils World’s Latest Trillion-Parameter Open-Source Language Model",
-        "link": "https://www.tmtpost.com/7717017.html",
-        "published_date": "Fri, 10 Oct 2025 14:15:00 GMT",
-        "first_seen": "2025-10-10T08:27:25.783773"
-      },
-      "8d35034c0ad1e79a5ef87ec483a85f8629dcce9462865c5c476ac7e843ac7982": {
-        "title": "万辰集团闯进“硬折扣”的新战场，破局之路并不好走",
-        "link": "https://www.tmtpost.com/7716759.html",
-        "published_date": "Fri, 10 Oct 2025 14:12:00 GMT",
-        "first_seen": "2025-10-10T08:27:25.784364"
-      },
-      "82c101feabe6ccd5374accf8979abee52ae4b2df1e141d07b075c2cad3dcaca9": {
-        "title": "Sam Altman Says OpenAI to Secure More Mega Deals following Tie-Ups with Nvidia and AMD",
-        "link": "https://www.tmtpost.com/7717001.html",
-        "published_date": "Fri, 10 Oct 2025 14:05:00 GMT",
-        "first_seen": "2025-10-10T08:27:25.785970"
-      },
-      "4275ec8ad9f9124220904a1e84c41d5122e960b766b4de5e9b629d5ce2e5119b": {
-        "title": "iPhone的广告语也学坏了",
-        "link": "https://www.tmtpost.com/7716565.html",
-        "published_date": "Fri, 10 Oct 2025 14:05:00 GMT",
-        "first_seen": "2025-10-10T08:27:25.786459"
-      },
-      "eeda1415ef0f08a4a5e068a436badc1ff70a88c0e42aa225dff3b68ae7c59fb0": {
-        "title": "加剧的老龄化，救不了殡葬业？",
-        "link": "https://www.tmtpost.com/7716660.html",
-        "published_date": "Fri, 10 Oct 2025 14:01:00 GMT",
-        "first_seen": "2025-10-10T08:27:25.786987"
-      },
-      "795cf236c03921981db2b94ad60563f7baaf5d9cbad2bcce5e11ad8f4c4009f0": {
-        "title": "36.9亿算力订单突遭终止，原实控人急转增持，海南华铁算力转型迷雾重重",
-        "link": "https://www.tmtpost.com/7716413.html",
-        "published_date": "Fri, 10 Oct 2025 13:56:00 GMT",
-        "first_seen": "2025-10-10T08:27:25.787905"
-      },
-      "59391a41f5189fb61f1cade3883a020d8432913d3722fd042995380ebd8e126b": {
-        "title": "美元基金VS传统药企，“抗生素第一股”争夺战",
-        "link": "https://www.tmtpost.com/7716783.html",
-        "published_date": "Fri, 10 Oct 2025 13:56:00 GMT",
-        "first_seen": "2025-10-10T08:27:25.788646"
-      },
-      "0ba652ef6863b732dc9c66edebbc3318fa436c70f61a24eb097f9696cd9dcf7a": {
-        "title": "The Real Measure of AI's Power Lies in Not Automation, but Augmentation, Say Industry Experts",
-        "link": "https://www.tmtpost.com/7716973.html",
-        "published_date": "Fri, 10 Oct 2025 13:50:00 GMT",
-        "first_seen": "2025-10-10T08:27:25.791111"
-      },
-      "273c944d5e7b08aba0f62b474d0c3f629b340abf29c5dd1b066d866b56983605": {
-        "title": "Huawei and ByteDance-Affiliated Firms Join Forces on Embodied Intelligence and Robotics",
-        "link": "https://www.tmtpost.com/7716971.html",
-        "published_date": "Fri, 10 Oct 2025 13:48:00 GMT",
-        "first_seen": "2025-10-10T08:27:25.793456"
-      },
-      "64c5f7b6f9ff89edf8eace2cb06dd04cbadf434ee741f0ab24e149029d2db5c1": {
-        "title": "终于，短剧向经典IP出手了",
-        "link": "https://www.tmtpost.com/7716792.html",
-        "published_date": "Fri, 10 Oct 2025 13:48:00 GMT",
-        "first_seen": "2025-10-10T08:27:25.794206"
-      },
-      "311aa4ab22622ba034aa5948a03e7a82cae1261277f59f67c91cf0810009d0ee": {
-        "title": "社交媒体的黄金时代，结束了",
-        "link": "http://www.geekpark.net/news/354839",
-        "published_date": "Fri, 10 Oct 2025 16:08:00 GMT",
-        "first_seen": "2025-10-10T08:27:25.794938"
-      },
-      "9f01aa067480bea4d2fcb018d706383a1de539d96cdeb547ace53d525f99e791": {
-        "title": "逆势降本：云上数据平台年复削减30%的治理实践",
-        "link": "https://www.infoq.cn/article/lgHiav5blTU6Sa8yaF7l?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 10 Oct 2025 15:37:00 GMT",
-        "first_seen": "2025-10-10T08:28:14.202977"
-      },
-      "b84dd05e8d765c61b219f0b98f0f201231d050a78322af096312011dee0a8b45": {
-        "title": "“微信这类App在美国未必行得通！”Sam 最新访谈：ChatGPT 是超级AI助手，不是全能应用",
-        "link": "https://www.infoq.cn/article/Ix4qCHwEaerhLvHIx45P?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 10 Oct 2025 14:49:00 GMT",
-        "first_seen": "2025-10-10T08:27:25.797800"
-      },
-      "8b93e57cdb2d100aad66dd0dec0113db21be8a53febdd2518f213a33e417c0d4": {
-        "title": "北大&作业帮团队提出 Text-to-SQL 新框架 Interactive-T2S，攻克宽表处理与低资源对齐难题",
-        "link": "https://www.infoq.cn/article/I40ffseVrfXEDmeXG1d8?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 10 Oct 2025 14:46:00 GMT",
-        "first_seen": "2025-10-10T08:27:25.800019"
-      },
-      "418019b311b9649100fbef1c2d3a035687423870307f9589f6676d7cc09621a8": {
-        "title": "Dreamer 4：通过想象训练，学习从线下数据中实现目标",
-        "link": "https://www.infoq.cn/article/F3VhoycRlj5WtTpmxcAc?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 10 Oct 2025 14:03:00 GMT",
-        "first_seen": "2025-10-10T08:27:25.801464"
-      },
-      "c7c4af797611e82da07ed009592d454878cbc7d7bd09468d6e92330c97b77fea": {
-        "title": "清华大学副教授艾清遥博士将出席QCon上海，分享动态化与参数化 RAG 技术探索",
-        "link": "https://www.infoq.cn/article/JqYKbNH4UJ8sWqtmxo1s?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 10 Oct 2025 13:55:00 GMT",
-        "first_seen": "2025-10-10T08:28:14.203001"
-      },
-      "b824a4233768e538fc6b82fda9f3e35e7440102ffb94f9dbf063e298d6590f7b": {
-        "title": "王健林首富变首负，被限高割肉还债？",
-        "link": "http://www.huxiu.com/article/4789099.html?f=wangzhan",
-        "published_date": "Fri, 10 Oct 2025 15:00:00 GMT",
-        "first_seen": "2025-10-10T08:27:25.803950"
-      },
-      "9f79376cb9e5ad6663b75a2eec7e10570dbb8b3c8c35c5be3e8c00336a5263c8": {
-        "title": "无人驾驶会是租车公司们的第二曲线么？",
-        "link": "http://www.huxiu.com/article/4789925.html?f=wangzhan",
-        "published_date": "Fri, 10 Oct 2025 14:58:00 GMT",
-        "first_seen": "2025-10-10T08:27:25.804750"
-      },
-      "13c6f027c8a953bc0758b8384c5fef985db800d003797e4db994ab830a0d1e2c": {
-        "title": "直播｜MeetCard 正式上线",
-        "link": "https://sspai.com/post/102977",
-        "published_date": "Fri, 10 Oct 2025 15:00:00 GMT",
-        "first_seen": "2025-10-10T08:27:25.806016"
-      },
       "7b595fe75d4a1e0ac4158a3ae5a574aed5fdf587d1b182aa1971289328ad4fb6": {
         "title": "承认自己开源不行？转型“美国DeepSeek”后，两个谷歌研究员的AI初创公司融到20亿美元，估值暴涨15倍！",
         "link": "https://www.infoq.cn/article/hONb3o2CK2teIiip6gcu?utm_source=rss&utm_medium=article",
@@ -12095,12 +11903,6 @@
       }
     },
     "Finance": {
-      "f780292bf29e4c599fc3ce0b272ecdc89397ede3a456600b30496d73d6eceb70": {
-        "title": "Follow the government money: the strategy that keeps working for UBS Wealth",
-        "link": "https://www.marketwatch.com/story/follow-the-government-money-the-strategy-that-keeps-working-for-ubs-wealth-5f4453af?mod=mw_rss_topstories",
-        "published_date": "Fri, 10 Oct 2025 07:20:00 GMT",
-        "first_seen": "2025-10-10T08:27:25.618471"
-      },
       "940bb3a0383583a47186ee5757137b9162fe551f7e1f381fe54ae5f48fe12368": {
         "title": "Silver prices are on track for a historic breakout. Why it has taken 45 years.",
         "link": "https://www.marketwatch.com/bulletins/redirect/go?g=fb33c6f3-edb4-4efd-8b87-b22a6a9b0490&mod=mw_rss_bulletins",
@@ -12272,8 +12074,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-11-09T08:13:13.262132",
-    "Technology": "2025-11-09T08:13:13.300696",
-    "Finance": "2025-11-09T08:13:13.146939"
+    "AI": "2025-11-09T23:10:24.295134",
+    "Technology": "2025-11-09T23:10:24.332798",
+    "Finance": "2025-11-09T23:10:24.183250"
   }
 }
