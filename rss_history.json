@@ -1,24 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "528437035b0c141063a22ca0a78af14c922cf3baa89db542ee514bc130192039": {
-        "title": "找出iPhone漏洞，库克给你200万美元",
-        "link": "https://www.qbitai.com/2025/10/340638.html",
-        "published_date": "Sat, 11 Oct 2025 06:32:00 GMT",
-        "first_seen": "2025-10-11T08:23:21.227676"
-      },
-      "c22e049774afdfee6fd30361268a342a25ba127f6aa07ff05aa22fb6328bf95b": {
-        "title": "超越ZIP的无损压缩来了！华盛顿大学让大模型成为无损文本压缩器",
-        "link": "https://www.qbitai.com/2025/10/340634.html",
-        "published_date": "Sat, 11 Oct 2025 06:23:00 GMT",
-        "first_seen": "2025-10-11T08:23:21.227858"
-      },
-      "a05205ab5332ffd52daf8c92a1b9bc5ba4fcde4776675f177d1934d4236e3698": {
-        "title": "斯坦福新论文：微调已死，自主上下文当立",
-        "link": "https://www.qbitai.com/2025/10/340612.html",
-        "published_date": "Sat, 11 Oct 2025 06:12:00 GMT",
-        "first_seen": "2025-10-11T08:23:21.228005"
-      },
       "74bf42ae3ed5258d65a51caddc4648f4a335159b5bcc35d159270d5d20660f84": {
         "title": "告别AI“乱画图表”！港中文团队发布首个结构化图像生成编辑系统",
         "link": "https://www.qbitai.com/2025/10/340648.html",
@@ -1335,102 +1317,6 @@
       }
     },
     "Technology": {
-      "151a01e6e6cd8ef013d85002a774c1b4afb8f4cc49ea48a5223e321761ddd61f": {
-        "title": "Zong Qinghou’s Brother Launches Competing Beverage Brand “Wa Xiaozhi,” Heating up Family Feud",
-        "link": "https://www.tmtpost.com/7718180.html",
-        "published_date": "Sat, 11 Oct 2025 16:11:00 GMT",
-        "first_seen": "2025-10-11T08:24:09.912166"
-      },
-      "255c6ae09a63e18fa64741cfa9ac3dcae2899946a821fe9acf944f96c637bf0f": {
-        "title": "又一批AI社交产品悄悄「死亡」了",
-        "link": "https://www.tmtpost.com/7718052.html",
-        "published_date": "Sat, 11 Oct 2025 15:05:00 GMT",
-        "first_seen": "2025-10-11T08:24:09.912114"
-      },
-      "4d647042423ae2e7ba7e89893dc343c48f836bfb0ba718b46afd178cbc3b3733": {
-        "title": "腾讯视频“封号”会员，合理吗？",
-        "link": "https://www.tmtpost.com/7718040.html",
-        "published_date": "Sat, 11 Oct 2025 15:05:00 GMT",
-        "first_seen": "2025-10-11T08:24:09.912178"
-      },
-      "d9309de20e580ce8877d642c3eec361f046010129bc3a633b37e7013ad53c436": {
-        "title": "滴滴自动驾驶完成20亿元D轮融资，累计融资超100亿",
-        "link": "https://www.tmtpost.com/7718116.html",
-        "published_date": "Sat, 11 Oct 2025 14:52:00 GMT",
-        "first_seen": "2025-10-11T08:24:09.912190"
-      },
-      "08b4f3a396c2caa5155a281a844a1ab8bfc38e404ca030a9f4086a55ae973689": {
-        "title": "“变重”的转转，靠金融“回血”",
-        "link": "https://www.tmtpost.com/7717574.html",
-        "published_date": "Sat, 11 Oct 2025 14:18:00 GMT",
-        "first_seen": "2025-10-11T08:24:09.912201"
-      },
-      "6682e0be1fc51aa859b777cec27135ea05a6dbb87af97a7dd3e538b6c2947388": {
-        "title": "丽珠医药做股东、30亿估值闯港股，新元素药业押注痛风药的背后",
-        "link": "https://www.tmtpost.com/7717764.html",
-        "published_date": "Sat, 11 Oct 2025 14:18:00 GMT",
-        "first_seen": "2025-10-11T08:24:09.912212"
-      },
-      "6257aa3074bb36cde65267a635cb59fd234b938de566fe05dc55eb0a8d1c0ff4": {
-        "title": "一个“缺水”省份，是如何逆袭成为水利大省的？",
-        "link": "https://www.tmtpost.com/7718026.html",
-        "published_date": "Sat, 11 Oct 2025 13:58:00 GMT",
-        "first_seen": "2025-10-11T08:24:09.912223"
-      },
-      "e93a0d3087ba2a0502c3fbda5453acfefa5d5572e81037ba88cfb194cdc2d922": {
-        "title": "OpenAI 卖货做视频，Anthropic 专心写代码，谁能赢？",
-        "link": "http://www.geekpark.net/news/354870",
-        "published_date": "Sat, 11 Oct 2025 15:04:00 GMT",
-        "first_seen": "2025-10-11T08:24:09.912235"
-      },
-      "a71bfd86aeca79b761dd50b29cf8ae935e5cceeefc82218518fb9bdd5f613c4e": {
-        "title": "一颗 1.8 纳米芯片，成了英特尔「最后的救赎」",
-        "link": "http://www.geekpark.net/news/354872",
-        "published_date": "Sat, 11 Oct 2025 15:02:00 GMT",
-        "first_seen": "2025-10-11T08:24:09.912145"
-      },
-      "7f8787f30e050019a99a9269b14b98e513b5a90d3184f72a71cf3a3b670a9762": {
-        "title": "这款 AI 调研神器，让我一键产生 1000 个「种子用户」｜AI 上新",
-        "link": "http://www.geekpark.net/news/354866",
-        "published_date": "Sat, 11 Oct 2025 13:56:00 GMT",
-        "first_seen": "2025-10-11T08:24:09.912248"
-      },
-      "ab7d69c1a0808d7226d4b1e2bb9cccf3dfa5446a4c06c18eb575de6963a78313": {
-        "title": "都用 GPT，为什么你没法中「百万大奖」？",
-        "link": "http://www.geekpark.net/news/354865",
-        "published_date": "Sat, 11 Oct 2025 13:56:00 GMT",
-        "first_seen": "2025-10-11T08:23:21.287872"
-      },
-      "b525f9ffee1b8c9b444291a6e7e0da0f000c1817ed259f64e5751e5597b5d0a9": {
-        "title": "ChatGPT 变身 App Store，「对话即应用」时代到了",
-        "link": "http://www.geekpark.net/news/354867",
-        "published_date": "Sat, 11 Oct 2025 13:54:00 GMT",
-        "first_seen": "2025-10-11T08:23:21.288657"
-      },
-      "61b9f6f0d4d77f15a993a8bffe9a0b4a4b9d52b20dbafab59be9dd0f64547cf8": {
-        "title": "画质不算强，体验却很棒：我的大疆 Osmo Nano 使用小记",
-        "link": "https://sspai.com/post/102919",
-        "published_date": "Sat, 11 Oct 2025 15:00:00 GMT",
-        "first_seen": "2025-10-11T08:23:21.289566"
-      },
-      "9bf5e4e2845171b21cdb6b844a7769962c0ef7afd8a0fa479ebd631ef63a7db2": {
-        "title": "模力工场 014 周 AI 应用榜：AI 领域论文复现神器上榜，PPT制作工具成为最佳工作搭档？",
-        "link": "https://www.infoq.cn/article/AcoSmSeYqCssi8fGoio2?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 11 Oct 2025 14:00:00 GMT",
-        "first_seen": "2025-10-11T08:23:21.290846"
-      },
-      "c2e5e1df6ff0543ddaa9d58dd857c0db01d82bad87283d233e9701dd700c80f6": {
-        "title": "Corvette E-Ray 2026 Review: Price, Specs, Availability",
-        "link": "https://www.wired.com/review/corvette-e-ray/",
-        "published_date": "Sat, 11 Oct 2025 06:00:00 GMT",
-        "first_seen": "2025-10-11T08:23:21.292149"
-      },
-      "ba55043f97c0179b8ab811aae3056e5bc9f4720b6ae0ebea2d7727b206184685": {
-        "title": "AI 时代的传统车企转型：广汽的“双核”战略、组织裂变与自研之路（上）｜行知数字中国",
-        "link": "https://www.infoq.cn/video/IoqbiY6T09Bma4VUu0bi?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 11 Oct 2025 08:30:00 GMT",
-        "first_seen": "2025-10-11T08:23:21.294027"
-      },
       "25b4bbb5d5789db30d97da4c803fc9fb8b7d10f959d804873c73b4f501ff5eab": {
         "title": "猪价狂跌、融资收紧，猪企能否熬过这个寒冬？| 行业风向标",
         "link": "https://www.tmtpost.com/7718399.html",
@@ -11438,8 +11324,8 @@
     }
   },
   "last_update": {
-    "AI": "2025-11-10T08:17:35.488375",
-    "Technology": "2025-11-10T08:17:35.526595",
-    "Finance": "2025-11-10T08:17:35.376818"
+    "AI": "2025-11-10T23:11:11.649264",
+    "Technology": "2025-11-10T23:11:11.687437",
+    "Finance": "2025-11-10T23:11:11.537848"
   }
 }
