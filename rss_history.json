@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "7e8f3e0a8e5624d9cf24e665722603f50b1df42f03e5fc2d06dd98b63ff33f1d": {
-        "title": "Hinton暴论：AI已经有意识，它自己不知道而已",
-        "link": "https://www.qbitai.com/2025/10/340674.html",
-        "published_date": "Sun, 12 Oct 2025 04:19:00 GMT",
-        "first_seen": "2025-10-12T12:49:55.517975"
-      },
-      "137da8013108f2d9ddb85784fa0eed5b1569d040a48368549cd8d19d1de85d05": {
-        "title": "拒绝小扎15亿美元offer的大佬，还是加入Meta了",
-        "link": "https://www.qbitai.com/2025/10/340662.html",
-        "published_date": "Sun, 12 Oct 2025 02:22:00 GMT",
-        "first_seen": "2025-10-12T12:49:55.517975"
-      },
       "a27550eaab1e05196ade92dd61a9719402dae7a272784c0d185320670ac7b7c2": {
         "title": "Meta「分割一切」3.0曝光！技能语义分割加入概念提示，好好玩，要爆了",
         "link": "https://www.qbitai.com/2025/10/340783.html",
@@ -1311,132 +1299,6 @@
       }
     },
     "Technology": {
-      "bab61e1616ce32f152d4e1e8bc6817b6bf8aee86cc432424b27be0bdc427ecf5": {
-        "title": "萝卜快跑，赢得比赛的最后一块拼图",
-        "link": "https://www.tmtpost.com/7718424.html",
-        "published_date": "Sun, 12 Oct 2025 11:48:00 GMT",
-        "first_seen": "2025-10-12T12:50:45.411868"
-      },
-      "401cbb303aa7dad608a06a4d8dff8a34ce365d324a5bf9b304ff37f812de923b": {
-        "title": "“有病去医院”，王老吉被加多宝整“破防”了",
-        "link": "https://www.tmtpost.com/7718487.html",
-        "published_date": "Sun, 12 Oct 2025 11:48:00 GMT",
-        "first_seen": "2025-10-12T12:50:45.411868"
-      },
-      "403bc65e28a39ff965d2805bd620c860534704570f0db52fdfaeefc4ddf0a289": {
-        "title": "四个关键问题，拆解宗馥莉二次请辞",
-        "link": "https://www.tmtpost.com/7718480.html",
-        "published_date": "Sun, 12 Oct 2025 11:08:00 GMT",
-        "first_seen": "2025-10-12T12:50:45.411868"
-      },
-      "f5b5200e187f2957e4fca7e5dc26e29cf295cd4b574a02364eb34ab00ec672ac": {
-        "title": "一个娃哈哈正变成娃多多",
-        "link": "https://www.tmtpost.com/7718476.html",
-        "published_date": "Sun, 12 Oct 2025 11:00:00 GMT",
-        "first_seen": "2025-10-12T12:50:45.411868"
-      },
-      "3826f8a45829679518d6900ec73c65671b0aae64bfca7eedae9a4e1abe207f9b": {
-        "title": "湖南“最牛”的长沙银行，也到了必须“换活法”的时候",
-        "link": "https://www.tmtpost.com/7718432.html",
-        "published_date": "Sun, 12 Oct 2025 10:51:00 GMT",
-        "first_seen": "2025-10-12T12:50:45.411868"
-      },
-      "53ff537f58fd2606c47dd8da945c662721582081387cf6ee3375b8ef1d4c2558": {
-        "title": "金力永磁Q3净利狂飙217%：稀土永磁龙头的“逆周期”突围与三重暗礁",
-        "link": "https://www.tmtpost.com/7718359.html",
-        "published_date": "Sun, 12 Oct 2025 10:26:00 GMT",
-        "first_seen": "2025-10-12T12:49:55.582380"
-      },
-      "abc6957818f5d98bb8b9ec46eb2bf3ce1f76f825b5c81809d8b77b30b4925083": {
-        "title": "投资逻辑「红宝书」之：稀土",
-        "link": "https://www.tmtpost.com/7718421.html",
-        "published_date": "Sun, 12 Oct 2025 10:25:00 GMT",
-        "first_seen": "2025-10-12T12:49:55.582380"
-      },
-      "2c21740ecc13a7622d4969f7bad477c1d43162815c9e11ce67091706da5bfc49": {
-        "title": "小红书终于到了满地捡钱的阶段",
-        "link": "https://www.tmtpost.com/7718344.html",
-        "published_date": "Sun, 12 Oct 2025 10:08:00 GMT",
-        "first_seen": "2025-10-12T12:49:55.582380"
-      },
-      "df48a0f55a382331730ece882301fad0ace038ce9c38ba446f193f1556850fd9": {
-        "title": "这个假期，烟火小店反杀连锁餐饮",
-        "link": "https://www.tmtpost.com/7718324.html",
-        "published_date": "Sun, 12 Oct 2025 09:55:00 GMT",
-        "first_seen": "2025-10-12T12:49:55.583385"
-      },
-      "db4c081f54272429357265ac25f8c5d31a33cd8e7d92552c60d69bca07bb8860": {
-        "title": "字节跳动入局锂电赛道：一场科技巨头与能源革命的碰撞",
-        "link": "https://www.tmtpost.com/7718364.html",
-        "published_date": "Sun, 12 Oct 2025 09:55:00 GMT",
-        "first_seen": "2025-10-12T12:50:45.411361"
-      },
-      "2e3a696ad97ea39df76e826db18913402d1b79f20c9f21be04ee9b41af9e60a4": {
-        "title": "微软AKS Automatic向公众开放",
-        "link": "https://www.infoq.cn/article/TIT8vMP92108PptyiasK?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 12 Oct 2025 10:00:00 GMT",
-        "first_seen": "2025-10-12T12:49:55.583385"
-      },
-      "b400389b172eba3c52ab1f8613807e1eae0b82a080d33c7b967c788a3f5aa307": {
-        "title": "零代码部署工业数据平台：TRAE + TDengine IDMP 实践",
-        "link": "https://www.infoq.cn/article/DxT4xurhk0151KdyrBoV?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 12 Oct 2025 10:00:00 GMT",
-        "first_seen": "2025-10-12T12:50:45.411361"
-      },
-      "9434536082bd94a1d64b0db32bbca069763a9d69cfbf5ca7f41559f17887fae0": {
-        "title": "客户端 AI Coding 实践：从 PRD 到代码直出｜QCon 上海",
-        "link": "https://www.infoq.cn/article/y42vK1CIJrSNeBmsTBYJ?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 12 Oct 2025 09:52:00 GMT",
-        "first_seen": "2025-10-12T12:49:55.584384"
-      },
-      "44742e67f2de91cada231eec7f5d2fd9e3cbcf2c8d982e6a2c04faa74f60875c": {
-        "title": "Java近期新闻：JDK 26发布时间表、GlassFish、Spring AI、Helidon、Mandrel 25、Seed4j",
-        "link": "https://www.infoq.cn/article/CbKEiHvakYe35cb7lp6k?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 12 Oct 2025 08:00:00 GMT",
-        "first_seen": "2025-10-12T12:50:45.411868"
-      },
-      "d6783d15d66b702cb356f660b157c8235c2a71494a2cb92b61f013e54db84113": {
-        "title": "巨头们“合纵连横”，企图锁死我们科技发展？",
-        "link": "http://www.huxiu.com/article/4789210.html?f=wangzhan",
-        "published_date": "Sun, 12 Oct 2025 09:00:00 GMT",
-        "first_seen": "2025-10-12T12:50:45.411868"
-      },
-      "ff9aa52eeceffaae23272ac46eb6a9949fed5b9774574a2dfd2984aa0f7f65ca": {
-        "title": "马斯克脑机公司展示脑机控制机械臂；三星中国发布折叠屏新机，16999 元起售；滴滴自动驾驶获 20 亿元融资 | 极客早知道",
-        "link": "http://www.geekpark.net/news/354883",
-        "published_date": "Sun, 12 Oct 2025 08:59:00 GMT",
-        "first_seen": "2025-10-12T12:50:45.411868"
-      },
-      "40e6ffbc8c20322b6f1ddf77537897d4bf2534b1c97c0dd2b713e91f349dcca8": {
-        "title": "特朗普新一轮高额关税背后：从贸易摩擦，到经济战争",
-        "link": "https://www.tmtpost.com/7718550.html",
-        "published_date": "Sun, 12 Oct 2025 15:48:00 GMT",
-        "first_seen": "2025-10-12T08:27:59.801176"
-      },
-      "4806a9e5478fa49fed2ab7b65f9f0371873f36d990abcd22a004d79b024f7b27": {
-        "title": "大疆VS影石，天才的烦恼",
-        "link": "https://www.tmtpost.com/7718532.html",
-        "published_date": "Sun, 12 Oct 2025 15:48:00 GMT",
-        "first_seen": "2025-10-12T08:27:59.801319"
-      },
-      "3ac302de800a621a266812d8503446bdfc6b23f1d68486faa46f827f5a784812": {
-        "title": "靠“克隆地球”吸金8亿！五一视界闯港交所：4年累亏5亿，2024年研发接近腰斩",
-        "link": "https://www.tmtpost.com/7718440.html",
-        "published_date": "Sun, 12 Oct 2025 15:41:00 GMT",
-        "first_seen": "2025-10-12T08:27:59.801524"
-      },
-      "caf865ab99719ac8882c12131aa2949806f35f38f43cf8c36c6f576877bc31d6": {
-        "title": "年入800亿的“直男品牌”，“背刺”小红书女孩？",
-        "link": "https://www.tmtpost.com/7718536.html",
-        "published_date": "Sun, 12 Oct 2025 15:41:00 GMT",
-        "first_seen": "2025-10-12T08:27:59.801719"
-      },
-      "f59303793a17a85c43e156be2bdf743d342b2bf05c8d6dfbe95fc58f9e1719e5": {
-        "title": "我的 Logseq 标签化本地电子书库管理方案",
-        "link": "https://sspai.com/post/102883",
-        "published_date": "Sun, 12 Oct 2025 15:25:00 GMT",
-        "first_seen": "2025-10-12T08:27:59.801959"
-      },
       "45cc65aaed62bc1e38bfe11c5606b215a34619c20db7449f2e783dfd2b07b59e": {
         "title": "撕开铁幕裂缝：国产手术机器人的千亿逆袭",
         "link": "https://www.tmtpost.com/7717628.html",
@@ -11029,8 +10891,8 @@
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-11T08:15:56.151638",
-    "Technology": "2025-11-11T08:15:56.190396",
-    "Finance": "2025-11-11T08:15:56.031065"
+    "AI": "2025-11-11T23:10:41.931480",
+    "Technology": "2025-11-11T23:10:41.969096",
+    "Finance": "2025-11-11T23:10:41.821055"
   }
 }
