@@ -1299,78 +1299,6 @@
       }
     },
     "Technology": {
-      "45cc65aaed62bc1e38bfe11c5606b215a34619c20db7449f2e783dfd2b07b59e": {
-        "title": "撕开铁幕裂缝：国产手术机器人的千亿逆袭",
-        "link": "https://www.tmtpost.com/7717628.html",
-        "published_date": "Sun, 12 Oct 2025 18:34:00 GMT",
-        "first_seen": "2025-10-12T23:18:17.785629"
-      },
-      "e36b11b436a7a2fe3d18a6ddc95d6e581c4a15ab24291b6cb8f8e6239291b572": {
-        "title": "宗馥莉出局，一场接班剧本如何演变成治理失衡",
-        "link": "https://www.tmtpost.com/7718423.html",
-        "published_date": "Sun, 12 Oct 2025 18:33:00 GMT",
-        "first_seen": "2025-10-12T23:18:17.785640"
-      },
-      "301414fc6ce374b43333a8fdc185bf55223282ca628be211f7a409810eaa0fdb": {
-        "title": "韩国电影也不行了",
-        "link": "https://www.tmtpost.com/7717707.html",
-        "published_date": "Sun, 12 Oct 2025 18:32:00 GMT",
-        "first_seen": "2025-10-12T23:17:29.480796"
-      },
-      "d5003e41a36f507f6ddc8dcb4853353185918e0eee816241c29b29636a0b39ea": {
-        "title": "土洋萝卜全球竞速，胜负手要看“东风”",
-        "link": "https://www.tmtpost.com/7718362.html",
-        "published_date": "Sun, 12 Oct 2025 18:31:00 GMT",
-        "first_seen": "2025-10-12T23:18:17.785650"
-      },
-      "1346023cfdcacfe2ab7e937005afd6020898e72f24a48edc10f0dc6fea99b71e": {
-        "title": "高通踩线，中国出手：车载芯片并购进入高压区",
-        "link": "https://www.tmtpost.com/7718430.html",
-        "published_date": "Sun, 12 Oct 2025 18:30:00 GMT",
-        "first_seen": "2025-10-12T23:18:17.785587"
-      },
-      "ee693589d464e31622a3e85d716ceffe14880ebbf65195f06d5c7504ea3ebfc6": {
-        "title": "大话\"混改\"",
-        "link": "https://www.tmtpost.com/7718451.html",
-        "published_date": "Sun, 12 Oct 2025 18:29:00 GMT",
-        "first_seen": "2025-10-12T23:17:29.481423"
-      },
-      "a6cffc55430c8e10ea27cf6bb3af1560bc787bad6f31c26082d8573430c441eb": {
-        "title": "A股又迎天价离婚案，“分手费”高达34亿",
-        "link": "https://www.tmtpost.com/7718584.html",
-        "published_date": "Sun, 12 Oct 2025 18:22:00 GMT",
-        "first_seen": "2025-10-12T23:18:17.785660"
-      },
-      "a350547e6215a566ebb680b9e6310bf8a5a905e5234e7e231dcab917bbdbb861": {
-        "title": "国庆档音乐节复盘: 超60组流量扎堆，谁才是带票之王？",
-        "link": "https://www.tmtpost.com/7718582.html",
-        "published_date": "Sun, 12 Oct 2025 18:22:00 GMT",
-        "first_seen": "2025-10-12T23:18:17.785670"
-      },
-      "172b210aeefd109c33fcef3721ef46853b24f16955a3f2c8ef53b47550818eaa": {
-        "title": "Meta Ray-Ban Display 首发体验合集：悬浮在现实中的一张便签",
-        "link": "http://www.geekpark.net/news/354887",
-        "published_date": "Sun, 12 Oct 2025 18:01:00 GMT",
-        "first_seen": "2025-10-12T23:18:17.785682"
-      },
-      "87edd3b146d2bce9e34b9ad1465f016b845545241832e267591852ac2cfd93c4": {
-        "title": "OriginOS 6 深度体验：当操作系统回归「体验为王」",
-        "link": "http://www.geekpark.net/news/354886",
-        "published_date": "Sun, 12 Oct 2025 17:57:00 GMT",
-        "first_seen": "2025-10-12T23:18:17.785616"
-      },
-      "ed35de7e9fee9f30e93555a8c76a8fb2eefd21d58ce8ae54b35f6d95ed73017e": {
-        "title": "滴滴自动驾驶不甘落后",
-        "link": "http://www.huxiu.com/article/4790743.html?f=wangzhan",
-        "published_date": "Sun, 12 Oct 2025 15:46:00 GMT",
-        "first_seen": "2025-10-12T23:18:17.785729"
-      },
-      "4c6acbb6bc0d11063e28084a055ce4f1221b158c78f84b3b779d8116150ac9cd": {
-        "title": "女装没救了，退货率冲破天花板？",
-        "link": "http://www.huxiu.com/article/4789101.html?f=wangzhan",
-        "published_date": "Sun, 12 Oct 2025 14:00:00 GMT",
-        "first_seen": "2025-10-12T23:18:17.785743"
-      },
       "6855856686649429d3d68fbc7d8beec272263beda8c8c77699fbd461133224d4": {
         "title": "China Mobile Plans Largest Domestic AI Computing Infrastructure and to Double Investment by 2028",
         "link": "https://www.tmtpost.com/7719344.html",
@@ -10891,8 +10819,8 @@
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-11T23:10:41.931480",
-    "Technology": "2025-11-11T23:10:41.969096",
-    "Finance": "2025-11-11T23:10:41.821055"
+    "AI": "2025-11-12T05:13:00.126477",
+    "Technology": "2025-11-12T05:13:00.163973",
+    "Finance": "2025-11-12T05:13:00.011593"
   }
 }
