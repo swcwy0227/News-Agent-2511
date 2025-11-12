@@ -1287,90 +1287,6 @@
       }
     },
     "Technology": {
-      "48d228786ece2e8ebe5f62bcf0d189776aaad165eeed38a9bae967ef140b8d3a": {
-        "title": "【产业互联网周报】《时代》公布年度发明榜单，宇树、DeepSeek上榜；AI相关债券已达1.2万亿美元，超越银行成投资级市场最大板块；AMD和OpenAI正在启动大规模AI算力扩建计划",
-        "link": "https://www.tmtpost.com/7719534.html",
-        "published_date": "Mon, 13 Oct 2025 15:55:00 GMT",
-        "first_seen": "2025-10-13T08:35:41.540949"
-      },
-      "792dc70c236aa9fd3ac99e474e608112272240c534baae59bf375509395c6234": {
-        "title": "10亿，又一投资美妆的基金来了",
-        "link": "https://www.tmtpost.com/7719527.html",
-        "published_date": "Mon, 13 Oct 2025 15:46:00 GMT",
-        "first_seen": "2025-10-13T08:35:41.540961"
-      },
-      "440efa93c19a5ddf5ec4671813382414214cea4ddb6c5436fe1217c779741a6f": {
-        "title": "10月13日A股分析：沪指微跌0.19%，两市成交额缩量1608亿，主力资金净流出460亿，小金属与贵金属成避风港",
-        "link": "https://www.tmtpost.com/7719476.html",
-        "published_date": "Mon, 13 Oct 2025 15:36:00 GMT",
-        "first_seen": "2025-10-13T08:35:41.540975"
-      },
-      "9d66bfdc3c09be9d3c907195518f1fab0830565548645d0f5f05673771c8181f": {
-        "title": "辉瑞首家妥协，美国降药价将如何影响全球创新药市场？",
-        "link": "https://www.tmtpost.com/7719439.html",
-        "published_date": "Mon, 13 Oct 2025 15:14:00 GMT",
-        "first_seen": "2025-10-13T08:35:41.540881"
-      },
-      "5d4dae127c3259de34841f386ada452d28be2467d83784a793ce17bc17897666": {
-        "title": "9块9成过去时，咖啡价格战卷到2块9",
-        "link": "https://www.tmtpost.com/7719475.html",
-        "published_date": "Mon, 13 Oct 2025 15:14:00 GMT",
-        "first_seen": "2025-10-13T08:35:41.540986"
-      },
-      "bdd23ccbc8df7819aae6a65831e78f8898057c163f51b8904c999d246032666d": {
-        "title": "滴普科技通过聆讯，驶入企业级AI蓝海暗流",
-        "link": "https://www.tmtpost.com/7719474.html",
-        "published_date": "Mon, 13 Oct 2025 15:14:00 GMT",
-        "first_seen": "2025-10-13T08:35:41.540910"
-      },
-      "d7030e0247af3a1d8482d54196340f8b996a311c305d6a4fc5d6aa06f1f08373": {
-        "title": "王老吉加多宝隔空互怼，凉茶争夺战蔓延至海外市场",
-        "link": "https://www.tmtpost.com/7719467.html",
-        "published_date": "Mon, 13 Oct 2025 14:52:00 GMT",
-        "first_seen": "2025-10-13T08:35:41.540996"
-      },
-      "3a34faa1fbe107d287101968660fe6165de49fa3a3a96649414669cb145f5ba5": {
-        "title": "Silicon Valley’s Secret to Innovation is Transfer of People: Says Former Stanford President",
-        "link": "https://www.tmtpost.com/7719445.html",
-        "published_date": "Mon, 13 Oct 2025 14:31:00 GMT",
-        "first_seen": "2025-10-13T08:35:41.541011"
-      },
-      "16449fac46a514bb8d39c74a1735a596b876a250ab30c4f2c62dac52a116f883": {
-        "title": "在投漫剧近2000部，超6成播放量不足100万？",
-        "link": "https://www.tmtpost.com/7719329.html",
-        "published_date": "Mon, 13 Oct 2025 13:44:00 GMT",
-        "first_seen": "2025-10-13T08:35:41.541022"
-      },
-      "ea081443865b339682e4b3b2d47aa1e55c68733f233b21378280c4e070ec569f": {
-        "title": "GitHub新增后量子SSH密钥交换算法，保障Git数据传输安全.",
-        "link": "https://www.infoq.cn/article/T1ZlDBzusarjiDqKMaUe?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 13 Oct 2025 15:00:00 GMT",
-        "first_seen": "2025-10-13T08:34:53.164825"
-      },
-      "98652d3b8707d6b4076ef9980b6d8e2b974378b5939851c355bb05bde6da45dd": {
-        "title": "为何底层数据湖决定了 AI Agent 的上限？",
-        "link": "https://www.infoq.cn/article/79ENi9gGC2JzoZBIrbaY?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 13 Oct 2025 14:58:00 GMT",
-        "first_seen": "2025-10-13T08:34:53.165330"
-      },
-      "25379cb1c90acc6c277d586da40ed2d34f981ea13c08602517814192e377bafd": {
-        "title": "从 “鬼探头惊魂”到“城市自由行”：自动驾驶如何靠数据、模型、软件破局？",
-        "link": "https://www.infoq.cn/article/UH1YXtF43XXw58EC9Oq8?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 13 Oct 2025 14:23:00 GMT",
-        "first_seen": "2025-10-13T08:34:53.166162"
-      },
-      "443542ad6974e29a90e34a7ef730fadd17b44a6cb000dada93e19a1c044f11e1": {
-        "title": "Meta发布了React 19.2，包括Activity API、Cache Signals和SSR增强特性",
-        "link": "https://www.infoq.cn/article/fGECiMZRNftJTES3wzbF?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 13 Oct 2025 14:06:00 GMT",
-        "first_seen": "2025-10-13T08:35:41.540929"
-      },
-      "6ee5ddfc53a64514b4d404a44fcf46b09063000a19d3a3f38a2c975a432ca8e6": {
-        "title": "为捕捉新视角提供更多可能：摄影师 Austin Mann 评 iPhone 17 Pro",
-        "link": "https://sspai.com/post/102934",
-        "published_date": "Mon, 13 Oct 2025 14:39:00 GMT",
-        "first_seen": "2025-10-13T08:34:53.168304"
-      },
       "27bda7e8cee6c4a1499d468a0611f46804357600b6253b9810bdcb5c21126005": {
         "title": "小米，再不反思就晚了",
         "link": "http://www.huxiu.com/article/4791228.html?f=wangzhan",
@@ -10621,8 +10537,8 @@
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-12T08:16:34.945313",
-    "Technology": "2025-11-12T08:16:34.984364",
-    "Finance": "2025-11-12T08:16:34.834620"
+    "AI": "2025-11-12T23:11:26.710389",
+    "Technology": "2025-11-12T23:11:26.748657",
+    "Finance": "2025-11-12T23:11:26.597984"
   }
 }
