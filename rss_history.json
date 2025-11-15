@@ -1,30 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "a496727d5a8d20cf33080d78af5163e0324fc32c007622232365fd9ec478b92a": {
-        "title": "Coral NPU: A full-stack platform for Edge AI",
-        "link": "https://research.google/blog/coral-npu-a-full-stack-platform-for-edge-ai/",
-        "published_date": "Wed, 15 Oct 2025 13:07:00 GMT",
-        "first_seen": "2025-10-15T23:18:00.895486"
-      },
-      "17ecd873cd615e7fa1c31dce1f114a1d18830759691233c995ea8ce00974af7c": {
-        "title": "Sora2不够香了！国产AI视频模型已能边看边生成，生成快还互动佳",
-        "link": "https://www.qbitai.com/2025/10/342093.html",
-        "published_date": "Wed, 15 Oct 2025 11:15:00 GMT",
-        "first_seen": "2025-10-15T23:18:00.895671"
-      },
-      "9918a063ec8aa7a4a630be9ca595ea61ec7675b65b5bf961fa009765c11becf8": {
-        "title": "开源模型TOP5，被中国厂商包圆了",
-        "link": "https://www.qbitai.com/2025/10/342036.html",
-        "published_date": "Wed, 15 Oct 2025 08:37:00 GMT",
-        "first_seen": "2025-10-15T23:18:00.895843"
-      },
-      "078b951014bd7c672ff66291b405e670ea86bb7c2f1d436d116b3b445096032d": {
-        "title": "Robotaxi逐鹿香港上市，小马和文远同日公告了",
-        "link": "https://www.qbitai.com/2025/10/342026.html",
-        "published_date": "Wed, 15 Oct 2025 08:36:00 GMT",
-        "first_seen": "2025-10-15T23:18:00.896067"
-      },
       "1d3013c1741890ee104b0d6f744a5503f4ca4692f5925d5f1571e017b1e0b329": {
         "title": "“2025骁龙人工智能创新应用大赛” 正式启动，寻找最具想象力的AI创意开发者！",
         "link": "https://www.qbitai.com/2025/10/342252.html",
@@ -1131,174 +1107,6 @@
       }
     },
     "Technology": {
-      "b0acfcaa27e711d314b9234c6793373f2784b9f7b2801c6cab990e0dedf70dcb": {
-        "title": "使用 Snowflake Workload Identity Federation 进行保密 | 技术实践",
-        "link": "https://www.infoq.cn/article/CBQg8GvG4kj2i1evosIe?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 15 Oct 2025 22:31:00 GMT",
-        "first_seen": "2025-10-15T23:18:49.299904"
-      },
-      "0607f6ac2594896f1c821549e9a478b268f9eb43f22090876d70a38b4a7351f8": {
-        "title": "模力工场 015 周 AI 应用榜：科研人狂喜！AIspire一键帮你读文献，学而思九章大模型登榜",
-        "link": "https://www.infoq.cn/article/UcHpiND4mSQgRDRgIEHe?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 15 Oct 2025 18:00:00 GMT",
-        "first_seen": "2025-10-15T23:18:49.299963"
-      },
-      "9789c5e948f6298dcd9062e5d829788bb1ddbc4b3a2e119410cd6240d085db38": {
-        "title": "效率提升 45%！TRAE 辅助下的 uni-app 跨端小程序工程化开发实践",
-        "link": "https://www.infoq.cn/article/sEBV1wKJNoKXIZjrjZBV?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 15 Oct 2025 16:40:00 GMT",
-        "first_seen": "2025-10-15T23:18:49.299975"
-      },
-      "55e4a2a33041fb830b1e91ca7013de763697f9cf4284c67bb12e1a1c1b5b4e98": {
-        "title": "让“好用的 AI”加速落地，腾讯云发布 2025 全球数字生态大会特辑",
-        "link": "https://www.infoq.cn/article/GIX61HmPj5XzPUNR3NCV?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 15 Oct 2025 16:39:00 GMT",
-        "first_seen": "2025-10-15T23:18:49.299934"
-      },
-      "5738f404db8ebfd99dd8bb5c3c3de99e1be72d2f06e5ad32906fef3705bd1c40": {
-        "title": "AI浪潮下，中企闯中东",
-        "link": "https://www.tmtpost.com/7722413.html",
-        "published_date": "Wed, 15 Oct 2025 20:55:00 GMT",
-        "first_seen": "2025-10-15T23:18:49.299986"
-      },
-      "604251da46bcca7cfc2f14ed8d71f3a4f00c513d3304337019807625b630dda6": {
-        "title": "皇庭国际重组梦碎，深圳皇庭广场遭以物抵债，净资产转负恐触发退市风险",
-        "link": "https://www.tmtpost.com/7722430.html",
-        "published_date": "Wed, 15 Oct 2025 20:06:00 GMT",
-        "first_seen": "2025-10-15T23:18:49.299997"
-      },
-      "ee0129c77f435b93cd5379e190ef4608f21f63d45b05a9a5a8ba5c177463327a": {
-        "title": "啤酒行业，迎来真正的“野蛮人”",
-        "link": "https://www.tmtpost.com/7722365.html",
-        "published_date": "Wed, 15 Oct 2025 19:18:00 GMT",
-        "first_seen": "2025-10-15T23:18:49.300007"
-      },
-      "bfdb67abd9eda7c9e2bc57e2fe977035730b04b03575b6253fa984c564c634af": {
-        "title": "自由职业“伴游”也卷起来了，现在流行“技能+伴游”",
-        "link": "https://www.tmtpost.com/7722357.html",
-        "published_date": "Wed, 15 Oct 2025 19:13:00 GMT",
-        "first_seen": "2025-10-15T23:18:49.300018"
-      },
-      "ceaf8d45be8c7140a4837c336d6cb49b8977abcdc14577502e754013578ea967": {
-        "title": "直播间的红利，终于轮到品牌方了",
-        "link": "https://www.tmtpost.com/7722343.html",
-        "published_date": "Wed, 15 Oct 2025 19:13:00 GMT",
-        "first_seen": "2025-10-15T23:18:49.300027"
-      },
-      "f84813c4227affc2e9e60f46105b8ae07161f7f66bcc2d4aeb6dbff1d5754b9c": {
-        "title": "头部玩家开始结盟，消费机器人的“iphone时刻”来了？",
-        "link": "https://www.tmtpost.com/7722325.html",
-        "published_date": "Wed, 15 Oct 2025 19:13:00 GMT",
-        "first_seen": "2025-10-15T23:18:00.945088"
-      },
-      "87330e61ca2daa504ad4be276fc6458a69505b31d22ed29c7400cc8095fe3f98": {
-        "title": "闻泰惊醒梦中人",
-        "link": "https://www.tmtpost.com/7722363.html",
-        "published_date": "Wed, 15 Oct 2025 19:13:00 GMT",
-        "first_seen": "2025-10-15T23:18:00.945356"
-      },
-      "8c47713d1a7e78b1f60949d053d4b8a1405b3f14280ea9b2d9dcf28bb5b60833": {
-        "title": "阿斯麦 ASML：AI Capex 加 buff，最坏时期已过！",
-        "link": "https://www.tmtpost.com/7722276.html",
-        "published_date": "Wed, 15 Oct 2025 18:56:00 GMT",
-        "first_seen": "2025-10-15T23:18:00.946109"
-      },
-      "733b13ecc9167763c26af99fc8e33a6cdbceee10359bb476c5dd68591a4bc2a0": {
-        "title": "从付费到分账，独立APP撑起短剧新时代",
-        "link": "https://www.tmtpost.com/7722252.html",
-        "published_date": "Wed, 15 Oct 2025 18:56:00 GMT",
-        "first_seen": "2025-10-15T23:18:00.946614"
-      },
-      "3488ab5880224394c02409ea4475a9e320f809b3ba152e3355fa6b8b3339db44": {
-        "title": "爱优腾芒为何总“招骂”？",
-        "link": "https://www.tmtpost.com/7722277.html",
-        "published_date": "Wed, 15 Oct 2025 18:56:00 GMT",
-        "first_seen": "2025-10-15T23:18:00.947015"
-      },
-      "f2e6a69bd2b313128f75edde8605ba8a38b0e4feea8256c660623ea65f2040be": {
-        "title": "iPhone Air国行上市，手机进入无卡时代",
-        "link": "https://www.tmtpost.com/7722278.html",
-        "published_date": "Wed, 15 Oct 2025 18:56:00 GMT",
-        "first_seen": "2025-10-15T23:18:00.947675"
-      },
-      "c8226945e4269b97deee0a2dfa7b33991f5dc72b31de5e89b3f121ff72d086b2": {
-        "title": "杠杆、垄断和泡沫：解析硅谷万亿资本闭环",
-        "link": "https://www.tmtpost.com/7722294.html",
-        "published_date": "Wed, 15 Oct 2025 18:56:00 GMT",
-        "first_seen": "2025-10-15T23:18:00.948313"
-      },
-      "b0cf904812ffc11bfa8bb093810b6bfd7c0bfd441a74a179f27aa64797f9c475": {
-        "title": "鸿蒙用户终于不矮人一头了",
-        "link": "https://www.tmtpost.com/7722275.html",
-        "published_date": "Wed, 15 Oct 2025 18:56:00 GMT",
-        "first_seen": "2025-10-15T23:18:00.948738"
-      },
-      "48a36c765aa8b5d4b5ea7760c4b2d58e76b156bd9f5f832020e11dbb4fcfecd1": {
-        "title": "低空经济降温，宗申动力航发子公司IPO折戟，引爆6亿对赌回购",
-        "link": "https://www.tmtpost.com/7722336.html",
-        "published_date": "Wed, 15 Oct 2025 18:38:00 GMT",
-        "first_seen": "2025-10-15T23:18:00.949614"
-      },
-      "46c2bc694245a74c6dd3e7a4488b6fe7c409078b7e0bf7e14b111d384cf95566": {
-        "title": "“隐形冠军”长江能科：以自主技术破局能源装备国产替代，冲刺上市锚定双碳增量",
-        "link": "https://www.tmtpost.com/7721858.html",
-        "published_date": "Wed, 15 Oct 2025 17:59:00 GMT",
-        "first_seen": "2025-10-15T23:18:49.299949"
-      },
-      "628efc2606490d7f2cbfdd6dffba6bed3221eb62085fdb2e72d49c93ad98a212": {
-        "title": "江阴银行高管动荡，投资收益“靠天吃饭”",
-        "link": "https://www.tmtpost.com/7722205.html",
-        "published_date": "Wed, 15 Oct 2025 17:34:00 GMT",
-        "first_seen": "2025-10-15T23:18:00.951439"
-      },
-      "a0a997bc2cfbf56d1b0c456223a529543e048f1ef69710ace3fe857a6bbd087f": {
-        "title": "成都路桥签债务重组协议：让利于政府加速回款，“折价”拿回1.77亿元旧账",
-        "link": "https://www.tmtpost.com/7722229.html",
-        "published_date": "Wed, 15 Oct 2025 17:31:00 GMT",
-        "first_seen": "2025-10-15T23:18:00.952615"
-      },
-      "93b27bda7a8fb03a76f7220134e1e9bfc441187b3538d3682706ed52cce6229f": {
-        "title": "潮玩品牌，从拼“上架”到抢“上市”",
-        "link": "https://www.tmtpost.com/7722212.html",
-        "published_date": "Wed, 15 Oct 2025 17:22:00 GMT",
-        "first_seen": "2025-10-15T23:18:00.953595"
-      },
-      "e7858ac2ef5659ebfbd1c4136f8e30a6bb5cd4d0cc3fcb675a76294c2562d796": {
-        "title": "大女主宗馥莉，走不出宗庆后的“阴影”",
-        "link": "https://www.tmtpost.com/7722206.html",
-        "published_date": "Wed, 15 Oct 2025 17:22:00 GMT",
-        "first_seen": "2025-10-15T23:18:00.954450"
-      },
-      "7b977d6c8e0f087adaa52c4e2ce790273da3434b38809935c58d1db45e75c7f5": {
-        "title": "花时间陪别人玩，成了一群人的工作",
-        "link": "http://www.huxiu.com/article/4792413.html?f=wangzhan",
-        "published_date": "Wed, 15 Oct 2025 20:09:00 GMT",
-        "first_seen": "2025-10-15T23:18:00.955269"
-      },
-      "edbf748a2a28cdffd8829862c4e6d05a99a353c280c0848a05326f185949677d": {
-        "title": "出走娃哈哈，宗馥莉玩砸了吗？",
-        "link": "http://www.huxiu.com/article/4791605.html?f=wangzhan",
-        "published_date": "Wed, 15 Oct 2025 17:00:00 GMT",
-        "first_seen": "2025-10-15T23:18:00.955998"
-      },
-      "45b12b4e4ab68b9813293e4b033ddba22d66f29e4ece90db5bd22d50a32505a7": {
-        "title": "许家印的信托神话破灭，给其他中国富豪提了个什么醒？",
-        "link": "http://www.huxiu.com/article/4791725.html?f=wangzhan",
-        "published_date": "Wed, 15 Oct 2025 16:30:00 GMT",
-        "first_seen": "2025-10-15T23:18:00.956987"
-      },
-      "45df05a0bf3a1ca19a18d846d1344d30c3f230255dc7ef119ab33ab8f045f62a": {
-        "title": "上市却不融资，岚图图什么？",
-        "link": "http://www.huxiu.com/article/4792092.html?f=wangzhan",
-        "published_date": "Wed, 15 Oct 2025 13:15:00 GMT",
-        "first_seen": "2025-10-15T23:18:00.957763"
-      },
-      "f589a2e5a9f9793eb3a70c9b156e1e9e61fbe32d57cd72cad59854bb9409f84d": {
-        "title": "来自中国的年度 iPhone 游戏大奖，Tim Cook 拜访《剑与远征》开发商",
-        "link": "https://sspai.com/post/103120",
-        "published_date": "Wed, 15 Oct 2025 17:49:00 GMT",
-        "first_seen": "2025-10-15T23:18:00.959561"
-      },
       "50c939a55b1a39244b94975a0c1f9b562cddb3e54db1c453d08f5777a5abf466": {
         "title": "PlanetScale将数据库平台扩展至PostgreSQL",
         "link": "https://www.infoq.cn/article/JDjRDrbFG04JXLshrd1a?utm_source=rss&utm_medium=article",
@@ -9457,8 +9265,8 @@
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-14T23:10:55.729632",
-    "Technology": "2025-11-14T23:10:55.767299",
-    "Finance": "2025-11-14T23:10:55.617908"
+    "AI": "2025-11-15T05:11:40.332333",
+    "Technology": "2025-11-15T05:11:40.370027",
+    "Finance": "2025-11-15T05:11:40.220850"
   }
 }
