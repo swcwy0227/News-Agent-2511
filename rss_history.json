@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "814e928ef9a8cb3fab03b16efa034d91e4c12a1ef33337fcf9f41e39581ba99c": {
-        "title": "杨振宁教授千古！中国AI计算机产业因他而不同",
-        "link": "https://www.qbitai.com/2025/10/343062.html",
-        "published_date": "Sat, 18 Oct 2025 04:53:00 GMT",
-        "first_seen": "2025-10-18T05:23:31.334739"
-      },
       "4a96d7e621f338b93ec9744067b738c00a76cbaed9658b2d31e4bf774aea7c84": {
         "title": "卡帕西：强化学习很糟糕，但其他所有方法都更糟",
         "link": "https://www.qbitai.com/2025/10/343094.html",
@@ -963,108 +957,6 @@
       }
     },
     "Technology": {
-      "1cfd759d8aeae46681b3aa83ad348782e41b3abda606434df2fdf12d5ac845ec": {
-        "title": "从躺平到拼命，头部主播又卷回来了",
-        "link": "https://www.tmtpost.com/7729915.html",
-        "published_date": "Sat, 18 Oct 2025 12:44:00 GMT",
-        "first_seen": "2025-10-18T05:24:19.678964"
-      },
-      "a2fd32b9863355824a536d8b523cd62e20c1a60d6e0c0897b45da031040efa59": {
-        "title": "Sora 后思考：从 AI 工具到 AI 平台，产业 AGI 又近了一步",
-        "link": "https://www.tmtpost.com/7729852.html",
-        "published_date": "Sat, 18 Oct 2025 12:42:00 GMT",
-        "first_seen": "2025-10-18T05:24:19.678952"
-      },
-      "a86026e4a65d31eaac346ade8b9fa8fc6c50e4bc88db58fbad19e11da5fed1e5": {
-        "title": "昔日“盟友”为何对蔚来“反戈一击”？",
-        "link": "https://www.tmtpost.com/7726427.html",
-        "published_date": "Sat, 18 Oct 2025 12:40:00 GMT",
-        "first_seen": "2025-10-18T05:24:19.678973"
-      },
-      "35283a4266fca80c66a06db2bd5b0bd4a430c396abb59a77a1cccbc150e9399e": {
-        "title": "大疆半空悬停",
-        "link": "https://www.tmtpost.com/7729962.html",
-        "published_date": "Sat, 18 Oct 2025 12:40:00 GMT",
-        "first_seen": "2025-10-18T05:23:31.390975"
-      },
-      "b5fbc5be6af901d1323f8822f0378b6669099d15510993a49db51d7ff0ef041a": {
-        "title": "“天才”与“疯子”的双生样本：蒋凡向左，无招向右",
-        "link": "https://www.tmtpost.com/7729885.html",
-        "published_date": "Sat, 18 Oct 2025 12:39:00 GMT",
-        "first_seen": "2025-10-18T05:24:19.678983"
-      },
-      "469e12461fe4ad382468f70b36b9e83daed1a047d58643cdca4ca0acb0090841": {
-        "title": "绿色船舶的困局与突围：一场安全、能效与成本的艰难博弈",
-        "link": "https://www.tmtpost.com/7726428.html",
-        "published_date": "Sat, 18 Oct 2025 12:38:00 GMT",
-        "first_seen": "2025-10-18T05:24:19.678991"
-      },
-      "9fe0f50da2d3897e408a67c461d6cda8afe1e0908cbe579e7c2f789703e60f35": {
-        "title": "双十一前夕，抖音、天猫、小红书拼“造风”",
-        "link": "https://www.tmtpost.com/7729897.html",
-        "published_date": "Sat, 18 Oct 2025 12:37:00 GMT",
-        "first_seen": "2025-10-18T05:24:19.678999"
-      },
-      "ba32e608a87b4faeacc35bbba91fbe760be1e4348535ccdf6c253c32d74d8f30": {
-        "title": "MNC半年豪掷107亿美元，这个脂肪肝靶点终于爆了",
-        "link": "https://www.tmtpost.com/7726195.html",
-        "published_date": "Sat, 18 Oct 2025 12:37:00 GMT",
-        "first_seen": "2025-10-18T05:24:19.679012"
-      },
-      "73673b395fdc04c8d207e7e2d70027c3180dc05e04fe3d53476e6ae98721917d": {
-        "title": "网易历时七年《命运》IP首款手游，FPS原神？",
-        "link": "https://www.tmtpost.com/7725811.html",
-        "published_date": "Sat, 18 Oct 2025 12:36:00 GMT",
-        "first_seen": "2025-10-18T05:24:19.679026"
-      },
-      "815a1dafb86bf9ecf5354926eaaffc4f0d3c21ec4b777b16b5a57c80e3ad2f69": {
-        "title": "老凤祥的奢侈品梦，需要讲出新故事",
-        "link": "https://www.tmtpost.com/7729997.html",
-        "published_date": "Sat, 18 Oct 2025 12:36:00 GMT",
-        "first_seen": "2025-10-18T05:24:19.679033"
-      },
-      "36e1d5b9a02d2c3f5afc3bebaa24b574dcf74d9a69bfd9a9fdd7f1ea4c0c18cd": {
-        "title": "腾讯视频，摸着优酷过河",
-        "link": "https://www.tmtpost.com/7730157.html",
-        "published_date": "Sat, 18 Oct 2025 09:17:00 GMT",
-        "first_seen": "2025-10-18T05:23:31.393178"
-      },
-      "5565f59fcf5ce0b7f876054e123ea663077a54ae796b0e6ccda94e5ade77dc08": {
-        "title": "河南最大城商行高层变动，中原银行“空降”准行长",
-        "link": "https://www.tmtpost.com/7730300.html",
-        "published_date": "Sat, 18 Oct 2025 09:03:00 GMT",
-        "first_seen": "2025-10-18T05:23:31.393698"
-      },
-      "189842cdebd23fbe229a717132b4444753ec0e9d9eabbdea107ebc64dddc09e8": {
-        "title": "新车被吐槽“四不像”，雷克萨斯难自救？",
-        "link": "https://www.tmtpost.com/7730146.html",
-        "published_date": "Sat, 18 Oct 2025 08:57:00 GMT",
-        "first_seen": "2025-10-18T05:23:31.394168"
-      },
-      "d7cda70c2c08f5187598bf5dd25a5a6bed29de3e57c6d773bbbc571ba150a647": {
-        "title": "三季报来了，光伏又见急涨急跌",
-        "link": "https://www.tmtpost.com/7730410.html",
-        "published_date": "Sat, 18 Oct 2025 08:52:00 GMT",
-        "first_seen": "2025-10-18T05:23:31.394596"
-      },
-      "78b30882ceecc6a36903443b85d0749adddc3f78175cf7512232ce13f129b22d": {
-        "title": "零 Unity 经验卡牌策略游戏开发实录",
-        "link": "https://www.infoq.cn/article/Bxc8OjUHQWoPwJihq2M4?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 18 Oct 2025 12:00:00 GMT",
-        "first_seen": "2025-10-18T05:23:31.395174"
-      },
-      "dfdf9dc6b061f2bead82bbe6a24b4866a8d8155b6c55538487ecd0c6024b4e3e": {
-        "title": "蚂蚁集团百宝箱技术负责人王月凡确认出席 QCon 上海，分享 Context Engineering 视角下的多智能体系统挑战与实践",
-        "link": "https://www.infoq.cn/article/bJQALvi2bd1Q0oU8BE9I?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 18 Oct 2025 10:00:00 GMT",
-        "first_seen": "2025-10-18T05:24:19.678926"
-      },
-      "2df87e18e7f38229115ac7e2723b7e79dfb57b0c9a1f73222b847943af069d5b": {
-        "title": "传 iPhone 17 Air 表现不佳，砍百万产量；黄仁勋：英伟达中国份额从 95% 降到 0%；AI 致维基百科访问显著下降",
-        "link": "http://www.geekpark.net/news/355125",
-        "published_date": "Sat, 18 Oct 2025 08:14:00 GMT",
-        "first_seen": "2025-10-18T05:23:31.397800"
-      },
       "9c42c9fbb374076a15cefec96c84275d97e5e1e978ccfda4983632716821c0c1": {
         "title": "美团提出超级性价比时代，餐饮客单价回到10年前",
         "link": "https://www.tmtpost.com/7730840.html",
@@ -8221,8 +8113,8 @@
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-17T05:13:07.280280",
-    "Technology": "2025-11-17T05:13:07.318984",
-    "Finance": "2025-11-17T05:13:07.166303"
+    "AI": "2025-11-17T08:17:59.692465",
+    "Technology": "2025-11-17T08:17:59.730803",
+    "Finance": "2025-11-17T08:17:59.582001"
   }
 }
