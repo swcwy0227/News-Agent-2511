@@ -1,24 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "bbadc0534d54ce83187bca0d43f01b990e55ca463a0ca50be75b15dde46671ec": {
-        "title": "马斯克发起编程人机大战！卡帕西说了不",
-        "link": "https://www.qbitai.com/2025/10/343346.html",
-        "published_date": "Sun, 19 Oct 2025 04:40:00 GMT",
-        "first_seen": "2025-10-19T05:19:41.544728"
-      },
-      "a831193f186a9651f2ad408824847e88f9b56591c4c071ed605ef48ba5b5d091": {
-        "title": "薛定谔亲外孙创业量子计算，老黄早早就成了股东",
-        "link": "https://www.qbitai.com/2025/10/343249.html",
-        "published_date": "Sun, 19 Oct 2025 04:27:00 GMT",
-        "first_seen": "2025-10-19T05:19:41.544887"
-      },
-      "309c1c0f559a6a71acf58222d5bd8b3cabdade401384398139d29302ddca9a20": {
-        "title": "量子位「MEET2026智能未来大会」启动！年度榜单征集中",
-        "link": "https://www.qbitai.com/2025/10/343231.html",
-        "published_date": "Sun, 19 Oct 2025 01:22:00 GMT",
-        "first_seen": "2025-10-19T05:19:41.545054"
-      },
       "a7df38924636347bd3a388fc5344d90a3e219346f335ba164c27e148d14f94b0": {
         "title": "多模态大模型学会反思和复盘，上交&上海AI Lab破解多模态复杂推理",
         "link": "https://www.qbitai.com/2025/10/343421.html",
@@ -945,72 +927,6 @@
       }
     },
     "Technology": {
-      "8d0bac7d1ddf79cd0fafc97eca1b36db8f002d4c5b4631dc4f8300d728a77af1": {
-        "title": "3亿单身男女，要捧出一个IPO",
-        "link": "https://www.tmtpost.com/7731076.html",
-        "published_date": "Sun, 19 Oct 2025 12:48:00 GMT",
-        "first_seen": "2025-10-19T05:20:30.044364"
-      },
-      "224e484d0ef0a03b6453748a607fa41055a3584042ecd6f6fd74f87225804b71": {
-        "title": "北京宝信行人去楼空，数百宝马车主维权“无门”？",
-        "link": "https://www.tmtpost.com/7730095.html",
-        "published_date": "Sun, 19 Oct 2025 12:48:00 GMT",
-        "first_seen": "2025-10-19T05:20:30.044392"
-      },
-      "23b35e8d314c76741bba1252702a3545ac1cb2b2c7a5cf639997949976bf8f3f": {
-        "title": "在迪拜拿下12亿订单，“国民村长”李锐“闷声干大事”",
-        "link": "https://www.tmtpost.com/7730954.html",
-        "published_date": "Sun, 19 Oct 2025 12:47:00 GMT",
-        "first_seen": "2025-10-19T05:20:30.044406"
-      },
-      "7b7a580513de1182f15a76562d0117132579fd23b9b025a627fef138e8bc3aa3": {
-        "title": "Huobi Founder Creating a 1 Bln Ethereum AMC as a Lead Investor",
-        "link": "https://www.tmtpost.com/7731074.html",
-        "published_date": "Sun, 19 Oct 2025 11:58:00 GMT",
-        "first_seen": "2025-10-19T05:20:30.044419"
-      },
-      "4d69597af8c26f4ce70ccda2667e29a5739bfa5d81c6a993835812c29c15d0d3": {
-        "title": "他们使出了九牛二虎之力，“电动爹”仍靠打架抢高速充电桩",
-        "link": "https://www.tmtpost.com/7730968.html",
-        "published_date": "Sun, 19 Oct 2025 09:13:00 GMT",
-        "first_seen": "2025-10-19T05:20:30.044430"
-      },
-      "c03e332108f10138acd6660a972140052f8bc84d99d39c812ffb22fc038ebaaa": {
-        "title": "百奥赛图27个月闯关科创板，专利战与创始人债务问题缠身",
-        "link": "https://www.tmtpost.com/7730989.html",
-        "published_date": "Sun, 19 Oct 2025 09:13:00 GMT",
-        "first_seen": "2025-10-19T05:20:30.044438"
-      },
-      "ecc05ddcaa1172085a4becdf4c5f46e36d1936cd09c475707f0e757c04fffb26": {
-        "title": "年轻人迷上在线下交换自制周边",
-        "link": "https://www.tmtpost.com/7730967.html",
-        "published_date": "Sun, 19 Oct 2025 08:32:00 GMT",
-        "first_seen": "2025-10-19T05:20:30.044448"
-      },
-      "565535214650f39c15f84543a2ee55bfbf784460a08882e29b0e6484e84227d2": {
-        "title": "新能源车速度崇拜的恶果",
-        "link": "https://www.tmtpost.com/7730992.html",
-        "published_date": "Sun, 19 Oct 2025 08:32:00 GMT",
-        "first_seen": "2025-10-19T05:20:30.044456"
-      },
-      "f2075320c4cc32b3eaf33926c9a7ab7c26586a164023dcc337f5bc48965cae54": {
-        "title": "在西班牙，转头说了两句话，就被偷光了？",
-        "link": "http://www.huxiu.com/article/4792947.html?f=wangzhan",
-        "published_date": "Sun, 19 Oct 2025 12:00:00 GMT",
-        "first_seen": "2025-10-19T05:20:30.044466"
-      },
-      "b6b9034da45e75af7905955267236c068842c021f4737f6f1d99f2a9ed003f9d": {
-        "title": "企业级 MCPHub ：打通大模型落地的“最后一公里”｜QCon 上海",
-        "link": "https://www.infoq.cn/article/FtOk93a3hk21EvH2kPBf?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 19 Oct 2025 10:00:00 GMT",
-        "first_seen": "2025-10-19T05:20:30.044479"
-      },
-      "918aa0af006c561ceb9e0f2cdb981440edf9f97300dc8c4edb742a81338980e3": {
-        "title": "中国AIGC用户破5亿，增长1倍；美团：今年超7成外卖低于15元；新能源事故，「破窗锤」被网友买爆｜极客早知道",
-        "link": "http://www.geekpark.net/news/355132",
-        "published_date": "Sun, 19 Oct 2025 08:28:00 GMT",
-        "first_seen": "2025-10-19T05:19:41.618423"
-      },
       "ea06abbfb1eb1bb596975df2f03a52a077d8aa7405810d4f81c563177cc60417": {
         "title": "项目看板 3.0：在 Obsidian 中平衡专注与多元",
         "link": "https://sspai.com/post/102887",
@@ -7969,8 +7885,8 @@
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-18T05:12:18.088643",
-    "Technology": "2025-11-18T05:12:18.126411",
-    "Finance": "2025-11-18T05:12:17.978891"
+    "AI": "2025-11-18T08:16:35.807059",
+    "Technology": "2025-11-18T08:16:35.844792",
+    "Finance": "2025-11-18T08:16:35.694764"
   }
 }
