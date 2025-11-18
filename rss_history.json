@@ -1,24 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "a7df38924636347bd3a388fc5344d90a3e219346f335ba164c27e148d14f94b0": {
-        "title": "多模态大模型学会反思和复盘，上交&上海AI Lab破解多模态复杂推理",
-        "link": "https://www.qbitai.com/2025/10/343421.html",
-        "published_date": "Sun, 19 Oct 2025 07:08:00 GMT",
-        "first_seen": "2025-10-19T08:23:32.885038"
-      },
-      "1261bb9ebdc8936a51a9b267bfc2328ac07abbf87a3a0a141f0d732ec026a58c": {
-        "title": "模型“看视频写网页”，GPT-5仅36.35分！首个video2code基准发布",
-        "link": "https://www.qbitai.com/2025/10/343400.html",
-        "published_date": "Sun, 19 Oct 2025 07:06:00 GMT",
-        "first_seen": "2025-10-19T08:23:32.885246"
-      },
-      "e72f5b9504b282b1b8d91de5b1241308c4074351a4afe6741c161786e1dded91": {
-        "title": "中国最新Agent产品趋势：多体协同，垂直赛道，行业核心业务",
-        "link": "https://www.qbitai.com/2025/10/343370.html",
-        "published_date": "Sun, 19 Oct 2025 07:04:00 GMT",
-        "first_seen": "2025-10-19T08:23:32.885439"
-      },
       "b52410ac55b7de1b513ee15c030cda6c81a3f468e4dff3c4f1dcc1b32ba13a2f": {
         "title": "经济学诺奖得主的富二代人生：香奈儿老佛爷帮他写作业，AI时代反对向机器人征税",
         "link": "https://www.qbitai.com/2025/10/343454.html",
@@ -927,18 +909,6 @@
       }
     },
     "Technology": {
-      "ea06abbfb1eb1bb596975df2f03a52a077d8aa7405810d4f81c563177cc60417": {
-        "title": "项目看板 3.0：在 Obsidian 中平衡专注与多元",
-        "link": "https://sspai.com/post/102887",
-        "published_date": "Sun, 19 Oct 2025 14:59:00 GMT",
-        "first_seen": "2025-10-19T08:23:32.939541"
-      },
-      "b2edac1cd2c9bff912df848669465eb95eb9fdaffe401d4dcaa50cb6fe1333fb": {
-        "title": "中国AIGC用户破5亿，增长1倍；今年超7成外卖低于15元；新能源事故，「破窗锤」被网友买爆｜极客早知道",
-        "link": "http://www.geekpark.net/news/355132",
-        "published_date": "Sun, 19 Oct 2025 08:28:00 GMT",
-        "first_seen": "2025-10-19T08:23:32.939705"
-      },
       "812adefef67508015be0cdffbc72b55fa109de5e846ee0a9113f35efb90ec13c": {
         "title": "经纬辉开“大手笔”收购中兴系统；威高血净上市5个月火速整合“威高系”资产【并购一线】",
         "link": "https://www.tmtpost.com/7731354.html",
@@ -7885,8 +7855,8 @@
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-18T08:16:35.807059",
-    "Technology": "2025-11-18T08:16:35.844792",
-    "Finance": "2025-11-18T08:16:35.694764"
+    "AI": "2025-11-18T23:10:49.530853",
+    "Technology": "2025-11-18T23:10:49.568946",
+    "Finance": "2025-11-18T23:10:49.417070"
   }
 }
