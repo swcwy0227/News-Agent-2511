@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "b52410ac55b7de1b513ee15c030cda6c81a3f468e4dff3c4f1dcc1b32ba13a2f": {
-        "title": "经济学诺奖得主的富二代人生：香奈儿老佛爷帮他写作业，AI时代反对向机器人征税",
-        "link": "https://www.qbitai.com/2025/10/343454.html",
-        "published_date": "Sun, 19 Oct 2025 14:57:00 GMT",
-        "first_seen": "2025-10-19T23:18:13.841166"
-      },
-      "4cc79c34f341a1bf14bf1cc733bf8b308e94011d8335860f6bc2bd75b90ec200": {
-        "title": "LSTM之父向何恺明开炮：我学生才是残差学习奠基人",
-        "link": "https://www.qbitai.com/2025/10/343435.html",
-        "published_date": "Sun, 19 Oct 2025 14:49:00 GMT",
-        "first_seen": "2025-10-19T23:18:13.841336"
-      },
       "50a4c8e716447f074fbd206163bef389727e5960d8cf5277f118a9b24c821721": {
         "title": "AI助手Cici悄然霸榜海外，又是字节",
         "link": "https://www.qbitai.com/2025/10/343514.html",
@@ -909,48 +897,6 @@
       }
     },
     "Technology": {
-      "812adefef67508015be0cdffbc72b55fa109de5e846ee0a9113f35efb90ec13c": {
-        "title": "经纬辉开“大手笔”收购中兴系统；威高血净上市5个月火速整合“威高系”资产【并购一线】",
-        "link": "https://www.tmtpost.com/7731354.html",
-        "published_date": "Sun, 19 Oct 2025 20:58:00 GMT",
-        "first_seen": "2025-10-19T23:18:13.895207"
-      },
-      "4eec4ab6f8537d6e5ed9d054db4b422e1862547e5c966398830b7d8b1f90b0e9": {
-        "title": "63岁转行干光伏，83岁还在一线拼杀，最被低估的光伏大佬，是他",
-        "link": "https://www.tmtpost.com/7731083.html",
-        "published_date": "Sun, 19 Oct 2025 19:16:00 GMT",
-        "first_seen": "2025-10-19T23:18:13.895356"
-      },
-      "089cd9ef9ea76abde2765bc9777b636be6c13b1edc7f60ce77058ca95a5c9712": {
-        "title": "杨振宁留给中国的最重要遗产，恰恰很不“中国味”",
-        "link": "https://www.tmtpost.com/7731165.html",
-        "published_date": "Sun, 19 Oct 2025 19:15:00 GMT",
-        "first_seen": "2025-10-19T23:18:13.895522"
-      },
-      "af084af66b04b733abf8fd63849a0f53fb338cb43e303bef17cde8aa7d9fab1a": {
-        "title": "两部好莱坞大片翻车",
-        "link": "https://www.tmtpost.com/7731146.html",
-        "published_date": "Sun, 19 Oct 2025 19:11:00 GMT",
-        "first_seen": "2025-10-19T23:18:13.895659"
-      },
-      "42a47b6b07607b0445c12e34a68c42ee21067f5ad54c043231822f651492200a": {
-        "title": "京东造车，一场阳谋",
-        "link": "https://www.tmtpost.com/7731196.html",
-        "published_date": "Sun, 19 Oct 2025 19:11:00 GMT",
-        "first_seen": "2025-10-19T23:18:13.895832"
-      },
-      "cb1636d6313b61f156b5636288cf3a04066e4cfbda3b5edbce0d8d3e93d0e504": {
-        "title": "“从all buy到一件不买”，这届年轻人退出双十一",
-        "link": "https://www.tmtpost.com/7731257.html",
-        "published_date": "Sun, 19 Oct 2025 19:11:00 GMT",
-        "first_seen": "2025-10-19T23:18:13.896133"
-      },
-      "2279c18770d9418d430ae0521864820b533654c55724be40bb57ec5c8a53326d": {
-        "title": "EFQM七钻认证背后：五粮液用千年“和美”哲学，在欧洲讲述“可持续的卓越”",
-        "link": "https://www.tmtpost.com/7731195.html",
-        "published_date": "Sun, 19 Oct 2025 18:44:00 GMT",
-        "first_seen": "2025-10-19T23:18:13.896514"
-      },
       "7f05e0078c546ee8e08f85009e93afc636c51cf5232a294ac3457e275ea65522": {
         "title": "Go通道：理解Happens-Before，保证并发安全",
         "link": "https://www.infoq.cn/article/NSIGgSs0jS3ZCPvo84YD?utm_source=rss&utm_medium=article",
@@ -7855,8 +7801,8 @@
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-18T23:10:49.530853",
-    "Technology": "2025-11-18T23:10:49.568946",
-    "Finance": "2025-11-18T23:10:49.417070"
+    "AI": "2025-11-19T05:12:30.394569",
+    "Technology": "2025-11-19T05:12:30.433205",
+    "Finance": "2025-11-19T05:12:30.279158"
   }
 }
