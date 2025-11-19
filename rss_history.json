@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "50a4c8e716447f074fbd206163bef389727e5960d8cf5277f118a9b24c821721": {
-        "title": "AI助手Cici悄然霸榜海外，又是字节",
-        "link": "https://www.qbitai.com/2025/10/343514.html",
-        "published_date": "Mon, 20 Oct 2025 04:08:00 GMT",
-        "first_seen": "2025-10-20T05:21:15.532982"
-      },
-      "31b4fc59259f12598b827eec9adf8ce864cbc1e14818d0f2792e191780e05f8a": {
-        "title": "OpenAI以为GPT-5搞出了数学大新闻，结果…哈萨比斯都觉得尴尬",
-        "link": "https://www.qbitai.com/2025/10/343499.html",
-        "published_date": "Mon, 20 Oct 2025 02:02:00 GMT",
-        "first_seen": "2025-10-20T05:21:15.533153"
-      },
       "a47579189ccdb93bfe76224303e6638e47df67af8ca06a0a4662d4645ca4e9fe": {
         "title": "智能体BUTTONS SOLEMATE发布，特斯联HALI能力再升级",
         "link": "https://www.qbitai.com/2025/10/343629.html",
@@ -897,132 +885,6 @@
       }
     },
     "Technology": {
-      "7f05e0078c546ee8e08f85009e93afc636c51cf5232a294ac3457e275ea65522": {
-        "title": "Go通道：理解Happens-Before，保证并发安全",
-        "link": "https://www.infoq.cn/article/NSIGgSs0jS3ZCPvo84YD?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 20 Oct 2025 13:05:00 GMT",
-        "first_seen": "2025-10-20T05:22:03.985398"
-      },
-      "23f081796d06a506d195618fb8b97ec4cb414ba4e0f3420e5268cb96bf0c8bbe": {
-        "title": "使用ONNX将AI推理引入Java：企业架构师实践指南",
-        "link": "https://www.infoq.cn/article/wtQLUKGSIdu3oivTwe7W?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 20 Oct 2025 13:02:00 GMT",
-        "first_seen": "2025-10-20T05:22:03.985413"
-      },
-      "f852c9b6ecc5e31dc3dae8b25ec48a70db23d030dedd41f2ed07b7448c4d4715": {
-        "title": "沉痛悼念！杨振宁逝世，享年103岁；传智谱AI解散数十人产研中心，有人当天就走；李书福儿子创立具身智能公司被曝解散｜AI周报",
-        "link": "https://www.infoq.cn/article/3j71wWRMFTf0ZvmQxUAB?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 20 Oct 2025 10:47:00 GMT",
-        "first_seen": "2025-10-20T05:22:03.985428"
-      },
-      "5d03a97d539d3da5eb9c3e3bbad2890d188a4fb6ce71f5410b39d3ea8ea8f31c": {
-        "title": "开源！强效果，高性能，严隐私？我全都要：OPPO 终端大模型实践",
-        "link": "https://www.infoq.cn/article/wideqw3SUeSQTSMUKAoh?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 20 Oct 2025 10:42:00 GMT",
-        "first_seen": "2025-10-20T05:22:03.985442"
-      },
-      "a1bfd72e5d0f72155344b81ab45e064a3127e93eacb0d064eec6ce409f5aac4f": {
-        "title": "挑战Claude code和Cursor：阿里Qoder对标全球，AI编程迎来“上下文”革命",
-        "link": "https://www.infoq.cn/article/YLkMZ9IVpTseZdoJmAGw?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 20 Oct 2025 10:26:00 GMT",
-        "first_seen": "2025-10-20T05:22:03.985454"
-      },
-      "0de159d8f90fa0c11a66a8685d9c0f31bb743375e99fc73ccccec1140ff1ebf7": {
-        "title": "AI 时代，编程语言选型更难也更重要：Go、Rust、Python、TypeScript 谁该上场？",
-        "link": "https://www.infoq.cn/article/2mcpfRO4ocBWJG7jb6HF?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 20 Oct 2025 10:17:00 GMT",
-        "first_seen": "2025-10-20T05:22:03.985468"
-      },
-      "39458d4dd8d6e91eeb8d87a7489af5731e62d0f0ebbad13037a83249c36c7b0d": {
-        "title": "24个月，从写第一行代码到破产：一位架构师在47个“死亡”项目里，看到的共同陷阱",
-        "link": "https://www.infoq.cn/article/8PRjp5ZUYFq7Q34Jo0fp?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 20 Oct 2025 10:13:00 GMT",
-        "first_seen": "2025-10-20T05:22:03.985480"
-      },
-      "48713c0bd42665eed16d749f8f5e166fafe16bf273fee7f9a114901d21498d64": {
-        "title": "这届酒店，玩起“拼楼”了",
-        "link": "https://www.tmtpost.com/7731546.html",
-        "published_date": "Mon, 20 Oct 2025 12:12:00 GMT",
-        "first_seen": "2025-10-20T05:22:03.985492"
-      },
-      "8802d946a06ac663955ac4238f1c8a796b4ba12813b4340c6f067a742d6f6e8b": {
-        "title": "狂奔20天，全网“追赶”Sora2",
-        "link": "https://www.tmtpost.com/7731503.html",
-        "published_date": "Mon, 20 Oct 2025 11:23:00 GMT",
-        "first_seen": "2025-10-20T05:22:03.985503"
-      },
-      "6e0ccf72bee928dfcdd1a6d1ab9a638ae88b2d8f3fb3c6a647c3d77bdb2692ac": {
-        "title": "交钱VS交隐私，AI逼用户二选一？",
-        "link": "https://www.tmtpost.com/7731434.html",
-        "published_date": "Mon, 20 Oct 2025 11:10:00 GMT",
-        "first_seen": "2025-10-20T05:21:15.624071"
-      },
-      "decb89ae744281c9cf0b57e4b1c92ce67adcf4c2aaef9c13c26bc128f9f1c8f0": {
-        "title": "独家对话影目CEO杨龙昇：百万销量是AI眼镜的坎，今年有机会盈亏平衡",
-        "link": "https://www.tmtpost.com/7731609.html",
-        "published_date": "Mon, 20 Oct 2025 10:24:00 GMT",
-        "first_seen": "2025-10-20T05:21:15.624701"
-      },
-      "26dc645722c0a44db335f3c0262260b72d0f5cf85e8bd1753b475876f45c643f": {
-        "title": "领益智造与星尘智能签署战略合作",
-        "link": "https://www.tmtpost.com/7731487.html",
-        "published_date": "Mon, 20 Oct 2025 10:05:00 GMT",
-        "first_seen": "2025-10-20T05:21:15.625045"
-      },
-      "3b8beb38a965cee415937dd649fad686a8f9827d727a4663638aa03d3549c22e": {
-        "title": "「一页纸」讲透美股公司之：UUUU",
-        "link": "https://www.tmtpost.com/7731325.html",
-        "published_date": "Mon, 20 Oct 2025 10:00:00 GMT",
-        "first_seen": "2025-10-20T05:21:15.625567"
-      },
-      "ee811fabef37f8ff109e98bd759e5c76131e20009035785341e82df920845252": {
-        "title": "没有组织的进化，就没有AI的深层落地",
-        "link": "https://www.tmtpost.com/7731358.html",
-        "published_date": "Mon, 20 Oct 2025 09:00:00 GMT",
-        "first_seen": "2025-10-20T05:21:15.626077"
-      },
-      "688046a3458c8570c30efcc2e977f6618b18bda5f8416aca90ef53f4242750b2": {
-        "title": "管中窥豹，万里眼90GHz示波器曝国内示波器高端产业之痛",
-        "link": "https://www.tmtpost.com/7731373.html",
-        "published_date": "Mon, 20 Oct 2025 08:00:00 GMT",
-        "first_seen": "2025-10-20T05:21:15.626761"
-      },
-      "ef137a33051081d2fc63794f2ba7349c69681adf62c04cdaee4bc8187e2ca6aa": {
-        "title": "科股早知道：华为官宣鸿蒙6发布时间",
-        "link": "https://www.tmtpost.com/7731439.html",
-        "published_date": "Mon, 20 Oct 2025 07:54:00 GMT",
-        "first_seen": "2025-10-20T05:22:03.985368"
-      },
-      "a3e96d1745e9dd15686dbaec813126e1720ea2b3f2c73c01f1330554b0dd498b": {
-        "title": "【钛晨报】国常会：推动人工智能与物流深度融合，部署拓展绿色贸易；蚂蚁、京东据报已暂停在港发行稳定币计划；安世中国最新发声：国内全部主体运营及员工薪资福利一切正常",
-        "link": "https://www.tmtpost.com/7731258.html",
-        "published_date": "Mon, 20 Oct 2025 07:20:00 GMT",
-        "first_seen": "2025-10-20T05:21:15.629152"
-      },
-      "f4dce003d40c04049abc829e6bd9ea7f7468a61a16c51d092980fae61598a452": {
-        "title": "物理真神——杨振宁的诺奖之路，给国家甚至世界带来了什么样的巨大贡献？",
-        "link": "http://www.huxiu.com/article/4793932.html?f=wangzhan",
-        "published_date": "Mon, 20 Oct 2025 10:08:00 GMT",
-        "first_seen": "2025-10-20T05:21:15.630122"
-      },
-      "bffaa9850fe9ddf490396823cfe7b4edf8ddc58b91ed52a43e704752267f7443": {
-        "title": "中国造船，为什么能世界第一？",
-        "link": "http://www.huxiu.com/article/4793518.html?f=wangzhan",
-        "published_date": "Mon, 20 Oct 2025 09:38:00 GMT",
-        "first_seen": "2025-10-20T05:21:15.630793"
-      },
-      "af7f89034fd9591b57dd33dcf1a34171336ef8c69bbe5b77596dbd5a8b5103f3": {
-        "title": "派早报：国家安全局表示国家授时中心受到美国攻击",
-        "link": "https://sspai.com/post/103207",
-        "published_date": "Mon, 20 Oct 2025 08:55:00 GMT",
-        "first_seen": "2025-10-20T05:21:15.631618"
-      },
-      "b89e3b36d496bdf66922b3499b9dfc1d2dc6e01f34b965ee7fa6195de855b947": {
-        "title": "美 NSA 被曝网攻中国「时间心脏」；微博王高飞：企业别把批评和黑公关混为一谈；传运营艰难，安世中国发公开信回应",
-        "link": "http://www.geekpark.net/news/355134",
-        "published_date": "Mon, 20 Oct 2025 08:41:00 GMT",
-        "first_seen": "2025-10-20T05:21:15.633508"
-      },
       "f2635d447102e5ae66749eb6af986541fb8b102bfc66915d764f8a3409c55415": {
         "title": "海底捞要和西贝争抢中产宝妈",
         "link": "https://www.tmtpost.com/7731798.html",
@@ -7801,8 +7663,8 @@
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-19T05:12:30.394569",
-    "Technology": "2025-11-19T05:12:30.433205",
-    "Finance": "2025-11-19T05:12:30.279158"
+    "AI": "2025-11-19T08:16:21.205405",
+    "Technology": "2025-11-19T08:16:21.244047",
+    "Finance": "2025-11-19T08:16:21.089665"
   }
 }
