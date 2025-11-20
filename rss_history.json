@@ -1,24 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "944e450d78e68d103cdbffd2c5a97da3675c45a26600eacd986a02074a708fc4": {
-        "title": "ChatGPT千亿tokens，干掉麦肯锡5000名顾问",
-        "link": "https://www.qbitai.com/2025/10/344173.html",
-        "published_date": "Tue, 21 Oct 2025 06:30:00 GMT",
-        "first_seen": "2025-10-21T08:29:33.682700"
-      },
-      "999cb7737df88f2d4ea73426641f55c17129249f80311d86d2130d184543446f": {
-        "title": "苹果AI选Mamba：Agent任务比Transformer更好",
-        "link": "https://www.qbitai.com/2025/10/344090.html",
-        "published_date": "Tue, 21 Oct 2025 06:01:00 GMT",
-        "first_seen": "2025-10-21T08:29:33.682883"
-      },
-      "09da2d779006d1c39a8632e32fc8966a6b5bd75488aa2834a918c230f5058c76": {
-        "title": "我拿AI给神曲《八方来财》做了个MV，真的好魔性！",
-        "link": "https://www.qbitai.com/2025/10/344106.html",
-        "published_date": "Tue, 21 Oct 2025 05:54:00 GMT",
-        "first_seen": "2025-10-21T08:29:33.683094"
-      },
       "e9f890c5172e665a4feab3d4353375419c7aa94267a5e451f6f5f050c3540e3b": {
         "title": "讯飞刚发的财报：净利润暴涨了202%",
         "link": "https://www.qbitai.com/2025/10/344260.html",
@@ -831,102 +813,6 @@
       }
     },
     "Technology": {
-      "6d35885a4b9298b640725522f5d4cbf441aa4a23559a9d5e3ed047e94ac53cce": {
-        "title": "4%的美元高息，“末班车”还赶得上吗？",
-        "link": "https://www.tmtpost.com/7733417.html",
-        "published_date": "Tue, 21 Oct 2025 16:05:00 GMT",
-        "first_seen": "2025-10-21T08:30:22.030382"
-      },
-      "32e907478cddadd690c47b64a4b99d98c7a657fe959a0cd56285015a565e025e": {
-        "title": "10月21日A股分析：沪指涨1.36%报收3916.33点，两市合计成交18738.94亿元，资金流出最多的行业板块为银行",
-        "link": "https://www.tmtpost.com/7733350.html",
-        "published_date": "Tue, 21 Oct 2025 15:11:00 GMT",
-        "first_seen": "2025-10-21T08:30:22.030396"
-      },
-      "591ea5111dcc5a07bee258c573e2d9438866a1d8a514de8ca9e63e751e567c95": {
-        "title": "Apple Stock Hits First Record This Year on Strong Early iPhone 17 Sales in China and U.S.",
-        "link": "https://www.tmtpost.com/7733291.html",
-        "published_date": "Tue, 21 Oct 2025 14:18:00 GMT",
-        "first_seen": "2025-10-21T08:30:22.030411"
-      },
-      "893024bb5e0b5cac42049bd76481a2af7325087d05c3fb05486261ec78bc7faa": {
-        "title": "三大上市公司联手，开卖10万级“国民车”？",
-        "link": "https://www.tmtpost.com/7732262.html",
-        "published_date": "Tue, 21 Oct 2025 13:34:00 GMT",
-        "first_seen": "2025-10-21T08:30:22.030423"
-      },
-      "cd480f4753bc6c071c1e6f4b7a32d026d94a1bf56df82da92db340a956da8524": {
-        "title": "Envision Group's Chairman Aims to Build Energy AI Foundation Model Bigger, Stronger Than U.S. in Three Years",
-        "link": "https://www.tmtpost.com/7733250.html",
-        "published_date": "Tue, 21 Oct 2025 13:30:00 GMT",
-        "first_seen": "2025-10-21T08:29:33.738225"
-      },
-      "21b8c8a65a54670fc43f4283e98f8015f81bde180a2fe5d7e164aedd9b9a4f24": {
-        "title": "短剧公司“换赛道”，真人 IP 转 AI 漫剧成新风口",
-        "link": "https://www.tmtpost.com/7732826.html",
-        "published_date": "Tue, 21 Oct 2025 13:27:00 GMT",
-        "first_seen": "2025-10-21T08:30:22.030435"
-      },
-      "9c27a6481072e4916000034ead5f09c88b91af89bd689faa497635c5ffe6a80c": {
-        "title": "五星酒店大甩卖，为何各地还在疯狂“抢购”？",
-        "link": "https://www.tmtpost.com/7733166.html",
-        "published_date": "Tue, 21 Oct 2025 13:26:00 GMT",
-        "first_seen": "2025-10-21T08:30:22.030445"
-      },
-      "aaea98df628a5660c04343352747e93666e0e313c5edfc8efc21f5506967c591": {
-        "title": "东风西落，岚图要开启新蓝图？",
-        "link": "https://www.tmtpost.com/7733205.html",
-        "published_date": "Tue, 21 Oct 2025 13:24:00 GMT",
-        "first_seen": "2025-10-21T08:30:22.030454"
-      },
-      "c6e75e2e3eb2f2f86f400d2b4bb4af1cd884911489205f281434c5b440ba06f0": {
-        "title": "精实测控陷“生死局”：2025年上半年陷“失血”困局，13年盈利清零，下半年能否扭转颓势成谜｜IPO观察",
-        "link": "https://www.tmtpost.com/7726403.html",
-        "published_date": "Tue, 21 Oct 2025 13:17:00 GMT",
-        "first_seen": "2025-10-21T08:29:33.740279"
-      },
-      "aa9956a09273fc13b6c63ff469bd9c90648bd2a62895754e1a8566e8486c65a0": {
-        "title": "聚焦AI全栈创新与行业应用，InfoQ 2025中国技术力量年度榜单开启",
-        "link": "https://www.infoq.cn/article/RfW4oElu9L8uD1UixtIX?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 21 Oct 2025 15:44:00 GMT",
-        "first_seen": "2025-10-21T08:30:22.030326"
-      },
-      "a7474139bd7b3e30462b187b590a72c5873d20407929c6283116bd9c0105c066": {
-        "title": "大模型时代下的搜广推系统实践｜AICon 前瞻",
-        "link": "https://www.infoq.cn/article/WD6vUo1AmD5ffPSgWLz4?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 21 Oct 2025 15:15:00 GMT",
-        "first_seen": "2025-10-21T08:30:22.030353"
-      },
-      "c4d51348ae31f52f771d7eccbc87530dcbdf2945737e0abc4c1224a5dfd39bf3": {
-        "title": "Anthropic这两天真“忙”：上线网页版Claude Code，还让Claude搞科研",
-        "link": "https://www.infoq.cn/article/4zFt0Xmy9FQiekfYa9V7?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 21 Oct 2025 14:42:00 GMT",
-        "first_seen": "2025-10-21T08:29:33.742324"
-      },
-      "27b16e6a56eaa56fc0703638d4a8df335c19d1ea8dd0297fd3f42d3ae0402784": {
-        "title": "创始人强塞AI代码，致开源社区分裂！核心开发集体出走：“你这种强权压制，让人恶心！”",
-        "link": "https://www.infoq.cn/article/xKNa5hXvHJRDq5EfoHb9?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 21 Oct 2025 14:31:00 GMT",
-        "first_seen": "2025-10-21T08:29:33.743336"
-      },
-      "e4ce547ac375490aa3aaf93fe519f7faabe778c6160b45560728ea76d1c789bc": {
-        "title": "Flipkart使用分层联邦将Prometheus扩展到8000万个指标",
-        "link": "https://www.infoq.cn/article/ujLWWSuz0PMSQUpCqVFU?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 21 Oct 2025 14:00:00 GMT",
-        "first_seen": "2025-10-21T08:29:33.744108"
-      },
-      "246448f9d9d814a8815c719cf1a55802fdc0d9d9f79e019c6d68ff232d1649c9": {
-        "title": "澳大利亚九日游记：新老 iPhone 齐出动，记录十年重逢的喜悦",
-        "link": "https://sspai.com/post/103037",
-        "published_date": "Tue, 21 Oct 2025 15:25:00 GMT",
-        "first_seen": "2025-10-21T08:29:33.745149"
-      },
-      "44515ad01a68ac0659161a728c1de5be2f8c89d523138f6f60369e192b5ae503": {
-        "title": "这个技能转换 Agent 平台，想帮你积累「睡后收入」｜AI 上新",
-        "link": "http://www.geekpark.net/news/355202",
-        "published_date": "Tue, 21 Oct 2025 14:12:00 GMT",
-        "first_seen": "2025-10-21T08:30:22.030369"
-      },
       "5afd6cff862fbdf9fefdf5114758600c3ef2042a5d0a7c5b74a36fd7b0830cc8": {
         "title": "为什么内娱老是出现那几张脸？",
         "link": "http://www.huxiu.com/article/4794100.html?f=wangzhan",
@@ -7159,8 +7045,8 @@
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-20T08:16:58.434048",
-    "Technology": "2025-11-20T08:16:58.479190",
-    "Finance": "2025-11-20T08:16:58.318540"
+    "AI": "2025-11-20T23:11:11.247386",
+    "Technology": "2025-11-20T23:11:11.285767",
+    "Finance": "2025-11-20T23:11:11.133515"
   }
 }
