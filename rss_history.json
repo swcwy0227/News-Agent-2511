@@ -1,36 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "c4e729f3183fac06308e88f8fc338955b72882b79f99fc7fae7c5e634c3ccb02": {
-        "title": "A picture's worth a thousand (private) words: Hierarchical generation of coherent synthetic photo albums",
-        "link": "https://research.google/blog/a-pictures-worth-a-thousand-private-words-hierarchical-generation-of-coherent-synthetic-photo-albums/",
-        "published_date": "Mon, 20 Oct 2025 21:54:00 GMT",
-        "first_seen": "2025-10-20T23:18:10.459996"
-      },
-      "6ccc60233fa9aa6636601b574d914f18d6c559c6ad526310896351d74437e60a": {
-        "title": "Teaching Gemini to spot exploding stars with just a few examples",
-        "link": "https://research.google/blog/teaching-gemini-to-spot-exploding-stars-with-just-a-few-examples/",
-        "published_date": "Mon, 20 Oct 2025 09:19:00 GMT",
-        "first_seen": "2025-10-20T23:18:10.460336"
-      },
-      "51b374396ff7b27017e75222672be6b6a7f34b1945be5482e7491188e481aaba": {
-        "title": "宇树最新机器人发布：1米8大高个，能跳舞会功夫，就是颜值……",
-        "link": "https://www.qbitai.com/2025/10/343737.html",
-        "published_date": "Mon, 20 Oct 2025 10:54:00 GMT",
-        "first_seen": "2025-10-20T23:18:10.460556"
-      },
-      "87b01698aa9e6b6ba0d3fe0c685dd60244d4a1f3845d51105f5edd7269766708": {
-        "title": "Vidu Q2携「王炸」登场！杀手锏「参考生」功能全球上线，APP体验全面革新",
-        "link": "https://www.qbitai.com/2025/10/343684.html",
-        "published_date": "Mon, 20 Oct 2025 10:51:00 GMT",
-        "first_seen": "2025-10-20T23:18:10.460953"
-      },
-      "48eda535ee8f1377f43889cd8caff2c7c42057734ce84c807d37d0f8f00d220c": {
-        "title": "IDC 2025 最新 Infra 报告力荐：GMI Cloud 领跑 AI 原生云赛道",
-        "link": "https://www.qbitai.com/2025/10/343659.html",
-        "published_date": "Mon, 20 Oct 2025 09:00:00 GMT",
-        "first_seen": "2025-10-20T23:18:10.461517"
-      },
       "13b4f6e50062c45e622dddec5c2c303dd7d25d66ab36cca35afc0ad08df3c7ec": {
         "title": "拍个照就能测秃头等级？蚂蚁这AI医疗App我体验了一下",
         "link": "https://www.qbitai.com/2025/10/344009.html",
@@ -879,156 +849,6 @@
       }
     },
     "Technology": {
-      "86836b23529b971b755a2dbd2a608b0058bae7aa98e4a6582a369c4f433ac9e5": {
-        "title": "Hitch Open世界AI竞速锦标赛总决赛圆满收官，物理智能加速落地中国",
-        "link": "https://www.tmtpost.com/7732122.html",
-        "published_date": "Mon, 20 Oct 2025 22:22:00 GMT",
-        "first_seen": "2025-10-20T23:18:58.846603"
-      },
-      "c6d3466ea9daf598d4d89844e1ba2c29d55d0f41613e88e5ae650820d0724905": {
-        "title": "2025城市微短剧实力排名：北京领跑，深圳成微短剧出海之都",
-        "link": "https://www.tmtpost.com/7731876.html",
-        "published_date": "Mon, 20 Oct 2025 22:10:00 GMT",
-        "first_seen": "2025-10-20T23:18:58.846616"
-      },
-      "c92e8854cc825bfd8fec4b3c2831b452f4d8c097dd8175d977daa711dc779999": {
-        "title": "深度拆解CORTIS：为何能成为破圈K-Pop的时尚单品？",
-        "link": "https://www.tmtpost.com/7732196.html",
-        "published_date": "Mon, 20 Oct 2025 22:05:00 GMT",
-        "first_seen": "2025-10-20T23:18:58.846627"
-      },
-      "359910258f80bd0ebaf3dd6e75043beffdad50ec51eafe0b4a8dcd6024bbea6b": {
-        "title": "抖音猛攻酒旅，能否再造一个“携程”？",
-        "link": "https://www.tmtpost.com/7731462.html",
-        "published_date": "Mon, 20 Oct 2025 22:05:00 GMT",
-        "first_seen": "2025-10-20T23:18:58.846638"
-      },
-      "bf3febf7be455ffc03dc1803cc33a3a34d6bd967d78cd84f9041756b44e3e08c": {
-        "title": "金刚石半导体，产业化还有多远？",
-        "link": "https://www.tmtpost.com/7732256.html",
-        "published_date": "Mon, 20 Oct 2025 22:05:00 GMT",
-        "first_seen": "2025-10-20T23:18:58.846647"
-      },
-      "aad6bf0db8e810649f2703753f0159e4f89d987711d84ad7ddc2f1c6ad05d23e": {
-        "title": "China’s Electric Car Industry: Addicted to Speed, Starving for Safety",
-        "link": "https://www.tmtpost.com/7732414.html",
-        "published_date": "Mon, 20 Oct 2025 22:03:00 GMT",
-        "first_seen": "2025-10-20T23:18:58.846661"
-      },
-      "8aad86545ce7527a5ad0611770327b2bd5db0c705db2bf0daa2c631ae10f5f3f": {
-        "title": "刚上市又砸8.5亿扩产！天和磁材产销量下滑，新增产能消化存疑",
-        "link": "https://www.tmtpost.com/7732291.html",
-        "published_date": "Mon, 20 Oct 2025 19:46:00 GMT",
-        "first_seen": "2025-10-20T23:18:58.846671"
-      },
-      "a79f50896da6fe95934dda97af47e702bacf8127530826a1568f6943bbac3af4": {
-        "title": "Robotaxi全球第一股： 美股“过山车”，回港再寻路",
-        "link": "https://www.tmtpost.com/7731521.html",
-        "published_date": "Mon, 20 Oct 2025 19:37:00 GMT",
-        "first_seen": "2025-10-20T23:18:10.520401"
-      },
-      "f59f4685f2e16d0d7382ec0ad249fd104d8e463810ec9df16591315196bc0d49": {
-        "title": "谁能接住西贝儿童餐的「饭碗」？",
-        "link": "https://www.tmtpost.com/7732184.html",
-        "published_date": "Mon, 20 Oct 2025 18:36:00 GMT",
-        "first_seen": "2025-10-20T23:18:10.520710"
-      },
-      "2ac9217364bbdde4714f6085c15f8c2009d994024b4c0af97a17e5961986223a": {
-        "title": "数字世界“身后事”：注销手机号等于“出卖”自己？",
-        "link": "https://www.tmtpost.com/7732141.html",
-        "published_date": "Mon, 20 Oct 2025 18:36:00 GMT",
-        "first_seen": "2025-10-20T23:18:10.521217"
-      },
-      "33094c79309e5e3abca3ab7ec32de55ff42e4dc9cd8ab82188f0865ee7f4faf4": {
-        "title": "紫金矿业系业绩亮眼，为何股价反跌？",
-        "link": "https://www.tmtpost.com/7731938.html",
-        "published_date": "Mon, 20 Oct 2025 18:10:00 GMT",
-        "first_seen": "2025-10-20T23:18:10.521593"
-      },
-      "41dd24a70518048bf0283baebc6f5254c08e79be0c09ce54adfe3803d5f453cc": {
-        "title": "邀Labubu进「中国朋友圈」，库克需要新引擎",
-        "link": "https://www.tmtpost.com/7732061.html",
-        "published_date": "Mon, 20 Oct 2025 18:09:00 GMT",
-        "first_seen": "2025-10-20T23:18:10.522149"
-      },
-      "892a46e05b9287d68966fe921c7c216c2de9ff5aaa234664e62588cfb7445e3c": {
-        "title": "【Fintech 周报】多地预警黄金投资骗局；今年超300家中小银行合并、解散；农行股价“12连阳”",
-        "link": "https://www.tmtpost.com/7732167.html",
-        "published_date": "Mon, 20 Oct 2025 18:00:00 GMT",
-        "first_seen": "2025-10-20T23:18:10.523178"
-      },
-      "f63b9f8493a06c62ae93775c6f623cc0dbdd21d97fa553dab68126619296358e": {
-        "title": "【生态环境周观察】电动车充电设施三年倍增方案出炉；全球首个聚变能研究与培训协作中心落地中国",
-        "link": "https://www.tmtpost.com/7731444.html",
-        "published_date": "Mon, 20 Oct 2025 17:59:00 GMT",
-        "first_seen": "2025-10-20T23:18:10.524032"
-      },
-      "87ac602d9fa948b21f793c2fa98892486ca1194e35cacf6af9055341195099b8": {
-        "title": "下一个半导体周期，这些领域是关键",
-        "link": "https://www.tmtpost.com/7731569.html",
-        "published_date": "Mon, 20 Oct 2025 17:42:00 GMT",
-        "first_seen": "2025-10-20T23:18:10.524558"
-      },
-      "0c69786d292834fcf93a02eda4cb0ce10995921d2075fedc83ac36a61b6b2628": {
-        "title": "谷歌终止隐私沙盒计划，也关闭了开放互联网的共识大门？",
-        "link": "https://www.tmtpost.com/7731788.html",
-        "published_date": "Mon, 20 Oct 2025 17:42:00 GMT",
-        "first_seen": "2025-10-20T23:18:10.525172"
-      },
-      "243423bcc59335120c96642dac39317c86897fccf664ad5ee1c3f73518c504db": {
-        "title": "在海拔5000米的无人区建立城市，这是决策失误吗？",
-        "link": "http://www.huxiu.com/article/4793774.html?f=wangzhan",
-        "published_date": "Mon, 20 Oct 2025 19:00:00 GMT",
-        "first_seen": "2025-10-20T23:18:10.525842"
-      },
-      "a3539a2233e442c3ac270ca7856ecb48f80a510f4ec800c5c52444e37e81514d": {
-        "title": "重生之我在A股开超市？超市战法能否助我财富自由？",
-        "link": "http://www.huxiu.com/article/4793193.html?f=wangzhan",
-        "published_date": "Mon, 20 Oct 2025 16:00:00 GMT",
-        "first_seen": "2025-10-20T23:18:10.526649"
-      },
-      "2c3696ca5d32e2f63e5b6352cda167ad23ddd3ea6a530a7361d5b6baa4681a6f": {
-        "title": "“谈故障色变”到有章可循：美图 SRE 故障应急与复盘实践",
-        "link": "https://www.infoq.cn/article/q758X6eDoHOcQ49TDoIH?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 20 Oct 2025 18:45:00 GMT",
-        "first_seen": "2025-10-20T23:18:10.527600"
-      },
-      "bebb29e05485ff6694a63984587490863118b5dea81fc4d15f11f6029b031816": {
-        "title": "AI Agent 上下文管理：基于搭叩的七大原则与实践",
-        "link": "https://www.infoq.cn/article/ufSVUGyl6fvVMqx67yCc?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 20 Oct 2025 18:33:00 GMT",
-        "first_seen": "2025-10-20T23:18:10.528668"
-      },
-      "f8cc69dc8b6d8293f940d43844fabeeaebe81502f40a20e4163ec79c41b33c0a": {
-        "title": "AI技术深度聚焦+互动体验：开发者狂欢派对来袭！Community Day@2025亮点全开麦",
-        "link": "https://www.infoq.cn/article/bFtmfVfRqRZEd2w1m3xg?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 20 Oct 2025 18:22:00 GMT",
-        "first_seen": "2025-10-20T23:18:58.846544"
-      },
-      "17db0d5f6153c90e5203d9d1ed087ab3ecf00228dc4637c167246ceacddaa1f2": {
-        "title": "解密硬核黑科技如何让企业低成本+低门槛搭建 AI 应用",
-        "link": "https://www.infoq.cn/video/YwmfUWpUA11GoCMKff0a?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 20 Oct 2025 17:33:00 GMT",
-        "first_seen": "2025-10-20T23:18:58.846573"
-      },
-      "93cfd3e927696f5c20d54bc5d94f955ba54a0f978eb7b5690650b62d8cee4bbc": {
-        "title": "万条推文“怒轰”、估值下跌， OpenAI被误导性“突破”反噬！陶哲轩：有实力，但方向错了？",
-        "link": "https://www.infoq.cn/article/guaOVzEbPttStIfZvCt5?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 20 Oct 2025 17:32:00 GMT",
-        "first_seen": "2025-10-20T23:18:58.846590"
-      },
-      "0d5e81f5636bd34810fc802762ad60f3fa358c4c5e7bc0d9a2ddf1c5b621a6eb": {
-        "title": "AgentOps 实战：字节复杂 Agent 的效果评测与迭代优化｜QCon 上海",
-        "link": "https://www.infoq.cn/article/34cESjrNGpO0S1PPgZHC?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 20 Oct 2025 16:21:00 GMT",
-        "first_seen": "2025-10-20T23:18:10.534498"
-      },
-      "ec8456764d54c9f8e7015ba3ff16c8f35eab3a3bb6566f0b16a70fe00f71591d": {
-        "title": "派评 | 近期值得关注的 App",
-        "link": "https://sspai.com/post/103223",
-        "published_date": "Mon, 20 Oct 2025 17:57:00 GMT",
-        "first_seen": "2025-10-20T23:18:10.535469"
-      },
       "7db09b9c28f5f6e5a124c78f4b950c60d68c2bce5d474797eefb5affb01afd7b": {
         "title": "Talos Linux：为Kubernetes操作带来不可变性和安全性",
         "link": "https://www.infoq.cn/article/xig93L6EVEudSJuFrpjS?utm_source=rss&utm_medium=article",
@@ -7555,8 +7375,8 @@
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-19T23:11:34.741837",
-    "Technology": "2025-11-19T23:11:34.780697",
-    "Finance": "2025-11-19T23:11:34.631561"
+    "AI": "2025-11-20T05:12:14.554984",
+    "Technology": "2025-11-20T05:12:14.592586",
+    "Finance": "2025-11-20T05:12:14.441495"
   }
 }
