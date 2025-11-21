@@ -1,30 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "e9f890c5172e665a4feab3d4353375419c7aa94267a5e451f6f5f050c3540e3b": {
-        "title": "讯飞刚发的财报：净利润暴涨了202%",
-        "link": "https://www.qbitai.com/2025/10/344260.html",
-        "published_date": "Tue, 21 Oct 2025 10:08:00 GMT",
-        "first_seen": "2025-10-21T23:19:36.538137"
-      },
-      "e89912dd2102d7b3debe33c0a44e1ac5036f9fc3ad9e6d22d2b5c9653fbedde5": {
-        "title": "商汤科技亮相上海知识产权国际论坛，探讨AI×IP创新变革新格局",
-        "link": "https://www.qbitai.com/2025/10/344252.html",
-        "published_date": "Tue, 21 Oct 2025 09:30:00 GMT",
-        "first_seen": "2025-10-21T23:19:36.538294"
-      },
-      "33e7865d68efffbd5af77c16c9d56293da74497fa530aeb00a76e84198472c4f": {
-        "title": "“最美产品经理”宋紫薇，创业AI硬件首款产品曝光",
-        "link": "https://www.qbitai.com/2025/10/344241.html",
-        "published_date": "Tue, 21 Oct 2025 09:26:00 GMT",
-        "first_seen": "2025-10-21T23:19:36.538484"
-      },
-      "9d60f06b1b85adbb03f3191652f16d39b172fad52afbdeb25936c05c29a79e00": {
-        "title": "马斯克：工资不到位，特斯拉CEO我不干了",
-        "link": "https://www.qbitai.com/2025/10/344185.html",
-        "published_date": "Tue, 21 Oct 2025 09:09:00 GMT",
-        "first_seen": "2025-10-21T23:19:36.538673"
-      },
       "b04004baecbc5027b51c27672a4e4ae6859d695113797a4febf0d1e6fdda24bb": {
         "title": "雨天勇闯8D山城重庆 新款坦克400的AI司机好用吗？",
         "link": "https://www.qbitai.com/2025/10/344334.html",
@@ -813,138 +789,6 @@
       }
     },
     "Technology": {
-      "5afd6cff862fbdf9fefdf5114758600c3ef2042a5d0a7c5b74a36fd7b0830cc8": {
-        "title": "为什么内娱老是出现那几张脸？",
-        "link": "http://www.huxiu.com/article/4794100.html?f=wangzhan",
-        "published_date": "Tue, 21 Oct 2025 21:00:00 GMT",
-        "first_seen": "2025-10-21T23:20:25.084133"
-      },
-      "e6dafe268010a19d1c35c2ca6371cba77787e62dadba687fa847c0ac3ab1840d": {
-        "title": "从“少女的白月光”到“时代的眼泪”：潘多拉在中国的黯然退场",
-        "link": "http://www.huxiu.com/article/4794305.html?f=wangzhan",
-        "published_date": "Tue, 21 Oct 2025 18:30:00 GMT",
-        "first_seen": "2025-10-21T23:20:25.084144"
-      },
-      "76c01ce7246bbc892cb1b34e56d72abb826b451c9769ea73f0fbe71c8a3daf1e": {
-        "title": "美国玩阴的？利用某果手机漏洞攻击“北京时间”，想搞垮中国？",
-        "link": "http://www.huxiu.com/article/4794640.html?f=wangzhan",
-        "published_date": "Tue, 21 Oct 2025 16:00:00 GMT",
-        "first_seen": "2025-10-21T23:20:25.084153"
-      },
-      "7dfa2790ae4e8cd7846d10b6bcb49ec476b6fd712f770cb0dcae55946f74b101": {
-        "title": "马云让C位，谢霆锋为啥这么有钱？",
-        "link": "http://www.huxiu.com/article/4794232.html?f=wangzhan",
-        "published_date": "Tue, 21 Oct 2025 15:30:00 GMT",
-        "first_seen": "2025-10-21T23:20:25.084161"
-      },
-      "1cd2dc38bfe45eca8dc4755f1645571ca8e56877d2014af15ff22bf50c4fffa7": {
-        "title": "群兴玩具并购天宽科技告吹，十年五度转型路屡战屡败｜并购一线",
-        "link": "https://www.tmtpost.com/7733863.html",
-        "published_date": "Tue, 21 Oct 2025 20:49:00 GMT",
-        "first_seen": "2025-10-21T23:20:25.084087"
-      },
-      "d0bb97ec484f1938276061c3d481a48a50c494f946a39c5386b293f70feb61f8": {
-        "title": "助贷新规月考：中小银行无视白名单，平台变相探索24%+",
-        "link": "https://www.tmtpost.com/7733507.html",
-        "published_date": "Tue, 21 Oct 2025 19:58:00 GMT",
-        "first_seen": "2025-10-21T23:20:25.084110"
-      },
-      "07dce6ff8a9570566feefcff5b732e2998720d0754afdd6fd86846bc3135ccf6": {
-        "title": "从“刘易斯拐点”到“骑手拐点”，即时零售3.0时代还有多远？",
-        "link": "https://www.tmtpost.com/7733320.html",
-        "published_date": "Tue, 21 Oct 2025 19:56:00 GMT",
-        "first_seen": "2025-10-21T23:20:25.084171"
-      },
-      "11f79979f36fc54018f6c839ec9f956cd1a99917b612646e3db0d2bacc0d871b": {
-        "title": "真假混战：Agent元年，如何拨开概念迷雾？",
-        "link": "https://www.tmtpost.com/7733267.html",
-        "published_date": "Tue, 21 Oct 2025 19:54:00 GMT",
-        "first_seen": "2025-10-21T23:20:25.084179"
-      },
-      "9934f146518f810ae3ca4b622a404c785c6428df43d9a6c360637829dc4cf1dc": {
-        "title": "高管争相减持背后，东华软件遇到了业绩瓶颈",
-        "link": "https://www.tmtpost.com/7733378.html",
-        "published_date": "Tue, 21 Oct 2025 19:54:00 GMT",
-        "first_seen": "2025-10-21T23:20:25.084187"
-      },
-      "8216e099572f110fef4f88358cb56d20a0948eee440c7fd273ed38cb186e3651": {
-        "title": "频现亿元级融资，这一眼科重磅设备已到国产爆发前夜",
-        "link": "https://www.tmtpost.com/7733323.html",
-        "published_date": "Tue, 21 Oct 2025 19:48:00 GMT",
-        "first_seen": "2025-10-21T23:19:36.592262"
-      },
-      "bb7c05d160d73125c6d8ec6370f045dd9fa8ef47ad1a01391618405d1858cbf8": {
-        "title": "双 11 面世十七年，淘天熬起“大锅饭”",
-        "link": "https://www.tmtpost.com/7733369.html",
-        "published_date": "Tue, 21 Oct 2025 19:46:00 GMT",
-        "first_seen": "2025-10-21T23:19:36.592752"
-      },
-      "f4024c25f7c2df0ab4d76181f0139db28b110315d36e063e31bfec6d17e154f2": {
-        "title": "小红书电商抖音化能走多远？",
-        "link": "https://www.tmtpost.com/7733303.html",
-        "published_date": "Tue, 21 Oct 2025 19:43:00 GMT",
-        "first_seen": "2025-10-21T23:19:36.593036"
-      },
-      "fff24444dc8011415a469692bf49b92e04fa526fe516ab690bf1347b23b9436a": {
-        "title": "大模型中毒记",
-        "link": "https://www.tmtpost.com/7733363.html",
-        "published_date": "Tue, 21 Oct 2025 19:43:00 GMT",
-        "first_seen": "2025-10-21T23:19:36.593330"
-      },
-      "0f525ff8096f17177d35a25a30ee2035e9982e93e6f7f676aa3e8d66abd6856f": {
-        "title": "日本餐饮的“平成食代”，正是中国“西贝们”的镜与鉴",
-        "link": "https://www.tmtpost.com/7733478.html",
-        "published_date": "Tue, 21 Oct 2025 19:43:00 GMT",
-        "first_seen": "2025-10-21T23:19:36.593952"
-      },
-      "121779165545f6a382358f4d03f5f65f29aaa0b0b529792d4bcc595612bcc0e1": {
-        "title": "多晶硅产能收储，究竟富了谁？",
-        "link": "https://www.tmtpost.com/7733383.html",
-        "published_date": "Tue, 21 Oct 2025 19:31:00 GMT",
-        "first_seen": "2025-10-21T23:19:36.594378"
-      },
-      "f9832b13b5d302a20e48a5078e34ceb1a7ce17fcf982cd05b919a16244611118": {
-        "title": "本地生活赛道，进入“组团作战”时代",
-        "link": "https://www.tmtpost.com/7733442.html",
-        "published_date": "Tue, 21 Oct 2025 19:31:00 GMT",
-        "first_seen": "2025-10-21T23:19:36.594989"
-      },
-      "4ccf45a7151a1f7c1e7ce67ecdffb6dd751aa2accec91492b98025dddca7accf": {
-        "title": "健康险“抢位赛”升级，谁是筹码最多的玩家？",
-        "link": "https://www.tmtpost.com/7733435.html",
-        "published_date": "Tue, 21 Oct 2025 19:18:00 GMT",
-        "first_seen": "2025-10-21T23:19:36.595774"
-      },
-      "9198baf8c2f8040024aa960686fc215d34d086d8da965b39d710a80c8b71c6f3": {
-        "title": "中国超市，开到宇宙尽头",
-        "link": "https://www.tmtpost.com/7733502.html",
-        "published_date": "Tue, 21 Oct 2025 19:13:00 GMT",
-        "first_seen": "2025-10-21T23:19:36.596290"
-      },
-      "d94384380276422054ae2fa66f09f5402fe96ffc087eb5e1f2ddfa3457812326": {
-        "title": "徒步登山的「松弛」，明码标价",
-        "link": "https://www.tmtpost.com/7733420.html",
-        "published_date": "Tue, 21 Oct 2025 19:12:00 GMT",
-        "first_seen": "2025-10-21T23:19:36.596902"
-      },
-      "847f2628ee751946b62a1b15d80a2e32b4725612f44d8a2ad79bf6196a47ee33": {
-        "title": "李剑威：中国可回收火箭的进展以及深蓝航天的实践",
-        "link": "https://www.tmtpost.com/7733421.html",
-        "published_date": "Tue, 21 Oct 2025 19:12:00 GMT",
-        "first_seen": "2025-10-21T23:19:36.597622"
-      },
-      "c6db4711e66d9f10db1d7db682177ac89136a388c63af88b815abfba9545614a": {
-        "title": "提效软件研发，AI Agent 好用吗？",
-        "link": "https://www.infoq.cn/article/FTgr00KufraGLBRLFPlY?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 21 Oct 2025 19:50:00 GMT",
-        "first_seen": "2025-10-21T23:20:25.084124"
-      },
-      "865c19a14bde3f3e661a515217ae69133bd53bd8bd1f732dffb907eb913ba556": {
-        "title": "社区速递 114 | 新车该「裸奔」还是「穿衣」、作者的新玩意和一周热评",
-        "link": "https://sspai.com/post/103240",
-        "published_date": "Tue, 21 Oct 2025 17:07:00 GMT",
-        "first_seen": "2025-10-21T23:19:36.599647"
-      },
       "8f0f44c133e1d7a3f974f45b76b28a972ec6d06fa429478cc0afeeb2adcb67aa": {
         "title": "亚马逊云科技公司推出EC2实例认证",
         "link": "https://www.infoq.cn/article/8Ttbl2JhW4hslXgZ0Zdm?utm_source=rss&utm_medium=article",
@@ -7045,8 +6889,8 @@
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-20T23:11:11.247386",
-    "Technology": "2025-11-20T23:11:11.285767",
-    "Finance": "2025-11-20T23:11:11.133515"
+    "AI": "2025-11-21T05:12:31.986982",
+    "Technology": "2025-11-21T05:12:32.026823",
+    "Finance": "2025-11-21T05:12:31.871732"
   }
 }
