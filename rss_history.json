@@ -1,36 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "b04004baecbc5027b51c27672a4e4ae6859d695113797a4febf0d1e6fdda24bb": {
-        "title": "雨天勇闯8D山城重庆 新款坦克400的AI司机好用吗？",
-        "link": "https://www.qbitai.com/2025/10/344334.html",
-        "published_date": "Wed, 22 Oct 2025 03:54:00 GMT",
-        "first_seen": "2025-10-22T05:20:51.726609"
-      },
-      "18854d9a26b3fa95955ff487a05111938d2f9eb807abaacb18d03d322de03f4f": {
-        "title": "阿里通义千问拿下爱彼迎，CEO公开力挺：比OpenAI好、硅谷都在用",
-        "link": "https://www.qbitai.com/2025/10/344328.html",
-        "published_date": "Wed, 22 Oct 2025 03:11:00 GMT",
-        "first_seen": "2025-10-22T05:20:51.726800"
-      },
-      "5a82775f5f77472191ac726fc1023a131c049e07512552d639df4592c9d3a734": {
-        "title": "商汤科技杨帆出席上海知识产权国际论坛，探讨AI重塑知识产权新格局",
-        "link": "https://www.qbitai.com/2025/10/344318.html",
-        "published_date": "Wed, 22 Oct 2025 03:05:00 GMT",
-        "first_seen": "2025-10-22T05:20:51.726984"
-      },
-      "1f0454bea481ace61a2933471648787b3b20715d274a500314cdd194c3c1b76f": {
-        "title": "2025全球人工智能+大会将于11月15日至17日在京启幕",
-        "link": "https://www.qbitai.com/2025/10/344309.html",
-        "published_date": "Wed, 22 Oct 2025 02:48:00 GMT",
-        "first_seen": "2025-10-22T05:20:51.727172"
-      },
-      "cde096dcdae1d017eb0e6a13b078111076a51420a411859e263572415152a2e4": {
-        "title": "OpenAI首款ChatGPT浏览器发布！现在就能免费下载使用",
-        "link": "https://www.qbitai.com/2025/10/344277.html",
-        "published_date": "Wed, 22 Oct 2025 00:16:00 GMT",
-        "first_seen": "2025-10-22T05:20:51.727420"
-      },
       "a3e9ca8f1986bbc3aab590ddffa26a8e75a9d675fade09602d8505cbb4e72c1e": {
         "title": "中国数学家再中数学四大刊，兰州大学首篇：突破斯托克斯方程“光滑性”限制",
         "link": "https://www.qbitai.com/2025/10/344341.html",
@@ -789,168 +759,6 @@
       }
     },
     "Technology": {
-      "8f0f44c133e1d7a3f974f45b76b28a972ec6d06fa429478cc0afeeb2adcb67aa": {
-        "title": "亚马逊云科技公司推出EC2实例认证",
-        "link": "https://www.infoq.cn/article/8Ttbl2JhW4hslXgZ0Zdm?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Oct 2025 13:00:00 GMT",
-        "first_seen": "2025-10-22T05:21:40.160209"
-      },
-      "51b5a56ad52c61d47d8d391f080d51fcbc4549874a49976660b24cfe04c8c3f8": {
-        "title": "研究人员推出ACE框架，实现大语言模型自我优化上下文",
-        "link": "https://www.infoq.cn/article/ULlMPRM1hiOffBApjf6t?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Oct 2025 12:00:00 GMT",
-        "first_seen": "2025-10-22T05:21:40.160293"
-      },
-      "3706a6a94ce9c5912dda8f95ed7b55495f1d7934db9be89c0c8d01aa7f884d3e": {
-        "title": "模力工场 016 周 AI 应用榜：来看 AI 图表双雄争霸战，效率与创造力全线爆发！",
-        "link": "https://www.infoq.cn/article/ugSWKSf7yOCUYZ5ofxNt?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Oct 2025 11:19:00 GMT",
-        "first_seen": "2025-10-22T05:21:40.160305"
-      },
-      "d95b09ecb55b4ef9d27d24c4ab11a0b9c1b371e7d45e3911a2173a69f4e1f4ce": {
-        "title": "谷歌开源的Gemini CLI扩展助力开发者构建定制化人工智能工作流",
-        "link": "https://www.infoq.cn/article/HFPYIuLgKdWQiKs9ewoB?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Oct 2025 11:00:00 GMT",
-        "first_seen": "2025-10-22T05:21:40.160315"
-      },
-      "6e609fd2b3860224c285e3a31906a0b12d00754ad8209ed6f85c6b7e3e64164a": {
-        "title": "GitHub MCP注册中心提供了一个发现和部署MCP服务器的中心枢纽",
-        "link": "https://www.infoq.cn/article/cTkI5BVRelKx4tg3cGtr?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Oct 2025 10:09:00 GMT",
-        "first_seen": "2025-10-22T05:21:40.160326"
-      },
-      "1514bb2994315e5785ba375b667fee10747eabb2ab39b6cacde23cc464f8019f": {
-        "title": "东土科技收购IPO“钉子户”高威科：标的客户资源与科研成色引关注｜并购一线",
-        "link": "https://www.tmtpost.com/7734474.html",
-        "published_date": "Wed, 22 Oct 2025 12:55:00 GMT",
-        "first_seen": "2025-10-22T05:21:40.160241"
-      },
-      "e7eb7629b54cdc18d892755d058a43a422c48d3df6b755ffc277f337f1a10e0a": {
-        "title": "AI时代，ERP的“破”与“立”",
-        "link": "https://www.tmtpost.com/7733908.html",
-        "published_date": "Wed, 22 Oct 2025 12:44:00 GMT",
-        "first_seen": "2025-10-22T05:21:40.160337"
-      },
-      "fc518f649be1931dec3c93a325f349bf9f4090c592e334bcd3ff2fa04121179c": {
-        "title": "China Powers Ahead in Middle East and North Africa Solar Markets",
-        "link": "https://www.tmtpost.com/7734462.html",
-        "published_date": "Wed, 22 Oct 2025 12:13:00 GMT",
-        "first_seen": "2025-10-22T05:20:51.784091"
-      },
-      "21f47487ab77ab2357f10da21b6f7a69ec73a2df4cf70366c7101703099de4ca": {
-        "title": "可口可乐：\"散装肥宅水\"，喝出稳稳的幸福？",
-        "link": "https://www.tmtpost.com/7733976.html",
-        "published_date": "Wed, 22 Oct 2025 11:52:00 GMT",
-        "first_seen": "2025-10-22T05:20:51.784467"
-      },
-      "ce2b8d9736418adc5a72b1a99c9af229255468546b8a833a64490c74c1700837": {
-        "title": "41亿净现金，胖东来告诉你什么才是真正的赚钱",
-        "link": "https://www.tmtpost.com/7734360.html",
-        "published_date": "Wed, 22 Oct 2025 11:52:00 GMT",
-        "first_seen": "2025-10-22T05:20:51.784890"
-      },
-      "3147707106bc978d733ff6c263548f47288c4453300150e55d6f13206deb3b50": {
-        "title": "全球酒店，正在满世界寻找“人多”的地方",
-        "link": "https://www.tmtpost.com/7733639.html",
-        "published_date": "Wed, 22 Oct 2025 11:52:00 GMT",
-        "first_seen": "2025-10-22T05:20:51.785361"
-      },
-      "d54d79874c4360b0f535fd0386ed428c4e097d10f8c17cc8494acc1eda9999ad": {
-        "title": "老鹰半导体B+轮融资超7亿元，创VCSEL产业单轮融资纪录",
-        "link": "https://www.tmtpost.com/7734390.html",
-        "published_date": "Wed, 22 Oct 2025 11:28:00 GMT",
-        "first_seen": "2025-10-22T05:20:51.785961"
-      },
-      "d882cb0b50c1f7b30de5036148c6cdc313001988283f8ea86c0a7c7de676fdbb": {
-        "title": "英伟达向左，寒武纪向右",
-        "link": "https://www.tmtpost.com/7733614.html",
-        "published_date": "Wed, 22 Oct 2025 11:11:00 GMT",
-        "first_seen": "2025-10-22T05:20:51.786347"
-      },
-      "e924db2598c39bc277c49258f797c8d484450e0d8ca1dcfb3f5476b2a33c5dcb": {
-        "title": "金钢科技完成数千万元Pre-A++轮融资，引领机器人行业关键零部件变革 | 融资首发",
-        "link": "https://www.tmtpost.com/7734299.html",
-        "published_date": "Wed, 22 Oct 2025 11:10:00 GMT",
-        "first_seen": "2025-10-22T05:21:40.160257"
-      },
-      "5cf33de29571bbb7857920f869bbdbb1defd86063d62872540a16654961dddd4": {
-        "title": "AI应用落地也需要“去中心化”丨ToB产业观察",
-        "link": "https://www.tmtpost.com/7734225.html",
-        "published_date": "Wed, 22 Oct 2025 11:00:00 GMT",
-        "first_seen": "2025-10-22T05:20:51.787977"
-      },
-      "555491dd400da885c4caeb5f0f92d26c5558001aece190174091355b318d262b": {
-        "title": "直击iPhone Air发售现场：开售即破发，小众“偏科生”难突围",
-        "link": "https://www.tmtpost.com/7734345.html",
-        "published_date": "Wed, 22 Oct 2025 10:57:00 GMT",
-        "first_seen": "2025-10-22T05:20:51.788988"
-      },
-      "4ac4b37c8d36648d6bc92d5fac734d2d7c6e917deec8c61c1d94f14e23f8ebf7": {
-        "title": "“隐形冠军”神话终破灭",
-        "link": "https://www.tmtpost.com/7733952.html",
-        "published_date": "Wed, 22 Oct 2025 10:48:00 GMT",
-        "first_seen": "2025-10-22T05:20:51.789491"
-      },
-      "d0233da24034eeeac44079b30600b9499f936861b05b6f134502076fe10fdcfe": {
-        "title": "800亿美金天价索赔背后：中国矿企出海如何穿越ESG雷区？",
-        "link": "https://www.tmtpost.com/7734166.html",
-        "published_date": "Wed, 22 Oct 2025 10:47:00 GMT",
-        "first_seen": "2025-10-22T05:20:51.790278"
-      },
-      "e255d01db97ef5e40da96bd3dc2bdd97ff193a92854e3a11a24106a47610cc05": {
-        "title": "两日五单、43亿美元，中国创新药在“ESMO+季节性”双窗口里加速出货｜行业风向标",
-        "link": "https://www.tmtpost.com/7733982.html",
-        "published_date": "Wed, 22 Oct 2025 10:36:00 GMT",
-        "first_seen": "2025-10-22T05:21:40.160269"
-      },
-      "98b27ecd69c4e38f04a43b602694ee779bf45f72a5b8cec29997110c4bb768bb": {
-        "title": "高德，需要向蒋凡“毛遂自荐”",
-        "link": "https://www.tmtpost.com/7733984.html",
-        "published_date": "Wed, 22 Oct 2025 09:38:00 GMT",
-        "first_seen": "2025-10-22T05:20:51.792297"
-      },
-      "0799721291d4e9ebfde5f7b772d3570a0d96311e1a0c1a832cbc5dfc14a5e999": {
-        "title": "3亿收购老板娘公司，蜜雪冰城买的什么酒？",
-        "link": "https://www.tmtpost.com/7734142.html",
-        "published_date": "Wed, 22 Oct 2025 09:38:00 GMT",
-        "first_seen": "2025-10-22T05:20:51.793091"
-      },
-      "f4d01ed2ae2291f65627a28734483956871f0c36355e7a55ac1f8ef8778dbcf7": {
-        "title": "疫苗赛道下一个“爆款”之争",
-        "link": "https://www.tmtpost.com/7734113.html",
-        "published_date": "Wed, 22 Oct 2025 08:52:00 GMT",
-        "first_seen": "2025-10-22T05:20:51.793836"
-      },
-      "b71da56a276273a81e3146a6a6a3cd4f62a654915c828f319e04bac9a0a66b0b": {
-        "title": "宁德时代、博世这些顶级供应商，为何都要为零跑汽车站台？",
-        "link": "http://www.huxiu.com/article/4794050.html?f=wangzhan",
-        "published_date": "Wed, 22 Oct 2025 11:54:00 GMT",
-        "first_seen": "2025-10-22T05:20:51.794862"
-      },
-      "2b6077f8e3abacf5c56e720782443a5ae90fbc870b8c2a2d15239d12a90b15cd": {
-        "title": "曹德旺卸任董事长，福耀“二代”接班不容易",
-        "link": "http://www.huxiu.com/article/4794836.html?f=wangzhan",
-        "published_date": "Wed, 22 Oct 2025 08:00:00 GMT",
-        "first_seen": "2025-10-22T05:20:51.795833"
-      },
-      "dd0200ee83c495409a4589ce15c968cbc2a94c09fea127acddb8b97003a0fcc0": {
-        "title": "1024 特别直播｜不止代码 —— 用科技重新定义你的生活",
-        "link": "https://sspai.com/post/103242",
-        "published_date": "Wed, 22 Oct 2025 11:00:00 GMT",
-        "first_seen": "2025-10-22T05:21:40.160282"
-      },
-      "7362b24fb103d6fe46af306ac7a5dec2b8ea35834ef3594176a622005f0abb00": {
-        "title": "派早报：PS5 Pro 国行版发售等",
-        "link": "https://sspai.com/post/103250",
-        "published_date": "Wed, 22 Oct 2025 07:30:00 GMT",
-        "first_seen": "2025-10-22T05:20:51.798178"
-      },
-      "f8bbb8814f53bc9b3f3b7f355e6b69d029d0fe7ba68b86b606267251f551ba7e": {
-        "title": "亚马逊秘密文件曝光：用机器人取代 60 万美国工人；红果内测短剧带货；OpenAI 推出 AI 浏览器",
-        "link": "http://www.geekpark.net/news/355228",
-        "published_date": "Wed, 22 Oct 2025 08:47:00 GMT",
-        "first_seen": "2025-10-22T05:20:51.800100"
-      },
       "ec187df476b138234941f3de8f1a58ae72f778960f4c0b82b0dc28c23c59226c": {
         "title": "AI编程工具在大型企业“遇冷”？网易CodeWave升级研发模式，不只关注“代码生成”",
         "link": "https://www.infoq.cn/article/SOE9Qzv1iutE2mrmLuiM?utm_source=rss&utm_medium=article",
@@ -6889,8 +6697,8 @@
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-21T05:12:31.986982",
-    "Technology": "2025-11-21T05:12:32.026823",
-    "Finance": "2025-11-21T05:12:31.871732"
+    "AI": "2025-11-21T08:17:09.845438",
+    "Technology": "2025-11-21T08:17:09.884178",
+    "Finance": "2025-11-21T08:17:09.730950"
   }
 }
