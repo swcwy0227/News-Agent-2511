@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "a3e9ca8f1986bbc3aab590ddffa26a8e75a9d675fade09602d8505cbb4e72c1e": {
-        "title": "中国数学家再中数学四大刊，兰州大学首篇：突破斯托克斯方程“光滑性”限制",
-        "link": "https://www.qbitai.com/2025/10/344341.html",
-        "published_date": "Wed, 22 Oct 2025 06:33:00 GMT",
-        "first_seen": "2025-10-22T08:30:38.596043"
-      },
       "dcf6a30563685e78290b9458b8b51351039a59ef5a0291d3fb7947110fe442cf": {
         "title": "刚拿诺奖就登Nature封面！谷歌“量子回声”算法计算提速13000倍，可重复验证结果",
         "link": "https://www.qbitai.com/2025/10/344690.html",
@@ -759,108 +753,6 @@
       }
     },
     "Technology": {
-      "ec187df476b138234941f3de8f1a58ae72f778960f4c0b82b0dc28c23c59226c": {
-        "title": "AI编程工具在大型企业“遇冷”？网易CodeWave升级研发模式，不只关注“代码生成”",
-        "link": "https://www.infoq.cn/article/SOE9Qzv1iutE2mrmLuiM?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Oct 2025 15:57:00 GMT",
-        "first_seen": "2025-10-22T08:31:27.005742"
-      },
-      "19f9000ed651f969e49209843d146934db54ff48473f2ac365a809ea9bacf874": {
-        "title": "LangChain 完成新一轮融资，估值 12.5 亿美元",
-        "link": "https://www.infoq.cn/article/WHkGx30RJzlCVXWNXBNo?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Oct 2025 15:21:00 GMT",
-        "first_seen": "2025-10-22T08:31:27.005772"
-      },
-      "f43d80b994aa9c379bbcc756cb9e512ef08216c9bb582e109996b00379ffd7b0": {
-        "title": "百川发布循证增强大模型M2 Plus，幻觉率相比DeepSeek降低3倍",
-        "link": "https://www.infoq.cn/article/Sc3CWRctglQpHzLjF2SR?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Oct 2025 14:53:00 GMT",
-        "first_seen": "2025-10-22T08:31:27.005758"
-      },
-      "659d3af6bcf9181436218aaaa06d3d46e02a92fc7bf16b09e0f09ca597ab61c2": {
-        "title": "Slack新型异常事件响应架构揭秘",
-        "link": "https://www.infoq.cn/article/wl4Ezxketem0kCvxDrwg?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Oct 2025 14:00:00 GMT",
-        "first_seen": "2025-10-22T08:31:27.005783"
-      },
-      "232f8e0ce650d43c3956d66aed05fd0b7f85c20a605af1e9b6bbcfa4b7d6f2f7": {
-        "title": "AI 驱动的新基建：下一代多模态数据湖探索与实践｜QCon 上海",
-        "link": "https://www.infoq.cn/article/LmG6BLiHF5yslVWgmzz2?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Oct 2025 13:37:00 GMT",
-        "first_seen": "2025-10-22T08:31:27.005795"
-      },
-      "518f950c97ae52786e255e6fe36ebc6b1245e65c10b55c0779863779de4b045c": {
-        "title": "模力工场 016 周 AI 应用榜：AI驱动的数据报告神器登榜，效率与创造力双线爆发！",
-        "link": "https://www.infoq.cn/article/ugSWKSf7yOCUYZ5ofxNt?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Oct 2025 11:19:00 GMT",
-        "first_seen": "2025-10-22T08:31:27.005808"
-      },
-      "ec9c25e1878783e7f4498f577f13a6777cee667fdc0db38b4b3998c5e8e2e47d": {
-        "title": "Chinese AI Startup DeepSeek Unveils Open-Source Optical Compression Model for LLM Training",
-        "link": "https://www.tmtpost.com/7734674.html",
-        "published_date": "Wed, 22 Oct 2025 15:50:00 GMT",
-        "first_seen": "2025-10-22T08:31:27.005823"
-      },
-      "36d6a7a0723bbd0f88b1386edb70c698871c1e538acd1d5f311e0638239bd0b1": {
-        "title": "悬浮、朝圣、难复制，胖东来做成了景区生意",
-        "link": "https://www.tmtpost.com/7733925.html",
-        "published_date": "Wed, 22 Oct 2025 15:40:00 GMT",
-        "first_seen": "2025-10-22T08:31:27.005835"
-      },
-      "d2a9052b43a7eacd4bcf013a048c464a56932dafbd677a0a8d74fa8bf901623c": {
-        "title": "气温一降就涨停？特一药业止咳药的“老剧本”还香吗？",
-        "link": "https://www.tmtpost.com/7733907.html",
-        "published_date": "Wed, 22 Oct 2025 15:40:00 GMT",
-        "first_seen": "2025-10-22T08:31:27.005846"
-      },
-      "87d22363422a3b9a49ca410b9a7f647e4218367aeab366d5a399efc1456aab10": {
-        "title": "10月22日A股分析：沪指微跌0.07%，两市成交缩量2060亿元，主力资金净流出510亿，机器人执行器等板块逆势吸金",
-        "link": "https://www.tmtpost.com/7734617.html",
-        "published_date": "Wed, 22 Oct 2025 15:33:00 GMT",
-        "first_seen": "2025-10-22T08:30:38.654893"
-      },
-      "70a5178c88455d8450b119e3a9968a01c0fa4fc0625d05aa096bfaf65d6d9208": {
-        "title": "算力美梦与“割韭菜”骗局",
-        "link": "https://www.tmtpost.com/7733705.html",
-        "published_date": "Wed, 22 Oct 2025 14:36:00 GMT",
-        "first_seen": "2025-10-22T08:30:38.655340"
-      },
-      "60759b235f5815a2a21db91befe1f64f35c4b034854d7ebc989270a29b2db831": {
-        "title": "风电产业链暗战：9000万纠纷背后的信任裂痕与行业阵痛",
-        "link": "https://www.tmtpost.com/7733886.html",
-        "published_date": "Wed, 22 Oct 2025 14:36:00 GMT",
-        "first_seen": "2025-10-22T08:30:38.655929"
-      },
-      "e1cfff6f39ef11971a1ba5ec891a44fb499b160cddeb3f98ad76bbab23ea6e00": {
-        "title": "India Reportedly Closer to Trade Deal to Cut Russian Oil Purchase and Lower U.S. Tariffs to 15%",
-        "link": "https://www.tmtpost.com/7734575.html",
-        "published_date": "Wed, 22 Oct 2025 14:32:00 GMT",
-        "first_seen": "2025-10-22T08:30:38.657720"
-      },
-      "d55faf4c82f195fee5a08f33bfd3db24e0208af2381dca9268b983abec4021ed": {
-        "title": "当跑步成为运动消费新热点，跑步主题集合店能否成为新增量？",
-        "link": "https://www.tmtpost.com/7734578.html",
-        "published_date": "Wed, 22 Oct 2025 14:31:00 GMT",
-        "first_seen": "2025-10-22T08:30:38.658368"
-      },
-      "32fd7af740067aa7709dc778a0452cee91da0bfdc82ff69c9b20f6868d93ffff": {
-        "title": "Google Parent Stock Sinks as OpenAI Launches AI-Powered Browser ChatGPT Atlas",
-        "link": "https://www.tmtpost.com/7734526.html",
-        "published_date": "Wed, 22 Oct 2025 13:36:00 GMT",
-        "first_seen": "2025-10-22T08:30:38.660126"
-      },
-      "98931069b15fca9d8c3cf366903561762271282d224db3dd7f3a83d38dcaa893": {
-        "title": "3年突破1亿美元，亿级科技硬件品牌的出海方法论｜出海参考",
-        "link": "https://www.tmtpost.com/7734382.html",
-        "published_date": "Wed, 22 Oct 2025 13:27:00 GMT",
-        "first_seen": "2025-10-22T08:31:27.005712"
-      },
-      "92d0742028f57575ff4da4d8f78d8c6df80c4ae1bc6f7d5834d8be97737d6e08": {
-        "title": "读懂杨振宁，读懂中国人的自信",
-        "link": "http://www.huxiu.com/article/4794055.html?f=wangzhan",
-        "published_date": "Wed, 22 Oct 2025 13:30:00 GMT",
-        "first_seen": "2025-10-22T08:30:38.661563"
-      },
       "da561a0bea7f3434891430ecbf7f985e40329e5bf4fe28e797e65da7f30bea2c": {
         "title": "道氏技术实控人逢高套现约2.7亿，减持期内多概念密集傍身",
         "link": "https://www.tmtpost.com/7735080.html",
@@ -6697,8 +6589,8 @@
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-21T08:17:09.845438",
-    "Technology": "2025-11-21T08:17:09.884178",
-    "Finance": "2025-11-21T08:17:09.730950"
+    "AI": "2025-11-21T23:10:52.293211",
+    "Technology": "2025-11-21T23:10:52.332251",
+    "Finance": "2025-11-21T23:10:52.179477"
   }
 }
