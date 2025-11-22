@@ -1,30 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "35114ce778dc0659815e1b92f7c3a9670dcb3a24c867ae564bfee8b7afd0c876": {
-        "title": "太疯狂了！Meta裁员裁到田渊栋头上，连组员一锅端",
-        "link": "https://www.qbitai.com/2025/10/344779.html",
-        "published_date": "Thu, 23 Oct 2025 04:20:00 GMT",
-        "first_seen": "2025-10-23T05:25:46.836943"
-      },
-      "17b483e3e2c7f374b71a3830fbf7543b095decf8765c32a5e4733b85c98c5b6f": {
-        "title": "中国模型打服硅谷：Airbnb联创CEO感叹又好又快又便宜！ChatGPT合作都拒了",
-        "link": "https://www.qbitai.com/2025/10/344763.html",
-        "published_date": "Thu, 23 Oct 2025 04:13:00 GMT",
-        "first_seen": "2025-10-23T05:25:46.837146"
-      },
-      "4f0cf325ba9df6b98cc6633e8b6ca622366637b1a81ab441b753770412b1d82b": {
-        "title": "KTransformers入选计算机系统顶会、与主流框架合作，趋境&清华让「异构」成为推理新范式",
-        "link": "https://www.qbitai.com/2025/10/344731.html",
-        "published_date": "Thu, 23 Oct 2025 01:34:00 GMT",
-        "first_seen": "2025-10-23T05:25:46.837375"
-      },
-      "0300f5fdaada3b6faab8bc31a2047e8efbe18325db65c3781c5e452f3ce6e724": {
-        "title": "Meta AI大裁600人，亚历山大王操刀重点砍向LeCun团队",
-        "link": "https://www.qbitai.com/2025/10/344727.html",
-        "published_date": "Thu, 23 Oct 2025 01:00:00 GMT",
-        "first_seen": "2025-10-23T05:25:46.837657"
-      },
       "1fe64a7c6e5c5655c1f0b4b322b1046a8e2ef333d4039b94a24db040dd9d9f41": {
         "title": "1.3亿美元！LiblibAI拿下国内AI应用赛道年度最大融资",
         "link": "https://www.qbitai.com/2025/10/344890.html",
@@ -717,174 +693,6 @@
       }
     },
     "Technology": {
-      "962cad946f14f9e89dbe54c104c2bab1a20cab49fccb36e996f3b3a128374b9e": {
-        "title": "科技前沿「蓝宝书」：量子计算（下）",
-        "link": "https://www.tmtpost.com/7735259.html",
-        "published_date": "Thu, 23 Oct 2025 13:12:00 GMT",
-        "first_seen": "2025-10-23T05:26:35.209459"
-      },
-      "dce0773d8a86636d38c58f2db0c047d8e7b8d2f8991dec9fa5b86782e352b8b6": {
-        "title": "上市后业绩持续承压，光伏“隐形冠军”泽润新能三季度遭遇首亏",
-        "link": "https://www.tmtpost.com/7735671.html",
-        "published_date": "Thu, 23 Oct 2025 13:00:00 GMT",
-        "first_seen": "2025-10-23T05:26:35.209517"
-      },
-      "1a002e32ec6c204ffb09c4d247a10ed693335b69dfad9a01c001c7b6c55f71a2": {
-        "title": "Alibaba Backs Noematrix in Embodied Intelligence Push, Aiming for \"AI Brain\" Leadership",
-        "link": "https://www.tmtpost.com/7735640.html",
-        "published_date": "Thu, 23 Oct 2025 12:01:00 GMT",
-        "first_seen": "2025-10-23T05:26:35.209532"
-      },
-      "2cb4f7122e8bf0b8849ac6a2799eb75d6dfff160792287eaf4c83dc6367dfb79": {
-        "title": "信达生物的惊天BD，市场为何不买账？",
-        "link": "https://www.tmtpost.com/7735331.html",
-        "published_date": "Thu, 23 Oct 2025 11:56:00 GMT",
-        "first_seen": "2025-10-23T05:26:35.209543"
-      },
-      "a9962fd75644268502868f84950a819340cfb5a3bee1e6c00904ace10f4be654": {
-        "title": "阿里再押“具身智能大脑”，穹彻智能完成新一轮融资｜融资首发",
-        "link": "https://www.tmtpost.com/7735591.html",
-        "published_date": "Thu, 23 Oct 2025 11:12:00 GMT",
-        "first_seen": "2025-10-23T05:26:35.209552"
-      },
-      "d8784b073f66335160ad890695820bdb447b93f856c42983fdc59b196cddd53c": {
-        "title": "酒店品牌CEO巡店，能否成为一门“好生意”？",
-        "link": "https://www.tmtpost.com/7735433.html",
-        "published_date": "Thu, 23 Oct 2025 11:02:00 GMT",
-        "first_seen": "2025-10-23T05:26:35.209561"
-      },
-      "a7daf5c472ae32938618d129cb6aa2aa38c85532c5ffcdc33fd4f63ae1454b43": {
-        "title": "680辆Robotaxi，能撑起小马智行75亿美金市值么",
-        "link": "https://www.tmtpost.com/7735454.html",
-        "published_date": "Thu, 23 Oct 2025 10:49:00 GMT",
-        "first_seen": "2025-10-23T05:26:35.209569"
-      },
-      "78894c1359c28c849779730de12eb52291331872f1456716b193ccd817a0166c": {
-        "title": "OpenAI也来了，巨头为何决战AI浏览器？",
-        "link": "https://www.tmtpost.com/7735434.html",
-        "published_date": "Thu, 23 Oct 2025 10:21:00 GMT",
-        "first_seen": "2025-10-23T05:26:35.209578"
-      },
-      "4530ffa349f1294fc6a25448deb0ee46266e70357ef7b3c0ac8921c49a7e32ca": {
-        "title": "蚂蚁狩猎机器人",
-        "link": "https://www.tmtpost.com/7735048.html",
-        "published_date": "Thu, 23 Oct 2025 10:21:00 GMT",
-        "first_seen": "2025-10-23T05:25:46.905718"
-      },
-      "49bf232a2466abacb07d2e24aa43f517b0b7ad766c5b94dc6357781eeae00c22": {
-        "title": "打败月之暗面的，不是广东老乡的DeepSeek",
-        "link": "https://www.tmtpost.com/7735017.html",
-        "published_date": "Thu, 23 Oct 2025 10:00:00 GMT",
-        "first_seen": "2025-10-23T05:25:46.906093"
-      },
-      "01aa63c56aff447440a2a43f3e56892e1bda494d15aa372a5d617bdce41f171e": {
-        "title": "评测三档新音综：同期对打，只为托举“下一个单依纯”？",
-        "link": "https://www.tmtpost.com/7735179.html",
-        "published_date": "Thu, 23 Oct 2025 09:40:00 GMT",
-        "first_seen": "2025-10-23T05:25:46.906559"
-      },
-      "b12bfa2ed808f4ee43fb5640440411783495f77bf846847b61f20be9806d6f9d": {
-        "title": "理想汽车，“尖子生”不好当",
-        "link": "https://www.tmtpost.com/7735044.html",
-        "published_date": "Thu, 23 Oct 2025 09:20:00 GMT",
-        "first_seen": "2025-10-23T05:25:46.906987"
-      },
-      "237712e0e2fd6e6c6c0647f09eaad2a7560f742a1bfc8f0bc4fa7ed1bbdec220": {
-        "title": "安世半导体危机，逼近欧洲车企",
-        "link": "https://www.tmtpost.com/7735352.html",
-        "published_date": "Thu, 23 Oct 2025 09:00:00 GMT",
-        "first_seen": "2025-10-23T05:25:46.907380"
-      },
-      "069a950f497d3d9bed6132a20ff6b1823075d26bad828f6032306ac7b3150145": {
-        "title": "寒武纪市值飙上6000亿元，背后暗藏多重隐忧",
-        "link": "https://www.tmtpost.com/7735208.html",
-        "published_date": "Thu, 23 Oct 2025 09:00:00 GMT",
-        "first_seen": "2025-10-23T05:25:46.907870"
-      },
-      "d8167cc0ac10a7f98d25e9425d8220c814c81366bca96bef120fa5aefc175ce1": {
-        "title": "四年连亏，照明企业拟收购嘉合劲威切入存储领域；线缆龙头拟出售核心子公司股权，年营收占上市公司50%；【并购一线】",
-        "link": "https://www.tmtpost.com/7735258.html",
-        "published_date": "Thu, 23 Oct 2025 08:41:00 GMT",
-        "first_seen": "2025-10-23T05:25:46.908844"
-      },
-      "09a6325c339c64d05d8ae8796c03fde5230fe9464087b99f28cd85073affa9fa": {
-        "title": "lululemon在北美，正沦为“妈妈品牌”",
-        "link": "https://www.tmtpost.com/7735154.html",
-        "published_date": "Thu, 23 Oct 2025 08:41:00 GMT",
-        "first_seen": "2025-10-23T05:25:46.909469"
-      },
-      "be05156b6a84690d027d2843be9562a5fef9b1e7afca3de4963de2cb3574114c": {
-        "title": "用周期x组织，读懂经营的本质",
-        "link": "https://www.tmtpost.com/7735103.html",
-        "published_date": "Thu, 23 Oct 2025 08:20:00 GMT",
-        "first_seen": "2025-10-23T05:25:46.910020"
-      },
-      "16abef1b1b724e20b40526cb34cdaa968df7d51f490cf0833e6c0e70a157810e": {
-        "title": "堪比黄金价值线，稀土狂飙后的理性思考",
-        "link": "https://www.tmtpost.com/7735198.html",
-        "published_date": "Thu, 23 Oct 2025 08:00:00 GMT",
-        "first_seen": "2025-10-23T05:25:46.910627"
-      },
-      "481cac5e0402bab0e2a36b03ab47c58516864e2801ee1c7887f2b6fac4ac9d08": {
-        "title": "科股早知道：全球首个海风直联海底数据中心示范项目在上海临港落成",
-        "link": "https://www.tmtpost.com/7735305.html",
-        "published_date": "Thu, 23 Oct 2025 07:46:00 GMT",
-        "first_seen": "2025-10-23T05:25:46.911419"
-      },
-      "939f184d058923aa1c82fb38109e1d21348f714b08f140fe9002d39531f303a0": {
-        "title": "利润涨四成，份额创五年新低：宁德时代的增长从何而来？",
-        "link": "https://www.tmtpost.com/7735325.html",
-        "published_date": "Thu, 23 Oct 2025 07:28:00 GMT",
-        "first_seen": "2025-10-23T05:25:46.912274"
-      },
-      "10c1581f4d0e9463554b228b9d55f0a164ca1dbe831cb5b34da0bf81fbeb8da0": {
-        "title": "NPM生态系统遭受了两次基于AI的凭证窃取供应链攻击",
-        "link": "https://www.infoq.cn/article/fQ9AeUc4MBEG8zlDdAYp?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 23 Oct 2025 12:58:00 GMT",
-        "first_seen": "2025-10-23T05:26:35.209488"
-      },
-      "81dbd7d5d8cb0054ab9cf25786d275172510bd47eddb6fa672b0e1181473cc83": {
-        "title": "“神级模型”Gemini 3.0实力刷屏！联手谷歌全新氛围编程工具重塑前端，如今只差官宣",
-        "link": "https://www.infoq.cn/article/jtAoXPZEz6WgjwBVSVyq?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 23 Oct 2025 12:03:00 GMT",
-        "first_seen": "2025-10-23T05:25:46.914312"
-      },
-      "ae5690f716387e48c89981242890b326788211562e701926d12c3e5376167670": {
-        "title": "IBM Cloud Code Engine Serverless Fleets配备GPU以实现高性能人工智能和并行计算",
-        "link": "https://www.infoq.cn/article/oJdiIjMNPMRsJdqyZb0K?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 23 Oct 2025 11:31:00 GMT",
-        "first_seen": "2025-10-23T05:25:46.916060"
-      },
-      "a7cb88d17c87b6adb6d7f499ae0dfd83a4ba29b7b77072d156cc925ce99d5152": {
-        "title": "研究员是不是快要失业了？斯坦福大学把论文“炼”成 AI 了",
-        "link": "https://www.infoq.cn/article/qwFup9jWX9lTvxBLgvuq?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 23 Oct 2025 10:16:00 GMT",
-        "first_seen": "2025-10-23T05:25:46.917257"
-      },
-      "661577de2cbca7c3d2d1306bf2c3cb14ff5d6e0a2861615789e8ffe40a537c68": {
-        "title": "Pixnapping：侧信道漏洞使安卓应用可窃取敏感屏幕数据",
-        "link": "https://www.infoq.cn/article/CVu37dwDyX683qc05IeS?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 23 Oct 2025 09:59:00 GMT",
-        "first_seen": "2025-10-23T05:25:46.918345"
-      },
-      "2b6ae24a1c30c56c4a8c6caf55246c8766d8259988c12f8b07ebc5050ee5c03d": {
-        "title": "鸿蒙 1024｜为缓你升级鸿蒙的阵痛，我做了一款工具箱：NEXT 升级站",
-        "link": "https://sspai.com/post/103018",
-        "published_date": "Thu, 23 Oct 2025 11:27:00 GMT",
-        "first_seen": "2025-10-23T05:25:46.919896"
-      },
-      "bebdab72327a01ffc5cbbd487afc302586402dd95a63e520e9ecb94601bd43b4": {
-        "title": "派早报：三星发布 Galaxy XR 头显、OpenAI 推出 AI 浏览器等",
-        "link": "https://sspai.com/post/103289",
-        "published_date": "Thu, 23 Oct 2025 08:37:00 GMT",
-        "first_seen": "2025-10-23T05:26:35.209505"
-      },
-      "48df6b37b54e9e9b3d399aa3a893e4de111b2c94a8988330016874de6044719f": {
-        "title": "微软 CEO 获 9650 万美元最高薪酬；Netflix 宣布全力投入AI ；王自如曝负债 1 亿，坐绿皮火车",
-        "link": "http://www.geekpark.net/news/355297",
-        "published_date": "Thu, 23 Oct 2025 08:54:00 GMT",
-        "first_seen": "2025-10-23T05:25:46.923863"
-      },
       "c8d8f65f61b538e9cadee45895593e85c4e0f1015082fc3d6e7b8c5ab9559aee": {
         "title": "WeRide's Hong Kong IPO Filing Shows Mounting Losses, Shrinking Revenue Amid Cash Burn",
         "link": "https://www.tmtpost.com/7735953.html",
@@ -6403,8 +6211,8 @@
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-22T05:11:10.726398",
-    "Technology": "2025-11-22T05:11:10.765059",
-    "Finance": "2025-11-22T05:11:10.614190"
+    "AI": "2025-11-22T08:14:35.317590",
+    "Technology": "2025-11-22T08:14:35.356046",
+    "Finance": "2025-11-22T08:14:35.206185"
   }
 }
