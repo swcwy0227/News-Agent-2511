@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "1fe64a7c6e5c5655c1f0b4b322b1046a8e2ef333d4039b94a24db040dd9d9f41": {
-        "title": "1.3亿美元！LiblibAI拿下国内AI应用赛道年度最大融资",
-        "link": "https://www.qbitai.com/2025/10/344890.html",
-        "published_date": "Thu, 23 Oct 2025 06:15:00 GMT",
-        "first_seen": "2025-10-23T08:28:49.544563"
-      },
-      "25325a09cbb1f33837d25d6b37cfdc4060d06d751f3723d89b41841cc4ce193b": {
-        "title": "新研究揭穿Claude底裤，马斯克盖棺定论",
-        "link": "https://www.qbitai.com/2025/10/344863.html",
-        "published_date": "Thu, 23 Oct 2025 06:12:00 GMT",
-        "first_seen": "2025-10-23T08:28:49.544741"
-      },
       "7fdd715c18a9ffdb98fdf5cc51b5515ebb64abd60ff16049302787021254e1b3": {
         "title": "马斯克太难了！特斯拉营收销量创新高，市值一夜蒸发3955亿",
         "link": "https://www.qbitai.com/2025/10/344991.html",
@@ -693,162 +681,6 @@
       }
     },
     "Technology": {
-      "c8d8f65f61b538e9cadee45895593e85c4e0f1015082fc3d6e7b8c5ab9559aee": {
-        "title": "WeRide's Hong Kong IPO Filing Shows Mounting Losses, Shrinking Revenue Amid Cash Burn",
-        "link": "https://www.tmtpost.com/7735953.html",
-        "published_date": "Thu, 23 Oct 2025 16:17:00 GMT",
-        "first_seen": "2025-10-23T08:29:37.970967"
-      },
-      "e203b37a8e32e174296639f2db4062a76ff1d8db080489b5bacc091ff62d168b": {
-        "title": "张艺谋的一部演出，要去IPO了",
-        "link": "https://www.tmtpost.com/7735738.html",
-        "published_date": "Thu, 23 Oct 2025 16:15:00 GMT",
-        "first_seen": "2025-10-23T08:29:37.970978"
-      },
-      "7988acfea66482014b7b0f5f12499e8ea4fb6f46f1277ac3fac02d1bb827dc8a": {
-        "title": "AI产业圈里，混得最惨的那些家伙……",
-        "link": "https://www.tmtpost.com/7735726.html",
-        "published_date": "Thu, 23 Oct 2025 16:00:00 GMT",
-        "first_seen": "2025-10-23T08:29:37.970988"
-      },
-      "4cd4df84ff8531c44cf82c9a0eae2e4a7b46a5f9e718417d032a89b4c819291a": {
-        "title": "六年后，直销已是危城",
-        "link": "https://www.tmtpost.com/7735679.html",
-        "published_date": "Thu, 23 Oct 2025 15:43:00 GMT",
-        "first_seen": "2025-10-23T08:29:37.970998"
-      },
-      "d090a061a22f3933190997a716207971d7bc699d29b3731ac03c0e99f0650612": {
-        "title": "特斯拉：全靠星辰大海，又到为信仰买单时刻",
-        "link": "https://www.tmtpost.com/7735577.html",
-        "published_date": "Thu, 23 Oct 2025 15:30:00 GMT",
-        "first_seen": "2025-10-23T08:29:37.971007"
-      },
-      "7a18aed07327eccc84ea7baa5241af0b0736cfead2e55a0422efe79e02a16771": {
-        "title": "卓海科技：毛利率大幅下滑，存货旧疾未愈反添三重压，跌价计提方法再引监管关注｜IPO观察",
-        "link": "https://www.tmtpost.com/7725031.html",
-        "published_date": "Thu, 23 Oct 2025 15:28:00 GMT",
-        "first_seen": "2025-10-23T08:29:37.970917"
-      },
-      "48599af57f5461e2c505add81c1308d5ad306f09881cceb7fd30a3281cf608a5": {
-        "title": "智能规模效应：解读ChatGPT Atlas背后的数据边界之战",
-        "link": "https://www.tmtpost.com/7735541.html",
-        "published_date": "Thu, 23 Oct 2025 15:15:00 GMT",
-        "first_seen": "2025-10-23T08:29:37.971017"
-      },
-      "967edb92f5898757e7653372b7f0d79f7ba875405370e05dd4563403cea993e5": {
-        "title": "医院抢酒店生意、抄酒店作业背后",
-        "link": "https://www.tmtpost.com/7735471.html",
-        "published_date": "Thu, 23 Oct 2025 15:00:00 GMT",
-        "first_seen": "2025-10-23T08:29:37.971025"
-      },
-      "42c4f06b86379a8802aa9ed7ccb98f01c15cc261b7e75916ed391a5408ed7b4e": {
-        "title": "CMC资本携手港投公司设立“AI创意基金”，前瞻布局生成式AI应用赛道",
-        "link": "https://www.tmtpost.com/7735657.html",
-        "published_date": "Thu, 23 Oct 2025 14:59:00 GMT",
-        "first_seen": "2025-10-23T08:29:37.971035"
-      },
-      "616e2d8c1e7d0f7ca18cb47a1389de3611f478fbc96993160c1e8a505c65b30f": {
-        "title": "Pony.ai Moves Toward Hong Kong IPO as Robotaxi Competition Heats Up",
-        "link": "https://www.tmtpost.com/7735849.html",
-        "published_date": "Thu, 23 Oct 2025 14:46:00 GMT",
-        "first_seen": "2025-10-23T08:28:49.598492"
-      },
-      "624a97df33295e4124c21874cf2075910435cabd1737b0ab93df172bc4643b10": {
-        "title": "硅谷资本圈新生意：5万美元，定制一个“完美”婴儿",
-        "link": "https://www.tmtpost.com/7734844.html",
-        "published_date": "Thu, 23 Oct 2025 14:40:00 GMT",
-        "first_seen": "2025-10-23T08:28:49.599052"
-      },
-      "5f16a1be98635bf5999376d1205eb964eeea66ce9fd11346be0f286e5d7b0d32": {
-        "title": "Tesla Q3 Revenue Sets Record but Earnings Fall 31%, Dragged by Tariffs, Fading Credits",
-        "link": "https://www.tmtpost.com/7735789.html",
-        "published_date": "Thu, 23 Oct 2025 14:40:00 GMT",
-        "first_seen": "2025-10-23T08:28:49.600318"
-      },
-      "e1fb048680bb2efe905d98ea38db614bc4819b68345ee5f845d78c1522f8fa56": {
-        "title": "押注AI 构建全球金融未来：Airwallex空中云汇未来金融峰会启幕",
-        "link": "https://www.tmtpost.com/7735786.html",
-        "published_date": "Thu, 23 Oct 2025 14:36:00 GMT",
-        "first_seen": "2025-10-23T08:28:49.601081"
-      },
-      "898d6bca872f1604747c462f4737b3cc7917f6824aff50e10dcb047664f3846b": {
-        "title": "光伏“反内卷”的西南之战：32万吨产能推倒第一枚骨牌",
-        "link": "https://www.tmtpost.com/7734896.html",
-        "published_date": "Thu, 23 Oct 2025 14:09:00 GMT",
-        "first_seen": "2025-10-23T08:28:49.601814"
-      },
-      "b940a631e11af5419ae7e4967d7eff1d4cc223f28eb719aac7ce5e15407c83cf": {
-        "title": "看了李健的战略构想，我理解大家为什么说荣耀换帅是为了IPO了",
-        "link": "https://www.tmtpost.com/7735128.html",
-        "published_date": "Thu, 23 Oct 2025 13:53:00 GMT",
-        "first_seen": "2025-10-23T08:28:49.602565"
-      },
-      "7e8fe971fb8afb953c498b51b3cbc7cc700a6c1f7f663a7a69836add1ae65085": {
-        "title": "CATL Posts Strong Q3 Results, but Battery Market Shifts Raise Questions About Sustainability",
-        "link": "https://www.tmtpost.com/7735717.html",
-        "published_date": "Thu, 23 Oct 2025 13:40:00 GMT",
-        "first_seen": "2025-10-23T08:28:49.604511"
-      },
-      "29f4dbcac48b54daf48361d98fabf5b6e99673c3893f752fe784f860de2de098": {
-        "title": "为什么男装“又贵又丑”，却卖得那么好？",
-        "link": "https://www.tmtpost.com/7735489.html",
-        "published_date": "Thu, 23 Oct 2025 13:33:00 GMT",
-        "first_seen": "2025-10-23T08:28:49.605206"
-      },
-      "fe263af707f586c3ee540bf5781aacaca533bcd9a19d126adca66003ed5a1857": {
-        "title": "解锁即时客户参与：使用 Snowflake 和 Adobe Experience Platform 进行实时事件激活 | 技术趋势",
-        "link": "https://www.infoq.cn/article/J5zsR0Y6jWbZeaDJ18Pc?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 23 Oct 2025 15:04:00 GMT",
-        "first_seen": "2025-10-23T08:29:37.970949"
-      },
-      "d454acffba31f59c212ded7f15540db8d457bd74d5538383c3295630ae0a05f7": {
-        "title": "谷歌推出LLM-Evalkit，为提示词工程带来秩序与可衡量性",
-        "link": "https://www.infoq.cn/article/aPesHkV4tc0jXgosPcQZ?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 23 Oct 2025 15:00:00 GMT",
-        "first_seen": "2025-10-23T08:28:49.608152"
-      },
-      "ec4cc46bceff6e5ed34710c9a37df8c39aa563d30fe610bf929d927f8a3340da": {
-        "title": "性能飞跃！ClickHouse 处理复杂 JSON，速度提升58倍，内存减少3300倍",
-        "link": "https://www.infoq.cn/article/3EJlljs8O1UyuWfEMB1H?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 23 Oct 2025 14:58:00 GMT",
-        "first_seen": "2025-10-23T08:28:49.609604"
-      },
-      "393af64152bcf8a1a93ea3870ff58e2a7020565e4e99af3f9f579e6d0235d164": {
-        "title": "微软为Office应用程序新增智能体模式与Office智能体",
-        "link": "https://www.infoq.cn/article/Cy1zrC3JHjbVgtPb0Mwi?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 23 Oct 2025 14:00:00 GMT",
-        "first_seen": "2025-10-23T08:28:49.610695"
-      },
-      "981b2b961c721b9f02fa9f56d7a07cf5da42a89cc0041ffc6400efda8ae793e3": {
-        "title": "网易云信10周年官宣品牌定位升级，致力于“让通信会思考，助企业见成效”",
-        "link": "https://www.infoq.cn/article/CckUV7JJzc7yPhl1Tjtz?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 23 Oct 2025 13:50:00 GMT",
-        "first_seen": "2025-10-23T08:28:49.611850"
-      },
-      "6aec6264017754f3293ec2dd31ecd6775984a3e301e81963abdfbb9745d3a918": {
-        "title": "安南山脉安南国，越南 10 天 5 城旅行日记",
-        "link": "https://sspai.com/post/103168",
-        "published_date": "Thu, 23 Oct 2025 15:00:00 GMT",
-        "first_seen": "2025-10-23T08:28:49.613079"
-      },
-      "ad057e7bdb2232c40ab9339a62b37bf20ad9657fd285e96710b34ae6d35242b4": {
-        "title": "特斯拉大跌5000亿，马斯克画饼难充饥",
-        "link": "http://www.huxiu.com/article/4795898.html?f=wangzhan",
-        "published_date": "Thu, 23 Oct 2025 14:20:00 GMT",
-        "first_seen": "2025-10-23T08:28:49.613946"
-      },
-      "6d0e0d16b0bf0b1cbbe431b7313f5d275ef50cbed1647dd3b2974e7dbe09b72a": {
-        "title": "昔日电池霸主LG，为何惨败于中国？",
-        "link": "http://www.huxiu.com/article/4795875.html?f=wangzhan",
-        "published_date": "Thu, 23 Oct 2025 14:00:00 GMT",
-        "first_seen": "2025-10-23T08:28:49.614827"
-      },
-      "62a1edd3b71c96036176792ca7a5a239a660fece12cfe3fa321c63bc8e0ca90b": {
-        "title": "用不锈钢做的朱雀三号，能否追上马斯克的Spacex？",
-        "link": "http://www.huxiu.com/article/4795754.html?f=wangzhan",
-        "published_date": "Thu, 23 Oct 2025 11:11:00 GMT",
-        "first_seen": "2025-10-23T08:28:49.616017"
-      },
       "e97531227a3e76645d5d0329b37c6a75c74fe4d0214ec0736b534dfcbcb35290": {
         "title": "5000 块请 AI 看我「上厕所」？科勒这个新产品把美国人整不会了",
         "link": "http://www.geekpark.net/news/355469",
@@ -6211,8 +6043,8 @@
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-22T08:14:35.317590",
-    "Technology": "2025-11-22T08:14:35.356046",
-    "Finance": "2025-11-22T08:14:35.206185"
+    "AI": "2025-11-22T23:10:51.596855",
+    "Technology": "2025-11-22T23:10:51.635131",
+    "Finance": "2025-11-22T23:10:51.483259"
   }
 }
