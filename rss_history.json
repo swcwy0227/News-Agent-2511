@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "1d2d9c11a2300e85cff37fcb633876e707ae30f897b3f02057fb4028c0ff4c3c": {
-        "title": "能懂孩子、懂爸妈、还懂宠物，这届AI硬件太会了",
-        "link": "https://www.qbitai.com/2025/10/345768.html",
-        "published_date": "Sat, 25 Oct 2025 07:30:00 GMT",
-        "first_seen": "2025-10-25T08:24:05.425100"
-      },
-      "f5ec78999ab3ee22e3a3dc71612ee339ce19fe89fdc56202c198d653d32346d0": {
-        "title": "开源模型首次物理奥赛夺金！上海AI Lab 235B模型击败GPT5和Grok4",
-        "link": "https://www.qbitai.com/2025/10/345745.html",
-        "published_date": "Sat, 25 Oct 2025 06:48:00 GMT",
-        "first_seen": "2025-10-25T08:24:05.425275"
-      },
       "d2243b7d36d0d790a16021e9c135a582d49a86e052c229fad07f5d61e7014dec": {
         "title": "马斯克盛赞朱雀三号：能够击败SpaceX猎鹰9号",
         "link": "https://www.qbitai.com/2025/10/345823.html",
@@ -567,24 +555,6 @@
       }
     },
     "Technology": {
-      "4da3e296c0e7ea8bfea071e4814cc1a139aa154c9b7142585e93b65ad76998c1": {
-        "title": "股价回落，等待快手的是“从从容容”还是“连滚带爬”",
-        "link": "https://www.tmtpost.com/7737923.html",
-        "published_date": "Sat, 25 Oct 2025 16:10:00 GMT",
-        "first_seen": "2025-10-25T08:24:05.477406"
-      },
-      "111e0ef928eb8d78d42c2ff9ebf505dbdc42e8fdedd1c8688c0bcbcac45f9988": {
-        "title": "新石器完成逾6亿美元融资，阿联酋资本领投；霸王茶姬马来西亚最大门店开业；中文在线旗下FlareFlow成第三季海外收入黑马 ｜一周大公司出海动态",
-        "link": "https://www.tmtpost.com/7738085.html",
-        "published_date": "Sat, 25 Oct 2025 14:36:00 GMT",
-        "first_seen": "2025-10-25T08:24:05.477610"
-      },
-      "d409de4b1ec2cc9b741cbbcfce1e9ff5df246e9996bd839bb7ece294b2ef7ca4": {
-        "title": "小米下场做短剧，鸿蒙却要帮助娱乐应用“破局”",
-        "link": "https://www.tmtpost.com/7737716.html",
-        "published_date": "Sat, 25 Oct 2025 11:05:00 GMT",
-        "first_seen": "2025-10-25T08:24:05.477784"
-      },
       "8d1ac2f36507e045645bf35188c9435460608075af34f7742d793bf0e76bd830": {
         "title": "AI DevOps工具如何破解企业研发效能瓶颈？",
         "link": "https://www.infoq.cn/video/c4dUI2RUK1A3K4drkNxe?utm_source=rss&utm_medium=article",
@@ -5257,8 +5227,8 @@
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-24T08:17:35.328666",
-    "Technology": "2025-11-24T08:17:35.366616",
-    "Finance": "2025-11-24T08:17:35.214557"
+    "AI": "2025-11-24T23:11:06.256042",
+    "Technology": "2025-11-24T23:11:06.295035",
+    "Finance": "2025-11-24T23:11:06.145524"
   }
 }
