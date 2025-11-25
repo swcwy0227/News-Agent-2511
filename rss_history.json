@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "d2243b7d36d0d790a16021e9c135a582d49a86e052c229fad07f5d61e7014dec": {
-        "title": "马斯克盛赞朱雀三号：能够击败SpaceX猎鹰9号",
-        "link": "https://www.qbitai.com/2025/10/345823.html",
-        "published_date": "Sat, 25 Oct 2025 09:37:00 GMT",
-        "first_seen": "2025-10-25T23:17:30.153555"
-      },
       "d5559180735442d9afd8f66a0205f40ed06955179f9205958bd07a2203cde412": {
         "title": "OpenAI被曝瞄准AI音乐赛道商业化，Suno首当其冲",
         "link": "https://www.qbitai.com/2025/10/346019.html",
@@ -555,42 +549,6 @@
       }
     },
     "Technology": {
-      "8d1ac2f36507e045645bf35188c9435460608075af34f7742d793bf0e76bd830": {
-        "title": "AI DevOps工具如何破解企业研发效能瓶颈？",
-        "link": "https://www.infoq.cn/video/c4dUI2RUK1A3K4drkNxe?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 25 Oct 2025 20:15:00 GMT",
-        "first_seen": "2025-10-25T23:17:30.205999"
-      },
-      "2207a0ba34ddf27d424f59b23d5e73b1020639501e0897bf708a4d597522efdb": {
-        "title": "现在的年轻人，为何变得“脆皮”？",
-        "link": "http://www.huxiu.com/article/4794104.html?f=wangzhan",
-        "published_date": "Sat, 25 Oct 2025 19:00:00 GMT",
-        "first_seen": "2025-10-25T23:17:30.206140"
-      },
-      "24d3c04a5eb96a5285a9cd911bf070b0da146f85731244cec04dd074be570ce9": {
-        "title": "暴涨的白银，会卡住光伏的脖子吗？",
-        "link": "https://www.tmtpost.com/7737969.html",
-        "published_date": "Sat, 25 Oct 2025 17:50:00 GMT",
-        "first_seen": "2025-10-25T23:17:30.206288"
-      },
-      "3241d9fad6dc9a3fd1cfe3caf8d740ca6c90b321e31054f9b40c45c761ff0e0d": {
-        "title": "三档音综同期上线，但音乐不再是最重要的那件事",
-        "link": "https://www.tmtpost.com/7738068.html",
-        "published_date": "Sat, 25 Oct 2025 16:58:00 GMT",
-        "first_seen": "2025-10-25T23:17:30.206458"
-      },
-      "e22115b90aec914a2104c92da3e3ea1643e4b379c025498dde662f615e433599": {
-        "title": "币圈大佬的重生：特朗普特赦赵长鹏",
-        "link": "https://www.tmtpost.com/7738082.html",
-        "published_date": "Sat, 25 Oct 2025 16:49:00 GMT",
-        "first_seen": "2025-10-25T23:17:30.206645"
-      },
-      "d4662ea8d9872b76f502d2fbb06249a60cd7690fddb87afb8674901da0fa437d": {
-        "title": "鸿蒙 1024｜不到一个月开发的鸿蒙应用，一个不小心成为爆款",
-        "link": "https://sspai.com/post/103199",
-        "published_date": "Sat, 25 Oct 2025 15:54:00 GMT",
-        "first_seen": "2025-10-25T23:17:30.206963"
-      },
       "fb0dcd3849739d7157aaf633e9828297329696014111df38fc5de92d9bd843be": {
         "title": "这对夫妻坐拥百亿资产，巴伦独家专访揭秘其投资之道",
         "link": "https://www.tmtpost.com/7738392.html",
@@ -5227,8 +5185,8 @@
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-24T23:11:06.256042",
-    "Technology": "2025-11-24T23:11:06.295035",
-    "Finance": "2025-11-24T23:11:06.145524"
+    "AI": "2025-11-25T05:12:44.634674",
+    "Technology": "2025-11-25T05:12:44.673513",
+    "Finance": "2025-11-25T05:12:44.523051"
   }
 }
