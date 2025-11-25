@@ -1,36 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "d5559180735442d9afd8f66a0205f40ed06955179f9205958bd07a2203cde412": {
-        "title": "OpenAI被曝瞄准AI音乐赛道商业化，Suno首当其冲",
-        "link": "https://www.qbitai.com/2025/10/346019.html",
-        "published_date": "Sun, 26 Oct 2025 04:19:00 GMT",
-        "first_seen": "2025-10-26T05:19:45.843465"
-      },
-      "78b779efca4cf5eda69a24488ca24ebba40aad98902fda29e1133ed88f8c70e5": {
-        "title": "破解AI对不同上下⽂位置的敏感度不⼀致，新框架使出“解铃还须系铃人”",
-        "link": "https://www.qbitai.com/2025/10/346004.html",
-        "published_date": "Sun, 26 Oct 2025 04:15:00 GMT",
-        "first_seen": "2025-10-26T05:19:45.843638"
-      },
-      "4b4bfb06687a1587daaa733cefaad7d8a846bce8560ff102c75e070032924296": {
-        "title": "P图老本事搭上了对话框，美图这AI Agent到底香不香？",
-        "link": "https://www.qbitai.com/2025/10/345896.html",
-        "published_date": "Sun, 26 Oct 2025 04:09:00 GMT",
-        "first_seen": "2025-10-26T05:19:45.843858"
-      },
-      "add8f610c56c1cb2ef8404321651115dfc528268df6a3927a0c5665337799047": {
-        "title": "盲人复明！马斯克Neuralink联创实现人工视觉里程碑",
-        "link": "https://www.qbitai.com/2025/10/345914.html",
-        "published_date": "Sun, 26 Oct 2025 04:09:00 GMT",
-        "first_seen": "2025-10-26T05:19:45.844053"
-      },
-      "54b14e3b2f4ba74df529d57881c5987fd668515a5c65da48529e9b665d3c1435": {
-        "title": "5个大疆离职员工，把3D打印带回风口",
-        "link": "https://www.qbitai.com/2025/10/345837.html",
-        "published_date": "Sun, 26 Oct 2025 00:23:00 GMT",
-        "first_seen": "2025-10-26T05:19:45.844238"
-      },
       "623c622d57e524cdb4e5c7415594b3784846fbe87db497cb40ca52defd931450": {
         "title": "OpenAI IPO计划第一步曝光，奥特曼骚操作看傻华尔街",
         "link": "https://www.qbitai.com/2025/10/346103.html",
@@ -549,42 +519,6 @@
       }
     },
     "Technology": {
-      "fb0dcd3849739d7157aaf633e9828297329696014111df38fc5de92d9bd843be": {
-        "title": "这对夫妻坐拥百亿资产，巴伦独家专访揭秘其投资之道",
-        "link": "https://www.tmtpost.com/7738392.html",
-        "published_date": "Sun, 26 Oct 2025 12:57:00 GMT",
-        "first_seen": "2025-10-26T05:19:45.921142"
-      },
-      "166e53441ab7f8f2c07504d6ff9953d74bd49d4aea00eccc3be1c2c0195adddd": {
-        "title": "红杉捐赠的科学大奖迎来三位新得主，创造更多国际科学交流",
-        "link": "https://www.tmtpost.com/7738379.html",
-        "published_date": "Sun, 26 Oct 2025 12:26:00 GMT",
-        "first_seen": "2025-10-26T05:19:45.921262"
-      },
-      "947e0f4ad083e5e2e874cca32ff436d35caca477b434acc9955562f29507640e": {
-        "title": "默沙东PD-1+ADC杀疯了",
-        "link": "https://www.tmtpost.com/7737961.html",
-        "published_date": "Sun, 26 Oct 2025 12:00:00 GMT",
-        "first_seen": "2025-10-26T05:19:45.921386"
-      },
-      "9d554de44238a3472000faf07a0c57c47880044d5c8a7ef68f51f6cb3f897b1b": {
-        "title": "特斯拉三季度净利暴跌37%，马斯克“捍卫”万亿美元薪酬方案",
-        "link": "https://www.tmtpost.com/7737886.html",
-        "published_date": "Sun, 26 Oct 2025 11:00:00 GMT",
-        "first_seen": "2025-10-26T05:19:45.921580"
-      },
-      "f05fa182deb656510b1c8fb901fc584b57fcf1bfdc5ec26f8424b7dbef0a0a54": {
-        "title": "雪中飞代工阿迪达斯被质疑，性价比时代品牌溢价的出路在哪里？",
-        "link": "https://www.tmtpost.com/7738341.html",
-        "published_date": "Sun, 26 Oct 2025 10:12:00 GMT",
-        "first_seen": "2025-10-26T05:19:45.921793"
-      },
-      "326a132bb267380e60d84009d019b829f853e111f27c219703157ea34634c99f": {
-        "title": "传OpenAI正开发新的生成式音乐工具；苹果将AirPods印度产能扩大一倍；《王者荣耀世界》官宣2026春天见",
-        "link": "http://www.geekpark.net/news/355547",
-        "published_date": "Sun, 26 Oct 2025 08:20:00 GMT",
-        "first_seen": "2025-10-26T05:19:45.922205"
-      },
       "e1d54e5f5bdf0877fc174de71aa9fc4587ab56fa1edc0583754ada4066b04fe2": {
         "title": "谁会成为AI时代的苹果公司？",
         "link": "https://www.tmtpost.com/7738355.html",
@@ -5185,8 +5119,8 @@
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-25T05:12:44.634674",
-    "Technology": "2025-11-25T05:12:44.673513",
-    "Finance": "2025-11-25T05:12:44.523051"
+    "AI": "2025-11-25T08:17:01.871052",
+    "Technology": "2025-11-25T08:17:01.909322",
+    "Finance": "2025-11-25T08:17:01.759688"
   }
 }
