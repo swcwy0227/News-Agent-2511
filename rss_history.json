@@ -1,48 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "21542acb0b16336a65a5a7e8599cb8d2334c1287480b1895db9a306b1b58f2a3": {
-        "title": "从辅助驾驶到无人驾驶出租车，Mobileye展现技术与商业化双重实力",
-        "link": "https://www.qbitai.com/2025/10/346319.html",
-        "published_date": "Mon, 27 Oct 2025 07:30:00 GMT",
-        "first_seen": "2025-10-27T08:29:06.555178"
-      },
-      "87a896a90772b997aea4454f2f2a59f3641b1e904659deeee1001601fb7826c2": {
-        "title": "美团视频生成模型来了！一出手就是开源SOTA",
-        "link": "https://www.qbitai.com/2025/10/346287.html",
-        "published_date": "Mon, 27 Oct 2025 07:23:00 GMT",
-        "first_seen": "2025-10-27T08:29:06.555345"
-      },
-      "3bfa46aeaaa2fb415f9db64b57f3a9be5ed3a2ee889d40f5b66d669824ab647a": {
-        "title": "直击IROS现场：宇树禾赛自变量杭州论剑，美团C位攒局",
-        "link": "https://www.qbitai.com/2025/10/346201.html",
-        "published_date": "Mon, 27 Oct 2025 07:03:00 GMT",
-        "first_seen": "2025-10-27T08:29:06.555501"
-      },
-      "25dcac5fefd4deb7242a4acfba6830f54cb060b7b5511e09bf714c3b91fd3867": {
-        "title": "拜拜了GUI！中科院团队“LLM友好”计算机使用接口来了",
-        "link": "https://www.qbitai.com/2025/10/346262.html",
-        "published_date": "Mon, 27 Oct 2025 06:53:00 GMT",
-        "first_seen": "2025-10-27T08:29:06.555737"
-      },
-      "6dc74c487f3945bd3c232d5f460db5a2fddb8f58e6c7266fe7520d156655a143": {
-        "title": "这种眼镜我建议外卖快递小哥人手一个",
-        "link": "https://www.qbitai.com/2025/10/346206.html",
-        "published_date": "Mon, 27 Oct 2025 06:47:00 GMT",
-        "first_seen": "2025-10-27T08:29:06.555904"
-      },
-      "962aac5296244d5f0da8936f84eef670e9a1038c9bd780889ac01d1ca09fc88e": {
-        "title": "智元办机器人挑战赛：清华&上海AILab夺冠，华南理工“单人成团”拿亚军",
-        "link": "https://www.qbitai.com/2025/10/346182.html",
-        "published_date": "Mon, 27 Oct 2025 06:39:00 GMT",
-        "first_seen": "2025-10-27T08:29:06.556219"
-      },
-      "99082dad2478f9dae61ba2374a7217a3de33341d9a80850765448cde124e3604": {
-        "title": "OpenAI产品线拉出来吓我一跳，奥特曼不愧是YC出身",
-        "link": "https://www.qbitai.com/2025/10/346127.html",
-        "published_date": "Mon, 27 Oct 2025 06:19:00 GMT",
-        "first_seen": "2025-10-27T08:29:06.556547"
-      },
       "f5fe4d22f38ff14660e16d06562b1463d9487955636d6773433982df3192238d": {
         "title": "How we are building the personal health coach",
         "link": "https://research.google/blog/how-we-are-building-the-personal-health-coach/",
@@ -513,72 +471,6 @@
       }
     },
     "Technology": {
-      "995e43cb43883e087246af155ef62b4d5af42c83f98e13e97cd90fac199c9693": {
-        "title": "汇丰科技25年丨植根中国，服务全球，加速金融创新和数字化进程",
-        "link": "https://www.infoq.cn/article/oRmckq78ykcL53oPPjlt?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 27 Oct 2025 15:27:00 GMT",
-        "first_seen": "2025-10-27T08:29:55.085473"
-      },
-      "c29a58b78d6cc5b5fc81619cd91aed1b9a244bc3ae199b8bdc4b3c3852f77f7c": {
-        "title": "决战紫金之巅 —— 云谷杯 · 2025人工智能应用创新创业大赛报名中！",
-        "link": "https://www.infoq.cn/video/d4HGRQi8PyOTvPvzIzbN?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 27 Oct 2025 15:08:00 GMT",
-        "first_seen": "2025-10-27T08:29:55.085503"
-      },
-      "ab1bb7f2afe0b6e8a2a605d0736d26f7a42a9d3df7e7471b83045c7a7be8fa6c": {
-        "title": "为什么软件工程治理很重要：降低风险但不拖累速度",
-        "link": "https://www.infoq.cn/article/8cG4Je2D5dPcmRehgGbJ?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 27 Oct 2025 14:00:00 GMT",
-        "first_seen": "2025-10-27T08:29:55.085540"
-      },
-      "ad5b5f6bdd91a16a0faf446cc5b6dfb74bbc06b627d87ae6aeeeca603cbcc038": {
-        "title": "开源共建重塑推理 Infra：从架构创新到生态协同，Mooncake的破局之路",
-        "link": "https://www.infoq.cn/article/qkXP2hrmdQBLJEop4h6m?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 27 Oct 2025 10:49:00 GMT",
-        "first_seen": "2025-10-27T08:29:55.085518"
-      },
-      "395ccb808279a5916aff3b9d4dfc63924cd11a87fb7a79984ed92f927da6c06a": {
-        "title": "神舟二十一号发射前，中美来了个“太空互拍对决”，谁更胜一筹？",
-        "link": "http://www.huxiu.com/article/4797104.html?f=wangzhan",
-        "published_date": "Mon, 27 Oct 2025 15:00:00 GMT",
-        "first_seen": "2025-10-27T08:29:55.085550"
-      },
-      "38a8417c68017246cd352387774bb7b28de3eeacdcea287cb56e5f84be0fd765": {
-        "title": "一枚微芯片+一副眼镜，如何让盲人重获看到世界的能力？",
-        "link": "http://www.huxiu.com/article/4796548.html?f=wangzhan",
-        "published_date": "Mon, 27 Oct 2025 13:54:00 GMT",
-        "first_seen": "2025-10-27T08:29:55.085530"
-      },
-      "c82d3d6f81b7507f7df3973389e33d2849848e6e9473ede514e0dc71e77b6542": {
-        "title": "150亿美元比特币遭没收，柬埔寨华人巨鳄骗局覆灭",
-        "link": "http://www.huxiu.com/article/4797018.html?f=wangzhan",
-        "published_date": "Mon, 27 Oct 2025 13:00:00 GMT",
-        "first_seen": "2025-10-27T08:29:55.085561"
-      },
-      "2c20476ecee0f99e33befc033784664d6a91c0227ae8f98676df67af0a7991f9": {
-        "title": "是谁让中国稀土“逆袭”成王者？",
-        "link": "http://www.huxiu.com/article/4796439.html?f=wangzhan",
-        "published_date": "Mon, 27 Oct 2025 10:50:00 GMT",
-        "first_seen": "2025-10-27T08:29:55.085571"
-      },
-      "2a57d87aa810ad59c30c66ee8e2ff48166b81fcc265e2e28e88988de13cb4a1f": {
-        "title": "从100万亿到140万亿，中国下一个五年藏着什么密码？",
-        "link": "http://www.huxiu.com/article/4796664.html?f=wangzhan",
-        "published_date": "Mon, 27 Oct 2025 10:05:00 GMT",
-        "first_seen": "2025-10-27T08:29:55.085582"
-      },
-      "110bd66efb056c2243dbd75c1aa7d372abd5c9ff2764e24d1b562a5427620fa8": {
-        "title": "我的双十一男装清单：从基础大牌到私藏好店",
-        "link": "https://sspai.com/post/103360",
-        "published_date": "Mon, 27 Oct 2025 15:00:00 GMT",
-        "first_seen": "2025-10-27T08:29:55.085592"
-      },
-      "0921e6c3a3de4e6b4cdc5ada86dec789b906134d2994eccfb61cbd5450520486": {
-        "title": "​一个对话助理，如何盘活整个「夸克宇宙」？",
-        "link": "http://www.geekpark.net/news/355583",
-        "published_date": "Mon, 27 Oct 2025 14:08:00 GMT",
-        "first_seen": "2025-10-27T08:29:06.614608"
-      },
       "5ee2df9657e359c40a089dc4e8a062582d4ac3dc274fed112b77310d3bfbc4db": {
         "title": "一把吉他卖出 10 亿后，LiberLive 选择自我革命",
         "link": "http://www.geekpark.net/news/355614",
@@ -4855,8 +4747,8 @@
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-26T08:16:39.606397",
-    "Technology": "2025-11-26T08:16:39.644862",
-    "Finance": "2025-11-26T08:16:39.491504"
+    "AI": "2025-11-26T23:10:59.911635",
+    "Technology": "2025-11-26T23:10:59.949828",
+    "Finance": "2025-11-26T23:10:59.794399"
   }
 }
