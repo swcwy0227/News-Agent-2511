@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "623c622d57e524cdb4e5c7415594b3784846fbe87db497cb40ca52defd931450": {
-        "title": "OpenAI IPO计划第一步曝光，奥特曼骚操作看傻华尔街",
-        "link": "https://www.qbitai.com/2025/10/346103.html",
-        "published_date": "Mon, 27 Oct 2025 04:06:00 GMT",
-        "first_seen": "2025-10-27T05:26:42.314713"
-      },
       "21542acb0b16336a65a5a7e8599cb8d2334c1287480b1895db9a306b1b58f2a3": {
         "title": "从辅助驾驶到无人驾驶出租车，Mobileye展现技术与商业化双重实力",
         "link": "https://www.qbitai.com/2025/10/346319.html",
@@ -519,204 +513,6 @@
       }
     },
     "Technology": {
-      "6049e98c09c93449a9acb212dd9333c9087ab27d3efa5861afb885ad9c1c5c77": {
-        "title": "自带密钥（BYOK）：亚马逊云科技采用CMK以满足企业合规性的需要",
-        "link": "https://www.infoq.cn/article/UF3guSh5REtRDy36ddwL?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 27 Oct 2025 13:00:00 GMT",
-        "first_seen": "2025-10-27T05:27:30.677493"
-      },
-      "aede7e4f8609cd7079a64f0f8790704c7c78cbadc89ed793067e4955858fc6fc": {
-        "title": "Terraform正式发布Google Cloud Provider 7.0",
-        "link": "https://www.infoq.cn/article/jbWEJhdmlpW18Kd8wjXN?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 27 Oct 2025 12:00:00 GMT",
-        "first_seen": "2025-10-27T05:27:30.677508"
-      },
-      "4bfd711e4f974aaee96a47c40a5ebb7168eb3e59c043d76dc9cf04ed0689c74f": {
-        "title": "Couchbase 梦工厂开工！带你做出用户体验满分的 AI 应用",
-        "link": "https://www.infoq.cn/video/bY11objIewF3dew4j0l8?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 27 Oct 2025 11:58:00 GMT",
-        "first_seen": "2025-10-27T05:27:30.677610"
-      },
-      "f755ccc818f422596f6547ff58c2f75fc8f34ad544d69c23009ce8f3c2b5cfd1": {
-        "title": "九识智能：基于 JuiceFS 的自动驾驶多云亿级文件存储",
-        "link": "https://www.infoq.cn/article/1O3cXWoMcXuQmQ5Qp5w0?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 27 Oct 2025 11:23:00 GMT",
-        "first_seen": "2025-10-27T05:27:30.677621"
-      },
-      "107ad0b853b3aae7efcd90c2cc543e030d414cf8cde31dee0cf59a34ea9d8bdf": {
-        "title": "还在拼命加 GPU？AI 应用规模化的下半场，拼的是这五大软件“新基建”",
-        "link": "https://www.infoq.cn/article/0iLfflQxg0XxtFmDgbFZ?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 27 Oct 2025 11:09:00 GMT",
-        "first_seen": "2025-10-27T05:27:30.677634"
-      },
-      "eb0617371c9b7b8b21cdb923c4fb4ff719e5df6e55d72724ce2120af7279e05a": {
-        "title": "Mirantis的Kubernetes管理平台k0rdent发布1.2.0版本",
-        "link": "https://www.infoq.cn/article/ra8xfvOEq84VM3tUOIBK?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 27 Oct 2025 11:00:00 GMT",
-        "first_seen": "2025-10-27T05:27:30.677462"
-      },
-      "8a0e0d88751e4ae6af80baf3f2ee7a4f786b5e2a16f86fdb0f637b4abe4eefc4": {
-        "title": "当 Kafka 架构显露“疲态”：共享存储领域正迎来创新变革",
-        "link": "https://www.infoq.cn/article/OGyUaIfDwSHzByidNlM0?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 27 Oct 2025 10:53:00 GMT",
-        "first_seen": "2025-10-27T05:27:30.677522"
-      },
-      "3d84b25e591072a975a2a74a6de342bf588b86b0a689fa5c53ce0dc297d4e7c1": {
-        "title": "传月之暗面将完成数亿美元融资；田渊栋揭露Meta乱象；OpenAI研究团队关键KPI向流量看齐 | AI周报",
-        "link": "https://www.infoq.cn/article/3sBCTLgEwtAVA8Zk3LqJ?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 27 Oct 2025 10:48:00 GMT",
-        "first_seen": "2025-10-27T05:27:30.677647"
-      },
-      "1b9d82f287d3688d395598a09a3bf243f4afc280c5ab80fe276326fd79b71959": {
-        "title": "如何为 GPU 提供充足存储：AI 训练中的存储性能与扩展性",
-        "link": "https://www.infoq.cn/article/J8JgAWFsDZ7aF6PxTeXr?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 27 Oct 2025 10:21:00 GMT",
-        "first_seen": "2025-10-27T05:26:42.372278"
-      },
-      "6b9ceec9abef10246734abc6e85ee416bd59501317ce0850d838ef42b9a17381": {
-        "title": "LangChain彻底重写：从开源副业到独角兽，一次“核心迁移”干到 12.5 亿估值",
-        "link": "https://www.infoq.cn/article/OSEpqr1rIQdRoU6uaFhV?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 27 Oct 2025 10:09:00 GMT",
-        "first_seen": "2025-10-27T05:26:42.373096"
-      },
-      "af53fb7840b897d4ba74022744a2f630ce998fbcc837be7cf4cd68a47e8d2744": {
-        "title": ".NET 10发布RC2，完善SDK、MAUI稳定版和MSBuild改进",
-        "link": "https://www.infoq.cn/article/lNKemEjpDi0iBY6DOKBT?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 27 Oct 2025 09:48:00 GMT",
-        "first_seen": "2025-10-27T05:27:30.677575"
-      },
-      "f940efa70ae73e9f0785a6fcd16499ac1d5063860219dc7c873dac363901f612": {
-        "title": "从“项目交付”到“价值交付”，AI步入“工业化”时代 | ToB产业观察",
-        "link": "https://www.tmtpost.com/7738941.html",
-        "published_date": "Mon, 27 Oct 2025 12:01:00 GMT",
-        "first_seen": "2025-10-27T05:26:42.374790"
-      },
-      "e66ab8d6c8dce4b45f6e22e300d9ed4694f5602a63e1fe22622f03ab4be4355e": {
-        "title": "【产业互联网周报】全球多家网站突然瘫痪，与亚马逊云服务有关；寒武纪近40亿元定增完成；DeepSeek团队开源新模型DeepSeek-OCR",
-        "link": "https://www.tmtpost.com/7739047.html",
-        "published_date": "Mon, 27 Oct 2025 11:54:00 GMT",
-        "first_seen": "2025-10-27T05:26:42.376001"
-      },
-      "84e5dd0ec73f0089139ced9ac652d77d503abb377206ddd7bbe0c53ba7e87f84": {
-        "title": "卷入“东风汽车贪腐案”，森特股份董事长行贿、围标细节曝光",
-        "link": "https://www.tmtpost.com/7738844.html",
-        "published_date": "Mon, 27 Oct 2025 11:53:00 GMT",
-        "first_seen": "2025-10-27T05:26:42.376823"
-      },
-      "0c43f5f5a61b12f08613788e8a3c7d681f1a61d666db1703b6cc196e77916364": {
-        "title": "中国餐饮，到底要不要学日本？",
-        "link": "https://www.tmtpost.com/7738993.html",
-        "published_date": "Mon, 27 Oct 2025 11:46:00 GMT",
-        "first_seen": "2025-10-27T05:26:42.377327"
-      },
-      "5d6c09f8783442cbc07dee206b4346ca29f1f804c997fd1c1719aff6a12c980a": {
-        "title": "英特尔曙光初现？重整之路道阻且长",
-        "link": "https://www.tmtpost.com/7738877.html",
-        "published_date": "Mon, 27 Oct 2025 11:40:00 GMT",
-        "first_seen": "2025-10-27T05:26:42.377893"
-      },
-      "b4019f9a4d05f7be75ae0aa27435d287f2e0d126bff38153c6adcc71e656e8d7": {
-        "title": "扎克伯格的AI突围战：裁员与挖人的背后，Meta的破局之道",
-        "link": "https://www.tmtpost.com/7739003.html",
-        "published_date": "Mon, 27 Oct 2025 11:35:00 GMT",
-        "first_seen": "2025-10-27T05:26:42.378845"
-      },
-      "2b278b2e232fbf1699d58eecffdd1ec05602009223ef5f64586745c9e2f4d79e": {
-        "title": "人形机器人，带火这些国产芯片",
-        "link": "https://www.tmtpost.com/7738999.html",
-        "published_date": "Mon, 27 Oct 2025 11:31:00 GMT",
-        "first_seen": "2025-10-27T05:27:30.677597"
-      },
-      "dd30f77270157ecef0e8919a5a3d199a4ad1233a8159fa9b4841087b799dfb06": {
-        "title": "“失魂”五载后，蓝帆医疗将明天“赌”在心血管上",
-        "link": "https://www.tmtpost.com/7738988.html",
-        "published_date": "Mon, 27 Oct 2025 11:28:00 GMT",
-        "first_seen": "2025-10-27T05:26:42.380491"
-      },
-      "998e90ea23b23a1d41eb3b77f8c915c658bfb31f6c1f0180d232ec91ecfe6c7f": {
-        "title": "海底捞开汉堡店，要和麦肯抢生意？",
-        "link": "https://www.tmtpost.com/7738995.html",
-        "published_date": "Mon, 27 Oct 2025 11:27:00 GMT",
-        "first_seen": "2025-10-27T05:26:42.381205"
-      },
-      "201a93e8cecad66d19a214e03614fba5dee335f85cc4156c2679331b3ed47389": {
-        "title": "靠充值，沙特能否成为算力中心？",
-        "link": "https://www.tmtpost.com/7739007.html",
-        "published_date": "Mon, 27 Oct 2025 11:27:00 GMT",
-        "first_seen": "2025-10-27T05:26:42.381926"
-      },
-      "cca605d72ee0cb602ac328e22fa51a0566f5016f1e917e5b83b02b85131ff6e4": {
-        "title": "优艾智合：7年“烧光”11.82亿，资金链或已亮起“红灯”| IPO观察",
-        "link": "https://www.tmtpost.com/7734043.html",
-        "published_date": "Mon, 27 Oct 2025 10:42:00 GMT",
-        "first_seen": "2025-10-27T05:26:42.383460"
-      },
-      "1f0598c3d0b865a1fe0635d496c38bc53c752e24114249af56f0a84ec4af6dae": {
-        "title": "“小型固体火箭第一股”交最差成绩单，前三季度净利下降271%｜看财报",
-        "link": "https://www.tmtpost.com/7738930.html",
-        "published_date": "Mon, 27 Oct 2025 10:36:00 GMT",
-        "first_seen": "2025-10-27T05:26:42.384766"
-      },
-      "697b2f2216899d46d61023db2f4dd6177a14dba0fabae8c923494c7c4ddaf905": {
-        "title": "“县城”高端酒店AB面：降价都卖不掉，为何还在疯狂开？",
-        "link": "https://www.tmtpost.com/7738830.html",
-        "published_date": "Mon, 27 Oct 2025 10:21:00 GMT",
-        "first_seen": "2025-10-27T05:26:42.386052"
-      },
-      "f7b3408b1e65ff302c343facaedac7524a1af078880bf4c38fc6f95c48320908": {
-        "title": "豆包们，开始“上链接”",
-        "link": "https://www.tmtpost.com/7738786.html",
-        "published_date": "Mon, 27 Oct 2025 10:19:00 GMT",
-        "first_seen": "2025-10-27T05:26:42.386947"
-      },
-      "b08d1700f7dc55fbc70f17a4decbc6a740810c09231005854ea8d8304f84e9dc": {
-        "title": "精读DeepSeek OCR论文，我远远看到了「世界模型」的轮廓",
-        "link": "https://www.tmtpost.com/7738822.html",
-        "published_date": "Mon, 27 Oct 2025 10:19:00 GMT",
-        "first_seen": "2025-10-27T05:26:42.388440"
-      },
-      "af783218c7bc7bda55371385a6183ace9e12699dfb781c73947ddc3dd977e480": {
-        "title": "Huawei's HarmonyOS 6 Pushes Toward System-Level AI as Smartphone Race Shifts to Intelligence",
-        "link": "https://www.tmtpost.com/7738826.html",
-        "published_date": "Mon, 27 Oct 2025 09:45:00 GMT",
-        "first_seen": "2025-10-27T05:26:42.391689"
-      },
-      "0c221ba95666b20d1be1113f776b4684fa2a1b110006995fa05d55f0b00c52cc": {
-        "title": "全球再裁3万人，奔驰被逼到悬崖边上",
-        "link": "https://www.tmtpost.com/7737470.html",
-        "published_date": "Mon, 27 Oct 2025 09:37:00 GMT",
-        "first_seen": "2025-10-27T05:26:42.392678"
-      },
-      "37cbe2329d1d86dca27b82081f319f885debfc629a9d7f7f770acad7a426a3f0": {
-        "title": "“韩寒系”的崛起与转折",
-        "link": "https://www.tmtpost.com/7738686.html",
-        "published_date": "Mon, 27 Oct 2025 09:30:00 GMT",
-        "first_seen": "2025-10-27T05:26:42.393587"
-      },
-      "a6ad8b03ab40698c55835717b23bb84a38de00c37974a40ed61232e9478494c3": {
-        "title": "Neocloud“云端对决”：一场举债扩张下的AI高风险进击",
-        "link": "https://www.tmtpost.com/7738669.html",
-        "published_date": "Mon, 27 Oct 2025 09:24:00 GMT",
-        "first_seen": "2025-10-27T05:26:42.395151"
-      },
-      "900c0c8438f5853b46bedf2b610b6775755bbe71b06f0da340746838303ba203": {
-        "title": "门槛更高，玩法更多：Android 骑行码表 Hammerhead Karoo 3 体验",
-        "link": "https://sspai.com/post/103148",
-        "published_date": "Mon, 27 Oct 2025 11:02:00 GMT",
-        "first_seen": "2025-10-27T05:26:42.397475"
-      },
-      "6decb3bbfca1959e61a09c846c9be3193c6e6361b14b8f691c6d9c89ab0b58a1": {
-        "title": "派早报：苹果调查橙色 iPhone 17 Pro 变色问题",
-        "link": "https://sspai.com/post/103362",
-        "published_date": "Mon, 27 Oct 2025 08:59:00 GMT",
-        "first_seen": "2025-10-27T05:26:42.399328"
-      },
-      "96796dd52828406bcce6a1b9062e10765dfc530fee41b8b190e13c4884781afd": {
-        "title": "马斯克 xAI 上新款「虚拟女友」；传小米 17 Air 明年上；996 成美国创业者美德",
-        "link": "http://www.geekpark.net/news/355551",
-        "published_date": "Mon, 27 Oct 2025 08:44:00 GMT",
-        "first_seen": "2025-10-27T05:26:42.401894"
-      },
       "995e43cb43883e087246af155ef62b4d5af42c83f98e13e97cd90fac199c9693": {
         "title": "汇丰科技25年丨植根中国，服务全球，加速金融创新和数字化进程",
         "link": "https://www.infoq.cn/article/oRmckq78ykcL53oPPjlt?utm_source=rss&utm_medium=article",
@@ -5059,8 +4855,8 @@
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-26T05:12:16.843142",
-    "Technology": "2025-11-26T05:12:16.881904",
-    "Finance": "2025-11-26T05:12:16.726704"
+    "AI": "2025-11-26T08:16:39.606397",
+    "Technology": "2025-11-26T08:16:39.644862",
+    "Finance": "2025-11-26T08:16:39.491504"
   }
 }
