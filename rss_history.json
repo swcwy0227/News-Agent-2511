@@ -1,24 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "b89b87161a26ea3122418959fddd9d906d28f08d073cd3cfaa91619defe18bc2": {
-        "title": "华为世界模型来了！单卡30分钟生成272㎡场景",
-        "link": "https://www.qbitai.com/2025/10/346533.html",
-        "published_date": "Tue, 28 Oct 2025 06:27:00 GMT",
-        "first_seen": "2025-10-28T08:29:06.512662"
-      },
-      "bb8f7f631c68c08cb26ae1eb53b2e732f5c606abcba3d3ce5e47bc0c82a789fa": {
-        "title": "赛力斯作价2150亿港元冲刺IPO，22家基石投资者站队",
-        "link": "https://www.qbitai.com/2025/10/346514.html",
-        "published_date": "Tue, 28 Oct 2025 06:22:00 GMT",
-        "first_seen": "2025-10-28T08:29:06.512817"
-      },
-      "a17c07c13decdc277b1aa086ce3711342e7541f6be42fab8565a08277c481177": {
-        "title": "两大数学奖项同时颁给王虹！北大三校友包揽“华人菲尔兹”",
-        "link": "https://www.qbitai.com/2025/10/346498.html",
-        "published_date": "Tue, 28 Oct 2025 06:20:00 GMT",
-        "first_seen": "2025-10-28T08:29:06.512959"
-      },
       "11da383f113d0a4729a49d31b8e64bc6ed2215c4a8154d740fb66566e9f14574": {
         "title": "360重磅发布企业级智能体平台，启动“千行”计划加速产业智变",
         "link": "https://www.qbitai.com/2025/10/346749.html",
@@ -435,78 +417,6 @@
       }
     },
     "Technology": {
-      "4a4fac10bffba6aba5825d534976ff8861e0d4120e647a36615ee55e46602c40": {
-        "title": "风电产业迎来业绩拐点：三季报亮眼，政策与需求共振推动行业复苏 ｜行业风向标",
-        "link": "https://www.tmtpost.com/7740798.html",
-        "published_date": "Tue, 28 Oct 2025 15:54:00 GMT",
-        "first_seen": "2025-10-28T08:29:54.971293"
-      },
-      "c8bbe50e5604145a4981f3564feb959362d7d1d5603e2283d133a810c7d22eb8": {
-        "title": "东鹏饮料：增长曲线不再锐利，“小红牛”成长性到头了吗？",
-        "link": "https://www.tmtpost.com/7740233.html",
-        "published_date": "Tue, 28 Oct 2025 15:50:00 GMT",
-        "first_seen": "2025-10-28T08:29:54.971321"
-      },
-      "d36333e48d435fa0ed1c107cb2f803e409bd3135fce68a138c7642790a24914b": {
-        "title": "10月28日A股分析：沪指微跌0.22%，两市成交额萎缩近2000亿，主力资金大幅净流出近600亿，钠离子电池逆势吸金",
-        "link": "https://www.tmtpost.com/7740820.html",
-        "published_date": "Tue, 28 Oct 2025 15:37:00 GMT",
-        "first_seen": "2025-10-28T08:29:54.971336"
-      },
-      "d70fa027bd7703c57d80b528a804262af6bfe81074067052139b818eeb4042b3": {
-        "title": "白银股翻倍大狂欢，到头了吗？",
-        "link": "https://www.tmtpost.com/7740404.html",
-        "published_date": "Tue, 28 Oct 2025 15:30:00 GMT",
-        "first_seen": "2025-10-28T08:29:54.971345"
-      },
-      "1220fa21693d1d466c5ab286f8ed09f32855149fdd1d47feffa780b31612dc50": {
-        "title": "豪车印钞机熄火：过去两天赚的钱，现在要挣九个月",
-        "link": "https://www.tmtpost.com/7740785.html",
-        "published_date": "Tue, 28 Oct 2025 15:09:00 GMT",
-        "first_seen": "2025-10-28T08:29:54.971355"
-      },
-      "f2916c1d2592339103acf48888f79b2ac128e4daf6c118caf6047dc337a0b975": {
-        "title": "全成 “绳上蚂蚱”，OpenAI 是灵珠 or 魔丸？",
-        "link": "https://www.tmtpost.com/7740493.html",
-        "published_date": "Tue, 28 Oct 2025 14:40:00 GMT",
-        "first_seen": "2025-10-28T08:29:54.971367"
-      },
-      "1fd862839cb1bedffa58de91c553d2b5500a5bd5d860b70860fa6507746e9c88": {
-        "title": "银发爸妈天团，开始“整顿”文旅圈了",
-        "link": "https://www.tmtpost.com/7740470.html",
-        "published_date": "Tue, 28 Oct 2025 14:20:00 GMT",
-        "first_seen": "2025-10-28T08:29:54.971376"
-      },
-      "f6fcd34ff2e9c9fbcb66f9b1d737c992e54438c6766dd5c108d267caca2f0b24": {
-        "title": "东鹏饮料的“资本迷局”：一边分掉54亿利润，一边携百亿现金赴港募资 | IPO观察",
-        "link": "https://www.tmtpost.com/7740504.html",
-        "published_date": "Tue, 28 Oct 2025 14:08:00 GMT",
-        "first_seen": "2025-10-28T08:29:54.971387"
-      },
-      "446c66acd8cb3ffa892160ce942d5b922c713ac86bdd055ad97dc3c7be4ac81b": {
-        "title": "扎堆“有风的地方”，这八大田园经济崛起",
-        "link": "https://www.tmtpost.com/7740476.html",
-        "published_date": "Tue, 28 Oct 2025 14:00:00 GMT",
-        "first_seen": "2025-10-28T08:29:54.971396"
-      },
-      "0fd9d299d538ed64769cbb2a5b08d461a79a8f1ffc5eedbd89aa2e9b4f86f23b": {
-        "title": "存款不如持股？四大行正吸引长期资金驻留",
-        "link": "https://www.tmtpost.com/7740428.html",
-        "published_date": "Tue, 28 Oct 2025 13:34:00 GMT",
-        "first_seen": "2025-10-28T08:29:54.971405"
-      },
-      "30419e920a8425fb3978ab9938230cc3ae66e017f7b64b4ee40311c05a2108dc": {
-        "title": "双十一雷电 5 / USB4 拓展坞怎么买（2025 版）",
-        "link": "https://sspai.com/post/103292",
-        "published_date": "Tue, 28 Oct 2025 15:00:00 GMT",
-        "first_seen": "2025-10-28T08:29:06.564730"
-      },
-      "041f118abb19876ac20832fa10197a55cd292b35c34d6b0b5f5ce53eea364ad7": {
-        "title": "Visual Studio正式支持MCP",
-        "link": "https://www.infoq.cn/article/9j40Jg1IjUjP1p4Bzmt7?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 28 Oct 2025 14:00:00 GMT",
-        "first_seen": "2025-10-28T08:29:06.565126"
-      },
       "4dce3986c5164bef17868d1e14eced9b16d7d0fef0a99d932b680acbe9996e96": {
         "title": "Plaud Note Pro 体验：不是所有录音笔，都能叫「AI 硬件」",
         "link": "http://www.geekpark.net/news/355681",
@@ -4369,8 +4279,8 @@
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-27T08:17:37.993776",
-    "Technology": "2025-11-27T08:17:38.032131",
-    "Finance": "2025-11-27T08:17:37.881322"
+    "AI": "2025-11-27T23:10:57.159843",
+    "Technology": "2025-11-27T23:10:57.198422",
+    "Finance": "2025-11-27T23:10:57.047839"
   }
 }
