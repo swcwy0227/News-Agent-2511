@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "398134901b4a5f850f9cb17d38e96de7d0156da32d3f0301dca17c5f2bc185da": {
-        "title": "黄仁勋台上最强GPU炸场，台下感叹“中国芯片爆发”，瞄准6G投资诺基亚",
-        "link": "https://www.qbitai.com/2025/10/346872.html",
-        "published_date": "Wed, 29 Oct 2025 06:41:00 GMT",
-        "first_seen": "2025-10-29T08:29:10.651159"
-      },
-      "2906812658df8c89a338675ae99ccc96b6abb48e476e346e12ba413673f1bb5a": {
-        "title": "14万！全球首款家务机器人开卖，OpenAI投资，萌脸翘臀会自己充电",
-        "link": "https://www.qbitai.com/2025/10/346842.html",
-        "published_date": "Wed, 29 Oct 2025 05:56:00 GMT",
-        "first_seen": "2025-10-29T08:29:10.651383"
-      },
       "c2063b9676db5abeb9e596d6dba36205d315b5ba1313802194b865924556b7ec": {
         "title": "StreetReaderAI: Towards making street view accessible via context-aware multimodal AI",
         "link": "https://research.google/blog/streetreaderai-towards-making-street-view-accessible-via-context-aware-multimodal-ai/",
@@ -387,84 +375,6 @@
       }
     },
     "Technology": {
-      "f151ef2a4118426d8d146b7d6a65d01ec04432b0045be01a84bfe524476670de": {
-        "title": "AI产品的邀请码「黑市」，谁在制造稀缺？",
-        "link": "https://www.tmtpost.com/7741130.html",
-        "published_date": "Wed, 29 Oct 2025 15:52:00 GMT",
-        "first_seen": "2025-10-29T08:29:59.129613"
-      },
-      "a6fb7adda1c3e2a26b72e53e911a5bfad22a9b638c3f39a7aac4515ebc7fdce8": {
-        "title": "Nokia Shares Jump Over 20% on Nvidia's $1 Billion Equity Investment and AI 6G Tie-up",
-        "link": "https://www.tmtpost.com/7742047.html",
-        "published_date": "Wed, 29 Oct 2025 15:42:00 GMT",
-        "first_seen": "2025-10-29T08:29:59.129666"
-      },
-      "b66154a04a1458150363922aaaa50d113aa90907cb6a1e8b6be031b1267ffecf": {
-        "title": "滨会生物：每年亏损超亿元，何时迎来盈利拐点尚未可知｜IPO观察",
-        "link": "https://www.tmtpost.com/7725049.html",
-        "published_date": "Wed, 29 Oct 2025 15:37:00 GMT",
-        "first_seen": "2025-10-29T08:29:59.129679"
-      },
-      "35303f0a76aa7a4efdde96dcc042cb3e2acb6c5354f124cd16aa7b876ac673ed": {
-        "title": "股东股权转让价格“倒挂”！魔视智能携10亿亏损赴港| IPO观察",
-        "link": "https://www.tmtpost.com/7741953.html",
-        "published_date": "Wed, 29 Oct 2025 15:32:00 GMT",
-        "first_seen": "2025-10-29T08:29:59.129692"
-      },
-      "f1a0090cf9702cd41c3f401498ff853b98b9bb0b201386db0ab55c29e2a00d69": {
-        "title": "10月29日A股分析：沪指涨0.7%站稳4000点，北证50指数大涨8.41%，两市合计成交22560.3亿元，资金流入最多的行业板块为光伏设备、电池",
-        "link": "https://www.tmtpost.com/7741963.html",
-        "published_date": "Wed, 29 Oct 2025 15:16:00 GMT",
-        "first_seen": "2025-10-29T08:29:59.129710"
-      },
-      "2103b15eaefb1fee728cb37e8f5a4af860fb871d330836627ab2d3ccc5e9bdd1": {
-        "title": "别急着让豆包们上链接",
-        "link": "https://www.tmtpost.com/7741689.html",
-        "published_date": "Wed, 29 Oct 2025 14:59:00 GMT",
-        "first_seen": "2025-10-29T08:29:59.129720"
-      },
-      "ae61166e643462190907cf07ded441de12e428218c52337366b2cf7864c369ca": {
-        "title": "非洲淘“铜”记：为新能源寻找全球支点",
-        "link": "https://www.tmtpost.com/7740378.html",
-        "published_date": "Wed, 29 Oct 2025 14:59:00 GMT",
-        "first_seen": "2025-10-29T08:29:59.129731"
-      },
-      "4c316dd25f522c54ef427e683a0b4111ff19364ed0488e0d255cee792e059401": {
-        "title": "零一万物高管换血，李开复梭哈To B",
-        "link": "https://www.tmtpost.com/7740646.html",
-        "published_date": "Wed, 29 Oct 2025 14:59:00 GMT",
-        "first_seen": "2025-10-29T08:29:59.129741"
-      },
-      "3c6961dbd0a6be0a4a4d05288427d9a0a434f317ee44d531f0f0cfab3f512451": {
-        "title": "网易游戏广州高管人事大地震，杭州少壮派要上位？",
-        "link": "https://www.tmtpost.com/7741121.html",
-        "published_date": "Wed, 29 Oct 2025 14:59:00 GMT",
-        "first_seen": "2025-10-29T08:29:59.129751"
-      },
-      "ccc6d73fd254e19427cbaf7be516aa9fec545dd7cb0b26ecc3b1832d57bdfdc9": {
-        "title": "Microsoft Market Value Tops $4 Trillion after OpenAI Deal to Give 27% Stake, Extends IP Rights to 2032",
-        "link": "https://www.tmtpost.com/7741950.html",
-        "published_date": "Wed, 29 Oct 2025 14:54:00 GMT",
-        "first_seen": "2025-10-29T08:29:10.707895"
-      },
-      "dc2c212738bd55b2b56d66ae63b0fa1098b05434dcdd661ef37cd06b8fdaecd8": {
-        "title": "百万倍算力增长的背后，AIDC如何建设才能“跟上需求”？",
-        "link": "https://www.tmtpost.com/7740951.html",
-        "published_date": "Wed, 29 Oct 2025 13:21:00 GMT",
-        "first_seen": "2025-10-29T08:29:10.708472"
-      },
-      "e521ab2efc5e9842486e2367f37afc403af475198b7809e2438c65a5461d4765": {
-        "title": "或许一生只去一次就够了：土耳其十天自驾小记",
-        "link": "https://sspai.com/post/102208",
-        "published_date": "Wed, 29 Oct 2025 15:11:00 GMT",
-        "first_seen": "2025-10-29T08:29:10.708933"
-      },
-      "a2027dab6f747ee98750dbefc6244d70621ddf76037438373228a048d85138ca": {
-        "title": "英伟达曝超级 AI 芯片 Vera Rubin，黄仁勋要创造 AI 的「登月时刻」",
-        "link": "http://www.geekpark.net/news/355713",
-        "published_date": "Wed, 29 Oct 2025 14:30:00 GMT",
-        "first_seen": "2025-10-29T08:29:59.129646"
-      },
       "5dff7326196a7b4df59c69aad6d1753f5f4f246dc9bef3f94c359801c1db06d6": {
         "title": "对话星尘智能创始人来杰：绳驱技术破局具身智能，以“专家数字分身”打开商业化新局｜AI Founder 请回答 | 巴伦精选",
         "link": "https://www.tmtpost.com/7742671.html",
@@ -3919,8 +3829,8 @@
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-28T08:16:55.179617",
-    "Technology": "2025-11-28T08:16:55.217409",
-    "Finance": "2025-11-28T08:16:55.067061"
+    "AI": "2025-11-28T23:10:53.396508",
+    "Technology": "2025-11-28T23:10:53.435870",
+    "Finance": "2025-11-28T23:10:53.281312"
   }
 }
