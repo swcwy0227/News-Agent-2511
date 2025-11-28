@@ -1,24 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "caf25ff6d2cc3082ae7fcc5b69aff09d58497c123ec0e23033997491ad56c0c9": {
-        "title": "OpenAI公开未来路线图！具体到28年3月AI研究员将完全自主，奥特曼承认“关于GPT-4o我们搞砸了”",
-        "link": "https://www.qbitai.com/2025/10/346821.html",
-        "published_date": "Wed, 29 Oct 2025 04:09:00 GMT",
-        "first_seen": "2025-10-29T05:21:20.413393"
-      },
-      "06d263b84330fd3277cb84ea21dfd45510b8a2d9face4fc12af3fcfccd6a47b3": {
-        "title": "高通新款云端芯片公开！借推理抢英伟达蛋糕，市值一夜暴涨197.4亿美元",
-        "link": "https://www.qbitai.com/2025/10/346799.html",
-        "published_date": "Wed, 29 Oct 2025 04:01:00 GMT",
-        "first_seen": "2025-10-29T05:21:20.413598"
-      },
-      "3509a3583e281a2e1c8bbb635ac0e4fee950ad2d99de94a7433dbde1224dbd31": {
-        "title": "剪映前AI产品负责人创业多模态Agent，做懂上下文的007乙方，成立半月融资数百万美元",
-        "link": "https://www.qbitai.com/2025/10/346757.html",
-        "published_date": "Wed, 29 Oct 2025 03:49:00 GMT",
-        "first_seen": "2025-10-29T05:21:20.413857"
-      },
       "398134901b4a5f850f9cb17d38e96de7d0156da32d3f0301dca17c5f2bc185da": {
         "title": "黄仁勋台上最强GPU炸场，台下感叹“中国芯片爆发”，瞄准6G投资诺基亚",
         "link": "https://www.qbitai.com/2025/10/346872.html",
@@ -405,192 +387,6 @@
       }
     },
     "Technology": {
-      "617fa49a1184d4f3af59d88bd3f70bd6bb52af3da7dd3a8afcd16989e8d93ce5": {
-        "title": "Meta 发布 Docusaurus 3.9，新增 AI 搜索功能",
-        "link": "https://www.infoq.cn/article/WW1brBlWpe9VPikagDt0?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 29 Oct 2025 13:00:00 GMT",
-        "first_seen": "2025-10-29T05:22:08.830708"
-      },
-      "f1668b9775da0d7b857d467a630be40214a65b49ee06423bb37b91df6deed727": {
-        "title": "亚马逊云科技推出EC2容量管理器，实现集中式跨账户容量优化",
-        "link": "https://www.infoq.cn/article/WhRl2cJktHCN5wrxAcvg?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 29 Oct 2025 12:00:00 GMT",
-        "first_seen": "2025-10-29T05:22:08.830723"
-      },
-      "d5a91287002f35fd21a76bd8cb8dabeec44689fbd9fa3cf13eed15041d2d66b2": {
-        "title": "谷歌云KMS推出后量子密钥管理支持，应对“现在收集，以后解密”威胁",
-        "link": "https://www.infoq.cn/article/5hQ0UJ9MoPvfNYUhtBzv?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 29 Oct 2025 11:00:00 GMT",
-        "first_seen": "2025-10-29T05:22:08.830802"
-      },
-      "3148650a7ea3cd7f3d4714069f2a3165fe2fdef9ee739755e13aad17eb25c9f6": {
-        "title": "Airbnb的Mussel V2：下一代的键值存储，以统一流和批处理",
-        "link": "https://www.infoq.cn/article/ZStUYx6EQvzLGq0jzzD3?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 29 Oct 2025 10:36:00 GMT",
-        "first_seen": "2025-10-29T05:22:08.830812"
-      },
-      "7ac24b591d29741fb4108ee4c373d2d56c54ca35fc3215771d785279d629c550": {
-        "title": "硅谷大佬带头弃用 OpenAI、“倒戈”Kimi K2！直呼“太便宜了”，白宫首位 AI 主管也劝不住",
-        "link": "https://www.infoq.cn/article/JN27flsIOpDNcsffvYtu?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 29 Oct 2025 09:51:00 GMT",
-        "first_seen": "2025-10-29T05:21:20.467352"
-      },
-      "ef64c23eec3e09264644ce5deb06c25e366e1cdba77a3b0a68c9ed5548649da5": {
-        "title": "GPT-5.1曝光挽差评？救场背后，OpenAI 员工痛批Meta系的人正在“搞垮”公司！",
-        "link": "https://www.infoq.cn/article/sDRtpcKsg4MSIRXT00aP?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 29 Oct 2025 09:35:00 GMT",
-        "first_seen": "2025-10-29T05:21:20.467800"
-      },
-      "450c185233ec0db79523811e4ba26a90f9675b74f743e491ecec25882cb9518c": {
-        "title": "JUnit 6.0.0发布，带来Java 17基线、Cancellation API和Kotlin suspend支持",
-        "link": "https://www.infoq.cn/article/aLxZfpDKqZh1ClGuBzzB?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 29 Oct 2025 09:29:00 GMT",
-        "first_seen": "2025-10-29T05:22:08.830741"
-      },
-      "a5bc228d38fe77790ea8ed355fc5fa309048cb31caaebf2eb5507598190e227d": {
-        "title": "黄仁勋凌晨炸场：6G、量子计算、物理AI、机器人、自动驾驶全来了！AI芯片订单已达3.5万亿｜2025GTC最全指南",
-        "link": "https://www.infoq.cn/article/FDc37HIdrfyWGv3UqXVA?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 29 Oct 2025 08:57:00 GMT",
-        "first_seen": "2025-10-29T05:22:08.830755"
-      },
-      "13350431d0bec79dcbb1e9da4a41a06c1e6fa963a50932d377a90620bef1af2f": {
-        "title": "从电网弃子到绿电先锋：蒙西电网的二十年电网破壁战",
-        "link": "https://www.tmtpost.com/7741384.html",
-        "published_date": "Wed, 29 Oct 2025 12:50:00 GMT",
-        "first_seen": "2025-10-29T05:21:20.469689"
-      },
-      "40d2640663df817eb61e2c1662e73a94aeeb8412d425872950b79272ad585e07": {
-        "title": "昨夜，阳光电源如何凭一己之力震撼了整个行业？",
-        "link": "https://www.tmtpost.com/7741559.html",
-        "published_date": "Wed, 29 Oct 2025 12:50:00 GMT",
-        "first_seen": "2025-10-29T05:21:20.470114"
-      },
-      "a314e18b25260de4cf82a03e79809712ab3d7eee19d037cbd9b27040d17bbd5d": {
-        "title": "白银暴涨80%，扼住了新能源发展的“咽喉”？",
-        "link": "https://www.tmtpost.com/7741576.html",
-        "published_date": "Wed, 29 Oct 2025 12:50:00 GMT",
-        "first_seen": "2025-10-29T05:21:20.470610"
-      },
-      "345ab4b03d5c9cc13b41dea1f2a2f83cb3d00147ce48e498813faf373ee63441": {
-        "title": "电商的西北战事",
-        "link": "https://www.tmtpost.com/7741240.html",
-        "published_date": "Wed, 29 Oct 2025 12:50:00 GMT",
-        "first_seen": "2025-10-29T05:21:20.470944"
-      },
-      "dbd08ab07c388dc8eb4ac89aa9654da19ffc8be0598501ff8f4a67653e48417e": {
-        "title": "英伟达“联姻”Palantir，黄仁勋离“全栈解决方案提供商”更近一步？| 企服国际观察",
-        "link": "https://www.tmtpost.com/7741821.html",
-        "published_date": "Wed, 29 Oct 2025 12:32:00 GMT",
-        "first_seen": "2025-10-29T05:21:20.472021"
-      },
-      "ca84f85943028907b6ce11145febdad55f2bf3a9f31e79c72d54e2dc81588034": {
-        "title": "长森药业B+轮融资数亿元，加速推进核心管线临床研究与全球化布局 | 融资首发",
-        "link": "https://www.tmtpost.com/7741762.html",
-        "published_date": "Wed, 29 Oct 2025 12:08:00 GMT",
-        "first_seen": "2025-10-29T05:21:20.472885"
-      },
-      "1ee5b19c67755e39a35951a5724cf3febb2361a4b6ccd48eebb894eafe1f59a7": {
-        "title": "3亿脱发人群，撑不起一个雍禾医疗？ | 巴伦精选",
-        "link": "https://www.tmtpost.com/7741829.html",
-        "published_date": "Wed, 29 Oct 2025 12:05:00 GMT",
-        "first_seen": "2025-10-29T05:21:20.473568"
-      },
-      "34c3d6adfa8a149b5b4d0924fc0dd05da88f6c6dbb501648ba63712a9af4e469": {
-        "title": "咖啡豆价格创历史新高，云南咖啡豆的机遇要来了吗？",
-        "link": "https://www.tmtpost.com/7741825.html",
-        "published_date": "Wed, 29 Oct 2025 12:04:00 GMT",
-        "first_seen": "2025-10-29T05:21:20.474250"
-      },
-      "ad3d087238baaf82df23105e43a9226122f0b2b0c296ca61e5e2d498d798e712": {
-        "title": "张一鸣死磕游戏，字节海外再出平台",
-        "link": "https://www.tmtpost.com/7741297.html",
-        "published_date": "Wed, 29 Oct 2025 11:33:00 GMT",
-        "first_seen": "2025-10-29T05:22:08.830766"
-      },
-      "725d9d57fca33e49b615b6825357ba9661340058233c93990044cf7bb5c0892a": {
-        "title": "江西生物IPO：上半年收入仅约1亿元，成于大单品，忧于大单品？",
-        "link": "https://www.tmtpost.com/7741278.html",
-        "published_date": "Wed, 29 Oct 2025 11:33:00 GMT",
-        "first_seen": "2025-10-29T05:21:20.475865"
-      },
-      "f84f35a2441a00f1a883c7dbc477f648f30f3898dc8161efa29c7e0d603cc1ff": {
-        "title": "科创板第五套标准重启首家！禾元生物携“稻米造血”技术成功上市 | Profolio动态",
-        "link": "https://www.tmtpost.com/7741787.html",
-        "published_date": "Wed, 29 Oct 2025 11:29:00 GMT",
-        "first_seen": "2025-10-29T05:22:08.830780"
-      },
-      "078e79b9fbf618467e1058bf0c114bc64e2be7778d542d6321e0a508fe7c594a": {
-        "title": "第五届数字经济投融资机构四川行在达州举行，18家企业释放26亿元融资需求",
-        "link": "https://www.tmtpost.com/7741725.html",
-        "published_date": "Wed, 29 Oct 2025 10:48:00 GMT",
-        "first_seen": "2025-10-29T05:21:20.478106"
-      },
-      "d0cebd6caeb4702f43940db2ce26e1e755d70acb4f902687d0c99450fecdf44d": {
-        "title": "Nvidia CEO Shrugs Off AI Bubble Concerns as the Company Ramps Up Global Partnerships",
-        "link": "https://www.tmtpost.com/7741682.html",
-        "published_date": "Wed, 29 Oct 2025 10:19:00 GMT",
-        "first_seen": "2025-10-29T05:21:20.480192"
-      },
-      "a053fefe8da0033fa9c87e11626fe2b39d0a18641c575a400ee542341ccbd192": {
-        "title": "2025 Nobel Laureate Looks to AI to Make Chemistry 'Think for Itself' in First Lecture Since Nobel Win",
-        "link": "https://www.tmtpost.com/7741625.html",
-        "published_date": "Wed, 29 Oct 2025 09:54:00 GMT",
-        "first_seen": "2025-10-29T05:21:20.483037"
-      },
-      "8cefab048580bbcf44c3b1894e46a8fd9c9b6eb9b6ee440c453c65a29bff1e14": {
-        "title": "岚图赴港递表，盈利「含妈量」有点高",
-        "link": "https://www.tmtpost.com/7741307.html",
-        "published_date": "Wed, 29 Oct 2025 09:49:00 GMT",
-        "first_seen": "2025-10-29T05:21:20.484068"
-      },
-      "d403197fbf8d2ae3f98428f1c8677493974a3beb30651b5f85a005a7746f0fb1": {
-        "title": "渤海银行加速“减负”",
-        "link": "https://www.tmtpost.com/7741368.html",
-        "published_date": "Wed, 29 Oct 2025 09:20:00 GMT",
-        "first_seen": "2025-10-29T05:21:20.484807"
-      },
-      "5b227a099e5cb6c5e21e01a7968bbd05811bab1a0341bb7e8cab588994258bce": {
-        "title": "2025新晋诺奖得主亚吉首发AI宣言：科学自我进化时代到来 ｜巴伦独家",
-        "link": "https://www.tmtpost.com/7741568.html",
-        "published_date": "Wed, 29 Oct 2025 09:20:00 GMT",
-        "first_seen": "2025-10-29T05:21:20.486192"
-      },
-      "49c056b607c792ed99cfe811ec58d3ffca4919883d081f0013ca9e8bdd0df2c5": {
-        "title": "短剧婆婆进化论",
-        "link": "https://www.tmtpost.com/7741386.html",
-        "published_date": "Wed, 29 Oct 2025 09:15:00 GMT",
-        "first_seen": "2025-10-29T05:21:20.486753"
-      },
-      "27710072ffbee696d7bb9bb754762625fc99ee66c36b74a194b34312c19e11fa": {
-        "title": "黄仁勋最新演讲称将大举投资AI基础设施确保美国领先地位，英伟达股价再创新高",
-        "link": "https://www.tmtpost.com/7741562.html",
-        "published_date": "Wed, 29 Oct 2025 09:15:00 GMT",
-        "first_seen": "2025-10-29T05:22:08.830791"
-      },
-      "e8c2f554fa2679f4d5b01c52f442a0f2ab547212e1021b111810fa6505f70b08": {
-        "title": "零基础 Vibe Coding 到上架，我做了一款 Apple Watch「带壳截图」",
-        "link": "https://sspai.com/post/103293",
-        "published_date": "Wed, 29 Oct 2025 11:03:00 GMT",
-        "first_seen": "2025-10-29T05:21:20.490224"
-      },
-      "7ab16225a917d383a6b30aaefa011d9469da20743cfaf84d0d977a835c7178cb": {
-        "title": "派早报：Nothing 确认将引入第三方预装应用和锁屏广告等",
-        "link": "https://sspai.com/post/103398",
-        "published_date": "Wed, 29 Oct 2025 07:58:00 GMT",
-        "first_seen": "2025-10-29T05:21:20.491726"
-      },
-      "d412369ade62f2591b5827dcc0f1ff2f4777e818e12b4c3681f811f712685922": {
-        "title": "蔬菜越丑，价格越贵，是什么催生了高价网红菜？",
-        "link": "http://www.huxiu.com/article/4797851.html?f=wangzhan",
-        "published_date": "Wed, 29 Oct 2025 09:46:00 GMT",
-        "first_seen": "2025-10-29T05:21:20.493029"
-      },
-      "3c857658f14420502baa1557872049aa59a29a7668be6b672f445d9975688b11": {
-        "title": "OpenAI完成重组，总集团估值5300亿美元；英伟达发布全新超级AI芯片；「鸭科夫」爆火，B站股价创新高｜极客早知道",
-        "link": "http://www.geekpark.net/news/355676",
-        "published_date": "Wed, 29 Oct 2025 08:09:00 GMT",
-        "first_seen": "2025-10-29T05:22:08.830677"
-      },
       "f151ef2a4118426d8d146b7d6a65d01ec04432b0045be01a84bfe524476670de": {
         "title": "AI产品的邀请码「黑市」，谁在制造稀缺？",
         "link": "https://www.tmtpost.com/7741130.html",
@@ -4123,8 +3919,8 @@
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-28T05:13:13.555311",
-    "Technology": "2025-11-28T05:13:13.589646",
-    "Finance": "2025-11-28T05:13:13.454402"
+    "AI": "2025-11-28T08:16:55.179617",
+    "Technology": "2025-11-28T08:16:55.217409",
+    "Finance": "2025-11-28T08:16:55.067061"
   }
 }
