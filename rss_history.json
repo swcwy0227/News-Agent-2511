@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "eb26ba04240c363e8e4b88d21a1f0b265be0c139badee9106848eb5b191ccc1a": {
-        "title": "有人说它能做“具身智能时代的苹果”，这家公司凭什么？",
-        "link": "https://www.qbitai.com/2025/10/347301.html",
-        "published_date": "Thu, 30 Oct 2025 06:27:00 GMT",
-        "first_seen": "2025-10-30T08:27:39.462444"
-      },
       "4e8c547d41843266629aa28d27d8ba9fc5b9e2d7c046ca215bd890f39bf39727": {
         "title": "AI百科全书SciencePedia：当马斯克Grokipedia遭遇滑铁卢，有个中国团队默默把活儿干了",
         "link": "https://www.qbitai.com/2025/10/347572.html",
@@ -321,54 +315,6 @@
       }
     },
     "Technology": {
-      "52e29f6fb123b398cc8bebb21f49107ba918032133589eb280b7cc3ee8079b01": {
-        "title": "China Unveils Outcomes of China-U.S. Economic, Trade Talks in Kuala Lumpur",
-        "link": "https://www.tmtpost.com/7743663.html",
-        "published_date": "Thu, 30 Oct 2025 15:18:00 GMT",
-        "first_seen": "2025-10-30T08:27:39.514942"
-      },
-      "c0a60f40494056cc2c06aedbcb5193695e8ba3505f4890ba995c741f2904a3f0": {
-        "title": "Nvidia Unveils Hyperion 10, Marking a Shift from Chip Supplier to Ecosystem Builder",
-        "link": "https://www.tmtpost.com/7743616.html",
-        "published_date": "Thu, 30 Oct 2025 14:53:00 GMT",
-        "first_seen": "2025-10-30T08:27:39.515300"
-      },
-      "064886fd91f64ee8202fd450afbb565768242597553b8bd61945af41bb54659b": {
-        "title": "英伟达市值破5万亿美元：黄仁勋要做的不只是AI，还要接管方向盘",
-        "link": "https://www.tmtpost.com/7743597.html",
-        "published_date": "Thu, 30 Oct 2025 14:33:00 GMT",
-        "first_seen": "2025-10-30T08:27:39.515532"
-      },
-      "711596c7e79c95b64725f771bccc987128a0e239a1aad4d7b4a7885723adf9fa": {
-        "title": "经济学江湖里的 “冷门高手”卡莱斯基如何叫板三大门派？",
-        "link": "https://www.tmtpost.com/7743536.html",
-        "published_date": "Thu, 30 Oct 2025 13:44:00 GMT",
-        "first_seen": "2025-10-30T08:27:39.515757"
-      },
-      "86aef284190f5adf2d897770a87409242c7c93465f5cc06fec772f443ff87b44": {
-        "title": "为西贝出谋划策的华与华，到底什么水平？",
-        "link": "http://www.huxiu.com/article/4798328.html?f=wangzhan",
-        "published_date": "Thu, 30 Oct 2025 15:00:00 GMT",
-        "first_seen": "2025-10-30T08:27:39.516001"
-      },
-      "63c5672f106fbab4012955cf620cb05f96dc89b03dcccade130d124e38de410f": {
-        "title": "全线关停、破产清算，上海又一老牌烘焙退场",
-        "link": "http://www.huxiu.com/article/4798378.html?f=wangzhan",
-        "published_date": "Thu, 30 Oct 2025 12:50:00 GMT",
-        "first_seen": "2025-10-30T08:27:39.516280"
-      },
-      "4a305507ff8628e5ee30341eeb7ca0e24e7567b79a875eaeb31e41421b77a89f": {
-        "title": "App+1｜一个应用搞定多种笔记需求，零碎想法也有好去处：Re:card",
-        "link": "https://sspai.com/post/103082",
-        "published_date": "Thu, 30 Oct 2025 15:00:00 GMT",
-        "first_seen": "2025-10-30T08:27:39.516813"
-      },
-      "9ead2f5822124437fe2a90f515fda821f6aa4c0d87737169a469401337bb6679": {
-        "title": "00 后鸿蒙开发者支一郎：从校园需求出发，用代码搭建跨场景服务桥梁",
-        "link": "https://www.infoq.cn/article/1Su6kKzAuVQ03k8DZqkK?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 30 Oct 2025 12:04:00 GMT",
-        "first_seen": "2025-10-30T08:27:39.517298"
-      },
       "a715ee4cd2c1792b3d2dec715a9eee65c37ebcf946f9bd2e1532523e53a455df": {
         "title": "乐舒适冲刺“非洲消费品制造第一股”凭什么？",
         "link": "https://www.tmtpost.com/7744317.html",
@@ -3415,8 +3361,8 @@
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-29T08:14:47.947539",
-    "Technology": "2025-11-29T08:14:47.985310",
-    "Finance": "2025-11-29T08:14:47.837412"
+    "AI": "2025-11-29T23:10:43.515805",
+    "Technology": "2025-11-29T23:10:43.554184",
+    "Finance": "2025-11-29T23:10:43.405678"
   }
 }
