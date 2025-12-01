@@ -243,42 +243,6 @@
       }
     },
     "Technology": {
-      "133beab4f96bde35143945174b84515a5d08983fa67d9ecdb8f8027ee4243863": {
-        "title": "鹏辉能源暴增977%背后：储能战争的幸存者与颠覆者",
-        "link": "https://www.tmtpost.com/7745779.html",
-        "published_date": "Sat, 01 Nov 2025 16:12:00 GMT",
-        "first_seen": "2025-11-01T08:24:15.246222"
-      },
-      "d99bc03c17ef330bda68e26cfae06dbace537f1bab2107a24cc86234e93ac4c8": {
-        "title": "低空经济的风口，站满了想飞起来的创业者",
-        "link": "https://www.tmtpost.com/7746029.html",
-        "published_date": "Sat, 01 Nov 2025 15:53:00 GMT",
-        "first_seen": "2025-11-01T08:24:15.246387"
-      },
-      "515c08a46c97fc3e2840091d16a6a11dbde35bf496446e4ddcb7839ed1e24963": {
-        "title": "「一页纸」讲透美股公司之：IonQ，离子阱龙头",
-        "link": "https://www.tmtpost.com/7745882.html",
-        "published_date": "Sat, 01 Nov 2025 15:53:00 GMT",
-        "first_seen": "2025-11-01T08:24:15.246550"
-      },
-      "8d39351dc0aed34683e475d25230026f3d0322ffa0f7288267583fbc172f4c0b": {
-        "title": "一文深度解读星巴克最新财报",
-        "link": "https://www.tmtpost.com/7743945.html",
-        "published_date": "Sat, 01 Nov 2025 14:57:00 GMT",
-        "first_seen": "2025-11-01T08:24:15.246678"
-      },
-      "2795e88f8bd3da3dfe99a68583428a6f9a28732ff0f9c2e00840352fe7380dd6": {
-        "title": "就连OpenAI也要IPO了",
-        "link": "https://www.tmtpost.com/7745708.html",
-        "published_date": "Sat, 01 Nov 2025 14:57:00 GMT",
-        "first_seen": "2025-11-01T08:24:15.246832"
-      },
-      "f0dda0ced10aba9f76b8fd803ec0e4c755fa10243ba1eb42c86eff5e40b2ed2f": {
-        "title": "当 ChatGPT 要开始「搞黄色」，我都不敢想......",
-        "link": "http://www.geekpark.net/news/355863",
-        "published_date": "Sat, 01 Nov 2025 14:45:00 GMT",
-        "first_seen": "2025-11-01T08:24:15.247106"
-      },
       "67302d2d0299b6ae2cb826e690a2ca07419610aa0201a56756bf09b5e387b2ef": {
         "title": "Ilya’s 10-Hour Deposition in Musk v. OpenAI Lawsuit Reveals Explosive New Details",
         "link": "https://www.tmtpost.com/7746178.html",
@@ -2647,8 +2611,8 @@
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-12-01T08:18:58.649578",
-    "Technology": "2025-12-01T08:18:58.690370",
-    "Finance": "2025-12-01T08:18:58.536712"
+    "AI": "2025-12-01T23:11:19.235368",
+    "Technology": "2025-12-01T23:11:19.275572",
+    "Finance": "2025-12-01T23:11:19.124406"
   }
 }
