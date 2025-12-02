@@ -243,54 +243,6 @@
       }
     },
     "Technology": {
-      "8671d824e5ccb77aa3a8e201a0d82eff48b73691dc121874dd0bfe69bde0808e": {
-        "title": "不卷性能卷配置：极氪的中场打法与利润焦虑",
-        "link": "https://www.tmtpost.com/7746322.html",
-        "published_date": "Sun, 02 Nov 2025 14:34:00 GMT",
-        "first_seen": "2025-11-02T08:23:53.417621"
-      },
-      "dbda9a0bff752c98b09a8b507dec6eb26ace628e030de8a9d4b3750991dd59b6": {
-        "title": "3季报大盘点：反内卷之下，光伏行业真的触底反弹了吗？",
-        "link": "https://www.tmtpost.com/7746309.html",
-        "published_date": "Sun, 02 Nov 2025 14:19:00 GMT",
-        "first_seen": "2025-11-02T08:23:53.417790"
-      },
-      "a149675e875a52f96abcd1c018aa287a2d6ef0f397f66e1c3efb7d19b026be55": {
-        "title": "越赚钱、越裁员，亚马逊的下一场豪赌",
-        "link": "https://www.tmtpost.com/7746298.html",
-        "published_date": "Sun, 02 Nov 2025 14:09:00 GMT",
-        "first_seen": "2025-11-02T08:23:53.417979"
-      },
-      "21b71b0531e5b192f8a3ef0e44a0fa569fec721d7215888ae0ce097dce0df583": {
-        "title": "炸裂与亏损交织的三季报，透露出储能行业很多“小秘密”……",
-        "link": "https://www.tmtpost.com/7746262.html",
-        "published_date": "Sun, 02 Nov 2025 14:09:00 GMT",
-        "first_seen": "2025-11-02T08:23:53.418169"
-      },
-      "89fb5c8d7d8d15acd32379fa987cfaaeb057818ff7c12a6fa8b8c3dcba45aa50": {
-        "title": "AWS增速被微软甩开一倍，亚马逊急了：1.4万人成AI转型祭品？",
-        "link": "https://www.tmtpost.com/7746259.html",
-        "published_date": "Sun, 02 Nov 2025 14:09:00 GMT",
-        "first_seen": "2025-11-02T08:23:53.418403"
-      },
-      "c1226eff2f438238b9ecd2c527bce1786e6dac631d0b90d1f762c0ebdc58d22a": {
-        "title": "史上最猛AI财报，市值却蒸发2000亿：微软到底哪里不对劲？",
-        "link": "https://www.tmtpost.com/7746257.html",
-        "published_date": "Sun, 02 Nov 2025 14:09:00 GMT",
-        "first_seen": "2025-11-02T08:23:53.418694"
-      },
-      "7741d8419ad258608ad3b9ed6ea78c67851cc205d4ff2eb446a4c06f139ee100": {
-        "title": "“显示面板龙头”和辉光电再闯港股，不到6年累计净亏损上百亿",
-        "link": "https://www.tmtpost.com/7746184.html",
-        "published_date": "Sun, 02 Nov 2025 14:09:00 GMT",
-        "first_seen": "2025-11-02T08:23:53.419037"
-      },
-      "05c7eb5eba1c55e4a65077bfcc24766380042b40ccc7e4a6a2e35cd8bf473974": {
-        "title": "把“锅气”变成算法：锅圈小炒与中餐到家的新解法",
-        "link": "https://www.tmtpost.com/7746294.html",
-        "published_date": "Sun, 02 Nov 2025 13:22:00 GMT",
-        "first_seen": "2025-11-02T08:23:53.419466"
-      },
       "f41b40b65b76113bad5c39478714626f42940cf12521b3a282c706e51d6d854c": {
         "title": "连亏五个季度后，光伏板块终于盈利了",
         "link": "https://www.tmtpost.com/7746476.html",
@@ -2443,8 +2395,8 @@
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-12-02T08:17:53.126297",
-    "Technology": "2025-12-02T08:17:53.165227",
-    "Finance": "2025-12-02T08:17:53.012819"
+    "AI": "2025-12-02T23:10:47.946572",
+    "Technology": "2025-12-02T23:10:47.984379",
+    "Finance": "2025-12-02T23:10:47.836819"
   }
 }
