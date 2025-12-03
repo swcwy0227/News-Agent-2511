@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "72403e604d1496ef34a2ee3943f3c5931a2367ee74f822b0465bcc946c8dd5cb": {
-        "title": "奥特曼纳德拉同台回应一切：合作细节、OpenAI未来路线曝光",
-        "link": "https://www.qbitai.com/2025/11/348079.html",
-        "published_date": "Sun, 02 Nov 2025 10:23:00 GMT",
-        "first_seen": "2025-11-02T23:18:28.687543"
-      },
       "81539552da1e1067d4c1d2c4601e5dde2a57f977c905831944ef2042980d52b6": {
         "title": "美团新独立APP，点不了菜只能点AI",
         "link": "https://www.qbitai.com/2025/11/348222.html",
@@ -243,66 +237,6 @@
       }
     },
     "Technology": {
-      "f41b40b65b76113bad5c39478714626f42940cf12521b3a282c706e51d6d854c": {
-        "title": "连亏五个季度后，光伏板块终于盈利了",
-        "link": "https://www.tmtpost.com/7746476.html",
-        "published_date": "Sun, 02 Nov 2025 22:49:00 GMT",
-        "first_seen": "2025-11-02T23:18:28.742974"
-      },
-      "c6a8a1f8341d9706046e12b2c2119d5783c85eb3426057da407014194d433e0a": {
-        "title": "被挤压的中产：全球中产阶级的困境与焦虑",
-        "link": "https://www.tmtpost.com/7745822.html",
-        "published_date": "Sun, 02 Nov 2025 17:49:00 GMT",
-        "first_seen": "2025-11-02T23:18:28.743126"
-      },
-      "63a4625822e6c5e84ee8080b365fc1e1ea0ce1d4b3eb60c8de48bca4e1db380c": {
-        "title": "购置税新规将近，新势力们抢占窗口期",
-        "link": "https://www.tmtpost.com/7746083.html",
-        "published_date": "Sun, 02 Nov 2025 17:48:00 GMT",
-        "first_seen": "2025-11-02T23:18:28.743263"
-      },
-      "30858dae5d5dc81334aa383b264180041eca0ef8da6ab3d85afdaf2fe403d89c": {
-        "title": "索赔近43亿，前CTO把寒武纪告了",
-        "link": "https://www.tmtpost.com/7746141.html",
-        "published_date": "Sun, 02 Nov 2025 17:48:00 GMT",
-        "first_seen": "2025-11-02T23:18:28.743423"
-      },
-      "3d2214f8ccf71b2cdff2eba6b5fbc48dab7eefade246478ef7a4b9a6c738899e": {
-        "title": "梁军状告寒武纪天价索赔始末：如何从理想共同体，走到42亿控诉？",
-        "link": "https://www.tmtpost.com/7746310.html",
-        "published_date": "Sun, 02 Nov 2025 17:47:00 GMT",
-        "first_seen": "2025-11-02T23:18:28.743628"
-      },
-      "25b45a46e33b59cc906d78421c87206ac91260e0ed48649dbff80fff494a1010": {
-        "title": "5300亿！钟睒睒第四次成为中国首富，深扒背后的商业模式",
-        "link": "https://www.tmtpost.com/7746331.html",
-        "published_date": "Sun, 02 Nov 2025 17:46:00 GMT",
-        "first_seen": "2025-11-02T23:18:28.743895"
-      },
-      "1da886cf6c132fbb9e573fc2a8d44c02b844724556b699aa8540425830941ec1": {
-        "title": "领导1v1面谈的5个问题，究竟在谈什么？",
-        "link": "https://www.tmtpost.com/7746313.html",
-        "published_date": "Sun, 02 Nov 2025 17:45:00 GMT",
-        "first_seen": "2025-11-02T23:18:28.744166"
-      },
-      "0b6bf3b21a10f4c13b037989f70cdddf0c42405b32462f94fbd088fbff0cd9fb": {
-        "title": "苏超的世界：教你先爱上足球，再爱这座城 | 情绪消费观察",
-        "link": "https://www.tmtpost.com/7746372.html",
-        "published_date": "Sun, 02 Nov 2025 17:25:00 GMT",
-        "first_seen": "2025-11-02T23:18:28.744511"
-      },
-      "4924e180ac6cfded5dab95da4efd7b397ad975f8a820aaa62f9e208a0df290a7": {
-        "title": "10年经验，不敌 AI 10秒？对话5位顶尖架构师：AI不会替代我们，但会淘汰旧的我们",
-        "link": "https://www.infoq.cn/article/AH5TbSFIlgwi4Q01dVCE?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 02 Nov 2025 18:00:00 GMT",
-        "first_seen": "2025-11-02T23:18:28.745080"
-      },
-      "298d6251bd438b05dca733f3f3be2df87c22206d0eac09b93d942893d71c8ecf": {
-        "title": "Mac 选购指南 2025 双十一版",
-        "link": "https://sspai.com/post/85735",
-        "published_date": "Sun, 02 Nov 2025 15:32:00 GMT",
-        "first_seen": "2025-11-02T23:18:28.745489"
-      },
       "5bffc96c5f0639acb3a436ef151621741ad0875c8c4e0821b40a5fb6d55980a5": {
         "title": "亚马逊云科技发布EBS卷克隆功能，用于即时、崩溃一致的数据复制",
         "link": "https://www.infoq.cn/article/gtFe4SyqLVcIuokljqst?utm_source=rss&utm_medium=article",
@@ -2395,8 +2329,8 @@
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-12-02T23:10:47.946572",
-    "Technology": "2025-12-02T23:10:47.984379",
-    "Finance": "2025-12-02T23:10:47.836819"
+    "AI": "2025-12-03T05:12:40.423904",
+    "Technology": "2025-12-03T05:12:40.462733",
+    "Finance": "2025-12-03T05:12:40.313007"
   }
 }
