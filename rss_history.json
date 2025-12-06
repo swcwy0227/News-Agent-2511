@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "3e368e5a47641eccc104b16a5703d73725231d2e6e9a3d12e1d9c6730fa6be29": {
-        "title": "熬夜后走神不是你的错，而是自救机制在“洗脑” | Nature",
-        "link": "https://www.qbitai.com/2025/11/349379.html",
-        "published_date": "Thu, 06 Nov 2025 07:21:00 GMT",
-        "first_seen": "2025-11-06T08:29:31.106855"
-      },
       "39de9df3273ca760664c7fe9e7f616dc59f36c89e53c7176ba15a9286a778061": {
         "title": "DS-STAR: A state-of-the-art versatile data science agent",
         "link": "https://research.google/blog/ds-star-a-state-of-the-art-versatile-data-science-agent/",
@@ -75,84 +69,6 @@
       }
     },
     "Technology": {
-      "223a968f1459b32eada98d4d167e33b2dbe52bff56d338bbd3b659861eb7cfba": {
-        "title": "华为、联想追随苹果入局，但超薄手机只是“偏科生”的小众生意",
-        "link": "https://www.tmtpost.com/7751963.html",
-        "published_date": "Thu, 06 Nov 2025 16:21:00 GMT",
-        "first_seen": "2025-11-06T08:30:19.566424"
-      },
-      "3909017047bc4a4742e71afde56fb715510202e1a644dde5c5bfe5a00ec39a1e": {
-        "title": "从星巴克中国股权出售说起",
-        "link": "https://www.tmtpost.com/7751685.html",
-        "published_date": "Thu, 06 Nov 2025 16:20:00 GMT",
-        "first_seen": "2025-11-06T08:30:19.566435"
-      },
-      "64bfc38837613bc039deed0a4df0f7b05ba6ad37361e0c07c96eaa25372e24be": {
-        "title": "世界尽头与冷酷仙境，谁押中了「国产GPU四小龙」？",
-        "link": "https://www.tmtpost.com/7751564.html",
-        "published_date": "Thu, 06 Nov 2025 16:00:00 GMT",
-        "first_seen": "2025-11-06T08:30:19.566446"
-      },
-      "935b5ee9f5d970b7e90c10c9a44cf5214c38bb218500b73620ce71d051234286": {
-        "title": "从数据库之王到算力新枢纽，Oracle能否“涅槃”？丨企服国际观察",
-        "link": "https://www.tmtpost.com/7751699.html",
-        "published_date": "Thu, 06 Nov 2025 15:59:00 GMT",
-        "first_seen": "2025-11-06T08:30:19.566458"
-      },
-      "cfb1dd50f9338b3cfe49fc280f272588867b4a9b055d23523fc96ff7fc7de59a": {
-        "title": "Seres Makes Hong Kong Debut, Sets Sights on Global Expansion Amid Mixed Q3 Results",
-        "link": "https://www.tmtpost.com/7751691.html",
-        "published_date": "Thu, 06 Nov 2025 14:49:00 GMT",
-        "first_seen": "2025-11-06T08:30:19.566472"
-      },
-      "3dd516e313110a784df04a681632f19f06f71acb33ac61dea579cb304d92f3a5": {
-        "title": "新大航海时代，什么样的认知能安放我们的灵魂？",
-        "link": "https://www.tmtpost.com/7751549.html",
-        "published_date": "Thu, 06 Nov 2025 14:17:00 GMT",
-        "first_seen": "2025-11-06T08:30:19.566482"
-      },
-      "63702709f022c0a8356fd992886d27b3f130325855ba68b84b45533233166876": {
-        "title": "插混价格触底，利润天花板重塑：吉利在打什么算盘？",
-        "link": "https://www.tmtpost.com/7751572.html",
-        "published_date": "Thu, 06 Nov 2025 13:54:00 GMT",
-        "first_seen": "2025-11-06T08:30:19.566493"
-      },
-      "44eadb2b884a9f07abaf7ae83a10339c341e37b023c2a078e4561024894293c4": {
-        "title": "跨越技术壁垒后，Robotaxi又将迎来新挑战？",
-        "link": "https://www.tmtpost.com/7751462.html",
-        "published_date": "Thu, 06 Nov 2025 13:28:00 GMT",
-        "first_seen": "2025-11-06T08:30:19.566373"
-      },
-      "ef31b962d050f81716dd645dbdd7f108960609a618ae3ec6a5da0e9d41e9dbaf": {
-        "title": "马斯克拿着0薪水，却要给自己开1万亿美元薪酬？",
-        "link": "http://www.huxiu.com/article/4801509.html?f=wangzhan",
-        "published_date": "Thu, 06 Nov 2025 15:09:00 GMT",
-        "first_seen": "2025-11-06T08:30:19.566504"
-      },
-      "dc93e32228ebeed2c54da38260bd6387625a853ca88934e8b351987d80e87025": {
-        "title": "为什么几毫米太空碎片就能让神舟20延迟返回？",
-        "link": "http://www.huxiu.com/article/4801213.html?f=wangzhan",
-        "published_date": "Thu, 06 Nov 2025 13:30:00 GMT",
-        "first_seen": "2025-11-06T08:29:31.186993"
-      },
-      "e02e95bc581d12d9ad176a75231191ed7e31b2f22c3bc7b2f78d7273f783d77f": {
-        "title": "从“探索”到“布道”，一个「鸿蒙领航者」的炼成记",
-        "link": "https://www.infoq.cn/article/27Q3D8PGVvJXA8F5jWKx?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 06 Nov 2025 15:08:00 GMT",
-        "first_seen": "2025-11-06T08:29:31.187550"
-      },
-      "9c2a035602f5192c783894bccb6b3033f3ffea122cb026463a1489ed9a8f3328": {
-        "title": "双十一鼠标怎么挑？（2025 版）",
-        "link": "https://sspai.com/post/99787",
-        "published_date": "Thu, 06 Nov 2025 15:01:00 GMT",
-        "first_seen": "2025-11-06T08:29:31.187996"
-      },
-      "2f6ceb95bcbece5abf4a82e2b8d0ede463d086434a0f2b726e72739e48d21518": {
-        "title": "Altman 怒喷 OpenAI 唱衰者；小鹏发布新一代人形机器人 IRON；苹果支付 10 亿美金，新 Siri 将引入谷歌 Gemini｜极客早知道",
-        "link": "http://www.geekpark.net/news/356010",
-        "published_date": "Thu, 06 Nov 2025 08:19:00 GMT",
-        "first_seen": "2025-11-06T08:30:19.566408"
-      },
       "15e5ce24bf21bb0295360b72d4c4a53e14fc394683eb1f69fcbb5c69bcadc473": {
         "title": "《长恨歌》之外，陕西旅游还能靠什么？｜IPO观察",
         "link": "https://www.tmtpost.com/7752703.html",
@@ -661,8 +577,8 @@
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-12-06T08:14:41.327642",
-    "Technology": "2025-12-06T08:14:41.365882",
-    "Finance": "2025-12-06T08:14:41.215169"
+    "AI": "2025-12-06T23:10:53.589014",
+    "Technology": "2025-12-06T23:10:53.628398",
+    "Finance": "2025-12-06T23:10:53.478826"
   }
 }
